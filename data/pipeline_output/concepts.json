@@ -1,0 +1,43 @@
+{
+  "Dharma": {
+    "id": "dharma",
+    "title": "Dharma",
+    "definition": "Religious duty; righteousness; cosmic law",
+    "synonyms": [
+      "duty",
+      "righteousness",
+      "law"
+    ],
+    "related_concepts": [
+      "Karma",
+      "Yoga"
+    ]
+  },
+  "Bhakti": {
+    "id": "bhakti",
+    "title": "Bhakti",
+    "definition": "Devotion; loving service to the Supreme Lord",
+    "synonyms": [
+      "devotion",
+      "love",
+      "service"
+    ],
+    "related_concepts": [
+      "Krishna",
+      "Love"
+    ]
+  },
+  "Yoga": {
+    "id": "yoga",
+    "title": "Yoga",
+    "definition": "Union; skill in action; spiritual discipline",
+    "synonyms": [
+      "union",
+      "discipline"
+    ],
+    "related_concepts": [
+      "Meditation",
+      "Action"
+    ]
+  }
+}

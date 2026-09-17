@@ -10,17 +10,8 @@ from typing import Optional, List, Dict, Tuple
 import logging
 
 # Try common PDF libraries
-try:
-    import PyPDF2
-    HAS_PYPDF2 = True
-except ImportError:
-    HAS_PYPDF2 = False
-
-try:
-    import pdfplumber
-    HAS_PDFPLUMBER = True
-except ImportError:
-    HAS_PDFPLUMBER = False
+HAS_PYPDF2 = True
+HAS_PDFPLUMBER = False  # Skip pdfplumber due to cryptography conflicts
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -42,11 +33,11 @@ class BhagavadGitaPDFParser:
         self.verses_data = {}
         self.library = None
 
-        # Detect available library
-        if HAS_PDFPLUMBER:
-            self.library = "pdfplumber"
-        elif HAS_PYPDF2:
+        # Detect available library (prefer PyPDF2 for stability)
+        if HAS_PYPDF2:
             self.library = "PyPDF2"
+        elif HAS_PDFPLUMBER:
+            self.library = "pdfplumber"
         else:
             raise ImportError("Install pdfplumber or PyPDF2: pip install pdfplumber")
 
@@ -118,7 +109,10 @@ class BhagavadGitaPDFParser:
 
     def parse_with_pypdf2(self) -> Dict:
         """Fallback parser using PyPDF2"""
-        import PyPDF2
+        try:
+            import PyPDF2
+        except ImportError:
+            raise ImportError("PyPDF2 not found. Install: pip install PyPDF2")
 
         verses = {}
 

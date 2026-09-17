@@ -1,0 +1,67 @@
+{
+  "BG 1.1": {
+    "reference": "BG 1.1",
+    "chapter": 1,
+    "verse": 1,
+    "sources": {
+      "pdf": "Dharma-kṣetre kuru-kṣetre / samaveta yuyutsavaḥ",
+      "translation": "On the holy field of Kurukṣetra, assembled together, eager to fight..."
+    },
+    "concepts": [
+      "Dharma",
+      "Yoga"
+    ]
+  },
+  "BG 1.2": {
+    "reference": "BG 1.2",
+    "chapter": 1,
+    "verse": 2,
+    "sources": {
+      "pdf": "Marjayante mahā-bhāgā / bhīṣmaṁ ca droṇam ca mādhavam",
+      "translation": "O Sañjaya, after my sons and the sons of Pandu assembled..."
+    },
+    "concepts": [
+      "Dharma",
+      "Yoga"
+    ]
+  },
+  "BG 2.47": {
+    "reference": "BG 2.47",
+    "chapter": 2,
+    "verse": 47,
+    "sources": {
+      "pdf": "Yogaḥ karmasu kauśalam",
+      "translation": "Yoga is skill in action."
+    },
+    "concepts": [
+      "Dharma",
+      "Yoga"
+    ]
+  },
+  "BG 3.35": {
+    "reference": "BG 3.35",
+    "chapter": 3,
+    "verse": 35,
+    "sources": {
+      "pdf": "Śreyān svabhāvo guṇavān / tat sangas tu sadoṣavat",
+      "translation": "It is far better to discharge one's prescribed duty..."
+    },
+    "concepts": [
+      "Dharma",
+      "Yoga"
+    ]
+  },
+  "BG 18.66": {
+    "reference": "BG 18.66",
+    "chapter": 18,
+    "verse": 66,
+    "sources": {
+      "pdf": "Sarva-dharmān parityajya / mām ekaṁ śaraṇaṁ vraja",
+      "translation": "Abandon all varieties of religion and just surrender unto Me..."
+    },
+    "concepts": [
+      "Dharma",
+      "Yoga"
+    ]
+  }
+}
