@@ -160,11 +160,19 @@ class LLMInterface:
             try:
                 return self.call_deepseek(messages, temperature=temperature)
             except Exception as e:
-                logger.warning(f"DeepSeek failed, falling back to Ollama: {e}")
+                logger.warning(f"DeepSeek failed, trying Ollama: {e}")
                 self.use_deepseek = False
-                return self.call_ollama(messages, temperature=temperature)
+                try:
+                    return self.call_ollama(messages, temperature=temperature)
+                except Exception as e2:
+                    logger.warning(f"Ollama failed, using demo response: {e2}")
+                    return self._get_demo_response(user_query)
         else:
-            return self.call_ollama(messages, temperature=temperature)
+            try:
+                return self.call_ollama(messages, temperature=temperature)
+            except Exception as e:
+                logger.warning(f"Ollama unavailable, using demo response: {e}")
+                return self._get_demo_response(user_query)
 
     def chat(self, message: str, conversation_history: List[Dict] = None) -> str:
         """Chat with context history"""
@@ -186,9 +194,20 @@ Always cite specific verses when relevant."""
             except Exception as e:
                 logger.warning(f"DeepSeek failed, trying Ollama: {e}")
                 self.use_deepseek = False
-                return self.call_ollama(messages)
+                try:
+                    return self.call_ollama(messages)
+                except:
+                    return self._get_demo_response(message)
         else:
-            return self.call_ollama(messages)
+            try:
+                return self.call_ollama(messages)
+            except:
+                return self._get_demo_response(message)
+
+    def _get_demo_response(self, query: str) -> str:
+        """Get demo response for testing"""
+        from .demo_responses import get_demo_response
+        return get_demo_response(query)
 
 
 class RAGPromptBuilder:
