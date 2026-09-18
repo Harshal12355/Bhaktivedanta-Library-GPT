@@ -228,15 +228,23 @@ class VedaBaseScraper:
                 chapter_key = str(chapter_number)
                 chapter_title = chapter.get("name", f"Chapter {chapter_number}")
 
-                verses = await self.get_chapter_verses(book_id, chapter_number)
                 existing_chapter = book_data["chapters"].get(chapter_key)
+                # A chapter marked complete is skipped without any HTTP request. Without
+                # this flag every restart re-fetches each finished chapter's listing just
+                # to count its verses - 335 wasted requests for Srimad-Bhagavatam alone.
+                if existing_chapter and existing_chapter.get("complete"):
+                    continue
+
+                verses = await self.get_chapter_verses(book_id, chapter_number)
                 already_done = (
                     existing_chapter is not None
                     and len(existing_chapter.get("verses", {})) >= len(verses)
                     and verses
                 )
                 if already_done:
-                    logger.info(f"    Chapter {chapter_number}/{len(chapters)}: already scraped, skipping")
+                    logger.info(f"    Chapter {chapter_number}/{len(chapters)}: already scraped, marking complete")
+                    existing_chapter["complete"] = True
+                    self._save_progress(all_data)
                     continue
 
                 logger.info(f"    Chapter {chapter_number}/{len(chapters)}: {chapter_title}")
@@ -245,6 +253,8 @@ class VedaBaseScraper:
                     "title": chapter_title,
                     "verses": {},
                 }
+
+                book_data["chapters"][chapter_key] = chapter_data
 
                 for verse in verses:
                     verse_number = verse.get("verse_number")
@@ -259,11 +269,13 @@ class VedaBaseScraper:
                         "verse_number": verse_number,
                         **verse_details,
                     }
+                    # Saving per verse (not per chapter) keeps an abrupt kill from
+                    # discarding a whole chapter's worth of requests. The write costs
+                    # far less than the crawl delay already spent on each verse.
+                    self._save_progress(all_data)
 
-                book_data["chapters"][chapter_key] = chapter_data
-
-                # Save after every chapter, not just every book, to bound data loss
-                # from an interruption during a large book (e.g. Srimad-Bhagavatam).
+                if verses and len(chapter_data["verses"]) >= len(verses):
+                    chapter_data["complete"] = True
                 self._save_progress(all_data)
 
         logger.info("\n=== Scraping Complete ===")
@@ -272,10 +284,16 @@ class VedaBaseScraper:
         return all_data
 
     def _save_progress(self, data: dict):
-        """Save progress incrementally"""
+        """Save progress incrementally, atomically.
+
+        Writing in place would leave a truncated, unparseable file if the process
+        is killed mid-write, and _load_existing discards everything it cannot parse.
+        """
         output_file = self.output_dir / "vedabase_data.json"
-        with open(output_file, "w", encoding="utf-8") as f:
+        tmp_file = output_file.with_suffix(".json.tmp")
+        with open(tmp_file, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+        os.replace(tmp_file, output_file)
 
     def _save_final_data(self, data: dict):
         """Save final data and generate summary"""
