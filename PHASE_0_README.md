@@ -11,22 +11,28 @@ This phase scrapes and parses all Vedic knowledge sources into a unified dataset
 - Produces ~700 verses with chapter/verse structure
 
 ### 2. **VedaBase Scraper** (`src/data_pipeline/vedabase_scraper.py`)
-- Scrapes **ALL English books** from vedabase.io API
+- Scrapes **ALL English books** from vedabase.io by parsing the rendered
+  `https://vedabase.io/en/library/...` pages (the site's old `/api/...`
+  JSON endpoints have been retired and now 404 — it was rebuilt on Next.js)
   - Bhagavad Gita
   - Srimad Bhagavatam
   - Chaitanya Charitamrita
   - Other Puranas, Upanishads, commentaries
-- Fetches verses, translations, word meanings, purports (commentaries)
-- Rate-limited (200ms between requests) to respect server
+- Fetches verses, transliteration, synonyms, translation, and purports (commentaries)
+- Rate-limited to 10s between requests by default, honoring vedabase.io's
+  `robots.txt` `Crawl-delay: 10` (override with `VEDABASE_RATE_LIMIT`, but
+  don't go below the site's stated delay)
 - Outputs: `data/vedabase_raw/vedabase_data.json` + summary
 - Produces: 10,000+ verses across multiple texts
 
 ### 3. **Vanipedia Scraper** (`src/data_pipeline/vanipedia_scraper.py`)
-- Extracts Vedic concepts and definitions from vanipedia.org
+- Extracts Vedic concepts and definitions from vanipedia.org via its real
+  MediaWiki API (`/w/api.php`) — the REST endpoints the previous version
+  targeted (`/api/search`, `/api/concepts/<id>`) never existed
 - Core concepts: Dharma, Bhakti, Yoga, Karma, Atman, Brahman, Krishna, etc.
-- Links concepts to definitions and references
+- Filters out non-English article variants (e.g. `ES/...` Spanish pages)
 - Outputs: `data/vanipedia_raw/concepts.json`
-- Produces: 20+ core concepts with definitions
+- Produces: 20+ core concepts, each with several matching articles
 
 ### 4. **Pipeline Orchestrator** (`src/data_pipeline/pipeline.py`)
 - Runs all three components in sequence
@@ -155,8 +161,10 @@ python src/data_pipeline/pipeline.py
 - **ImportError (pdfplumber)**: Install with `pip install pdfplumber`
 
 ### Network Issues
-- **VedaBase API timeout**: Check network, increase timeout in scraper
+- **VedaBase page timeout**: Check network, increase timeout in scraper
 - **Proxy/firewall blocking**: May need VPN or network policy adjustment
+- **`vedabase.io/api/...` returns 404**: expected — that API no longer
+  exists. The scraper parses `https://vedabase.io/en/library/...` HTML instead.
 
 ### Memory Issues
 - Large scrape (10,000+ verses): VedaBase scraper saves incrementally
@@ -165,9 +173,11 @@ python src/data_pipeline/pipeline.py
 ## Estimated Completion Time
 
 - PDF Parser: ~10 seconds (local)
-- VedaBase Scraper: ~30-45 minutes (10,000+ verses, rate-limited)
-- Vanipedia Scraper: ~5 minutes (20 concepts)
-- **Total: ~40-50 minutes** (mostly VedaBase I/O)
+- VedaBase Scraper: with the required 10s crawl-delay, a full scrape of
+  10,000+ verses takes **on the order of 1-2 days**, not minutes. Use
+  `scrape_all_books(max_books=..., max_chapters_per_book=...)` to pull a
+  bounded subset for testing.
+- Vanipedia Scraper: ~2-3 minutes (20 concepts, ~1s between requests)
 
 ---
 
