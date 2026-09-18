@@ -18,6 +18,10 @@ This phase scrapes and parses all Vedic knowledge sources into a unified dataset
   - Srimad Bhagavatam
   - Chaitanya Charitamrita
   - Other Puranas, Upanishads, commentaries
+- Handles the differing shapes of the library: Bhagavad-gītā is book/chapter,
+  Śrīmad-Bhāgavatam nests a canto and Caitanya-caritāmṛta a named lila
+  (`adi`, `madhya`, `antya`) in between, and Śrī Īśopaniṣad has no chapter
+  level at all. The depth is discovered rather than hard-coded.
 - Fetches verses, transliteration, synonyms, translation, and purports (commentaries)
 - Rate-limited to 10s between requests by default, honoring vedabase.io's
   `robots.txt` `Crawl-delay: 10` (override with `VEDABASE_RATE_LIMIT`, but
@@ -177,18 +181,17 @@ python src/data_pipeline/pipeline.py
 ## Estimated Completion Time
 
 - PDF Parser: ~10 seconds (local)
-- VedaBase Scraper: with the required 10s crawl-delay this is roughly one
-  verse every 10 seconds, so the full 27-book corpus takes **on the order of
-  three days** of continuous runtime. `sb` (Śrīmad-Bhāgavatam) and `cc`
-  (Śrī Caitanya-caritāmṛta) are ~95% of that cost; the other 25 books
-  together finish in a few hours. Scope the run with `--books` unless you
-  genuinely need both.
+- VedaBase Scraper: **roughly 80 minutes** for all 27 books. Each chapter is
+  fetched in a single request via its `advanced-view` page, which renders every
+  verse at once, so the cost is about 420 chapter requests plus ~50 for
+  discovery rather than one request per verse. Scoping with `--books` cuts it
+  further - Śrīmad-Bhāgavatam (338 chapters) and Caitanya-caritāmṛta (66) are
+  most of the total, and the other 25 books together take about ten minutes.
 
-  The scrape is resumable at single-verse granularity: it saves after every
-  verse, skips completed chapters without any request, and writes atomically,
-  so it can be stopped and restarted freely. Run it somewhere it will not be
-  killed - an ephemeral cloud container that gets reclaimed while idle will
-  never accumulate enough uninterrupted runtime to finish.
+  The scrape is resumable: completed chapters are skipped with no request at
+  all, progress is saved after every chapter, and writes are atomic, so it can
+  be stopped and restarted freely. Because a chapter arrives in one response,
+  an interruption costs at most that single request.
 - Vanipedia Scraper: ~2-3 minutes (20 concepts, ~1s between requests)
 
 ---

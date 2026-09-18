@@ -33,7 +33,8 @@ RATE_LIMIT_DELAY = float(os.environ.get("VEDABASE_RATE_LIMIT", "10.0"))
 OUTPUT_DIR = Path("./data/vedabase_raw")
 USER_AGENT = "BhaktivedantaLibraryGPT-Research/1.0 (+personal study/RAG project)"
 
-CHAPTER_LINK_RE = re.compile(r"^/en/library/([a-z0-9\-]+)/(\d+)/$")
+# Chapter pages expose an "advanced-view" rendering holding every verse at once.
+ADVANCED_VIEW = "advanced-view"
 
 
 class VedaBaseScraper:
@@ -100,76 +101,106 @@ class VedaBaseScraper:
         logger.info(f"Found {len(books)} English books")
         return books
 
-    async def get_book_chapters(self, book_id: str) -> list:
-        """Fetch all chapters for a book"""
-        soup = await self._rate_limited_get(f"{LIBRARY_PATH}{book_id}/")
-        chapters = []
+    async def _list_children(self, path: str) -> tuple:
+        """Return ([(child_path, title)], is_chapter) for a library path.
+
+        A page linking to its own advanced-view is a chapter; anything else is a
+        container whose children are the next level down.
+        """
+        soup = await self._rate_limited_get(path)
         if not soup:
-            return chapters
+            return [], False
 
+        is_chapter = soup.select_one(f'a[href*="{ADVANCED_VIEW}"]') is not None
+
+        children = []
         seen = set()
-        for a in soup.select(f'a[href^="{LIBRARY_PATH}{book_id}/"]'):
+        pattern = re.compile(rf"^{re.escape(path)}([\w-]+)/$")
+        for a in soup.select(f'a[href^="{path}"]'):
             href = a.get("href", "")
-            m = CHAPTER_LINK_RE.match(href)
-            if not m or m.group(1) != book_id:
+            if href in seen:
                 continue
-            chapter_number = int(m.group(2))
-            if chapter_number in seen:
-                continue
-            seen.add(chapter_number)
-            title = a.get_text(" ", strip=True) or f"Chapter {chapter_number}"
-            chapters.append({"chapter_number": chapter_number, "name": title})
-
-        chapters.sort(key=lambda c: c["chapter_number"])
-        return chapters
-
-    async def get_chapter_verses(self, book_id: str, chapter_number: int) -> list:
-        """Fetch all verse identifiers in a chapter (e.g. '1', '16-18')"""
-        soup = await self._rate_limited_get(f"{LIBRARY_PATH}{book_id}/{chapter_number}/")
-        verses = []
-        if not soup:
-            return verses
-
-        prefix = f"{LIBRARY_PATH}{book_id}/{chapter_number}/"
-        seen = set()
-        for a in soup.select(f'a[href^="{prefix}"]'):
-            href = a.get("href", "")
-            m = re.match(rf"^{re.escape(prefix)}([\w]+(?:-[\w]+)?)/$", href)
+            m = pattern.match(href)
             if not m:
                 continue
-            verse_number = m.group(1)
-            if verse_number in seen:
-                continue
-            seen.add(verse_number)
-            verses.append({"verse_number": verse_number})
+            seen.add(href)
+            children.append((href, a.get_text(" ", strip=True) or m.group(1)))
+        return children, is_chapter
 
-        return verses
+    async def discover_chapters(self, book_id: str) -> list:
+        """Find every chapter path in a book, whatever its nesting depth.
 
-    async def get_verse_details(self, book_id: str, chapter_number: int, verse_number: str) -> dict:
-        """Fetch full verse details including commentary, from the rendered page"""
-        soup = await self._rate_limited_get(f"{LIBRARY_PATH}{book_id}/{chapter_number}/{verse_number}/")
+        Bhagavad-gita is book/chapter, but Srimad-Bhagavatam nests a canto and
+        Caitanya-caritamrta a lila in between, and the lilas are named (adi,
+        madhya, antya) rather than numbered. Instead of hard-coding each book's
+        shape, one child is probed to learn whether this level holds chapters.
+        """
+        root = f"{LIBRARY_PATH}{book_id}/"
+        children, book_is_chapter = await self._list_children(root)
+        if book_is_chapter:
+            # A book with no chapter level of its own (e.g. Sri Isopanisad);
+            # the caller supplies the book's title.
+            return [(root, "")]
+        if not children:
+            return []
+
+        _, first_is_chapter = await self._list_children(children[0][0])
+        if first_is_chapter:
+            return children
+
+        chapters = []
+        for section_path, _title in children:
+            grandchildren, _ = await self._list_children(section_path)
+            chapters.extend(grandchildren)
+        return chapters
+
+    async def fetch_chapter(self, chapter_path: str) -> list:
+        """Fetch every verse of a chapter in a single request.
+
+        The advanced-view page renders the whole chapter, so this costs one
+        request rather than one per verse - for Srimad-Bhagavatam the difference
+        between roughly an hour and a day and a half.
+        """
+        soup = await self._rate_limited_get(f"{chapter_path}{ADVANCED_VIEW}/")
         if not soup:
-            return {}
+            return []
+        container = soup.select_one(".av-verses")
+        if not container:
+            return []
 
-        def text_of(css_class: str) -> str:
-            el = soup.select_one(f".{css_class}")
+        def text_of(block, css_class: str) -> str:
+            el = block.select_one(f".{css_class}")
             if not el:
                 return ""
-            # Drop the hidden section heading (e.g. "Translation") before extracting text
-            heading = el.select_one("h2")
-            if heading:
+            # Each field is prefixed by its own heading ("Translation", "Purport"),
+            # which would otherwise be extracted as part of the field's text.
+            for heading in el.select("h2, h3"):
                 heading.extract()
             return el.get_text(" ", strip=True)
 
-        h1 = soup.select_one("h1")
-        return {
-            "reference": h1.get_text(" ", strip=True) if h1 else "",
-            "devanagari": text_of("av-devanagari"),
-            "transliteration": text_of("av-verse_text"),
-            "synonyms": text_of("av-synonyms"),
-            "translation": text_of("av-translation"),
-            "purport": text_of("av-purport"),
-        }
+        pattern = re.compile(rf"^{re.escape(chapter_path)}([\w-]+)/$")
+        verses = []
+        for block in container.find_all("div", recursive=False):
+            verse_number = None
+            for a in block.select(f'a[href^="{chapter_path}"]'):
+                m = pattern.match(a.get("href", ""))
+                if m:
+                    verse_number = m.group(1)
+                    break
+            if not verse_number:
+                continue
+            verses.append(
+                {
+                    "verse_number": verse_number,
+                    "url": f"{VEDABASE_BASE}{chapter_path}{verse_number}/",
+                    "devanagari": text_of(block, "av-devanagari"),
+                    "transliteration": text_of(block, "av-verse_text"),
+                    "synonyms": text_of(block, "av-synonyms"),
+                    "translation": text_of(block, "av-translation"),
+                    "purport": text_of(block, "av-purport"),
+                }
+            )
+        return verses
 
     def _load_existing(self) -> dict:
         """Load a previous (possibly partial) run so an interrupted scrape can resume"""
@@ -235,7 +266,7 @@ class VedaBaseScraper:
             book_name = book.get("title", "Unknown")
             logger.info(f"\n[{idx}/{len(books)}] Processing: {book_name}")
 
-            chapters = await self.get_book_chapters(book_id)
+            chapters = await self.discover_chapters(book_id)
             if max_chapters_per_book:
                 chapters = chapters[:max_chapters_per_book]
             logger.info(f"  Found {len(chapters)} chapters")
@@ -243,60 +274,41 @@ class VedaBaseScraper:
             book_data = all_data["books"].setdefault(
                 book_id, {"id": book_id, "title": book_name, "chapters": {}}
             )
+            prefix_len = len(f"{LIBRARY_PATH}{book_id}/")
 
-            for chapter in chapters:
-                chapter_number = chapter.get("chapter_number")
-                chapter_key = str(chapter_number)
-                chapter_title = chapter.get("name", f"Chapter {chapter_number}")
+            for position, (chapter_path, chapter_title) in enumerate(chapters, 1):
+                # "1" for Bhagavad-gita chapter 1, "1/1" for Srimad-Bhagavatam
+                # canto 1 chapter 1, "adi/1" for Caitanya-caritamrta.
+                chapter_key = chapter_path[prefix_len:].strip("/") or "1"
 
                 existing_chapter = book_data["chapters"].get(chapter_key)
-                # A chapter marked complete is skipped without any HTTP request. Without
-                # this flag every restart re-fetches each finished chapter's listing just
-                # to count its verses - 335 wasted requests for Srimad-Bhagavatam alone.
+                # A completed chapter is skipped with no request at all; otherwise
+                # every restart re-walks the whole book before doing new work.
                 if existing_chapter and existing_chapter.get("complete"):
                     continue
 
-                verses = await self.get_chapter_verses(book_id, chapter_number)
-                already_done = (
-                    existing_chapter is not None
-                    and len(existing_chapter.get("verses", {})) >= len(verses)
-                    and verses
-                )
-                if already_done:
-                    logger.info(f"    Chapter {chapter_number}/{len(chapters)}: already scraped, marking complete")
-                    existing_chapter["complete"] = True
-                    self._save_progress(all_data)
+                chapter_title = chapter_title or book_name
+                logger.info(f"    Chapter {position}/{len(chapters)}: {chapter_title}")
+                verses = await self.fetch_chapter(chapter_path)
+                if not verses:
+                    logger.warning(f"      No verses found at {chapter_path}")
                     continue
 
-                logger.info(f"    Chapter {chapter_number}/{len(chapters)}: {chapter_title}")
-                chapter_data = existing_chapter or {
-                    "chapter_number": chapter_number,
+                reference_base = f"{book_id.upper()} {chapter_key.replace('/', '.')}"
+                # One request returned the whole chapter, so it is complete by
+                # construction - there is no partially fetched state to resume.
+                book_data["chapters"][chapter_key] = {
+                    "chapter_key": chapter_key,
                     "title": chapter_title,
-                    "verses": {},
+                    "complete": True,
+                    "verses": {
+                        verse["verse_number"]: {
+                            "reference": f"{reference_base}.{verse['verse_number']}",
+                            **verse,
+                        }
+                        for verse in verses
+                    },
                 }
-
-                book_data["chapters"][chapter_key] = chapter_data
-
-                for verse in verses:
-                    verse_number = verse.get("verse_number")
-                    if verse_number in chapter_data["verses"]:
-                        continue  # already scraped in a previous run
-
-                    verse_details = await self.get_verse_details(book_id, chapter_number, verse_number)
-                    if not verse_details:
-                        continue
-
-                    chapter_data["verses"][verse_number] = {
-                        "verse_number": verse_number,
-                        **verse_details,
-                    }
-                    # Saving per verse (not per chapter) keeps an abrupt kill from
-                    # discarding a whole chapter's worth of requests. The write costs
-                    # far less than the crawl delay already spent on each verse.
-                    self._save_progress(all_data)
-
-                if verses and len(chapter_data["verses"]) >= len(verses):
-                    chapter_data["complete"] = True
                 self._save_progress(all_data)
 
         logger.info("\n=== Scraping Complete ===")
