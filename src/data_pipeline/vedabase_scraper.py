@@ -35,6 +35,8 @@ USER_AGENT = "BhaktivedantaLibraryGPT-Research/1.0 (+personal study/RAG project)
 
 # Chapter pages expose an "advanced-view" rendering holding every verse at once.
 ADVANCED_VIEW = "advanced-view"
+# book -> canto/lila -> chapter is the deepest the library nests.
+MAX_NESTING_DEPTH = 3
 
 
 class VedaBaseScraper:
@@ -101,17 +103,11 @@ class VedaBaseScraper:
         logger.info(f"Found {len(books)} English books")
         return books
 
-    async def _list_children(self, path: str) -> tuple:
-        """Return ([(child_path, title)], is_chapter) for a library path.
-
-        A page linking to its own advanced-view is a chapter; anything else is a
-        container whose children are the next level down.
-        """
+    async def _list_children(self, path: str) -> list:
+        """Return [(child_path, title)] one level below a library path."""
         soup = await self._rate_limited_get(path)
         if not soup:
-            return [], False
-
-        is_chapter = soup.select_one(f'a[href*="{ADVANCED_VIEW}"]') is not None
+            return []
 
         children = []
         seen = set()
@@ -125,34 +121,7 @@ class VedaBaseScraper:
                 continue
             seen.add(href)
             children.append((href, a.get_text(" ", strip=True) or m.group(1)))
-        return children, is_chapter
-
-    async def discover_chapters(self, book_id: str) -> list:
-        """Find every chapter path in a book, whatever its nesting depth.
-
-        Bhagavad-gita is book/chapter, but Srimad-Bhagavatam nests a canto and
-        Caitanya-caritamrta a lila in between, and the lilas are named (adi,
-        madhya, antya) rather than numbered. Instead of hard-coding each book's
-        shape, one child is probed to learn whether this level holds chapters.
-        """
-        root = f"{LIBRARY_PATH}{book_id}/"
-        children, book_is_chapter = await self._list_children(root)
-        if book_is_chapter:
-            # A book with no chapter level of its own (e.g. Sri Isopanisad);
-            # the caller supplies the book's title.
-            return [(root, "")]
-        if not children:
-            return []
-
-        _, first_is_chapter = await self._list_children(children[0][0])
-        if first_is_chapter:
-            return children
-
-        chapters = []
-        for section_path, _title in children:
-            grandchildren, _ = await self._list_children(section_path)
-            chapters.extend(grandchildren)
-        return chapters
+        return children
 
     async def fetch_chapter(self, chapter_path: str) -> list:
         """Fetch every verse of a chapter in a single request.
@@ -202,6 +171,51 @@ class VedaBaseScraper:
             )
         return verses
 
+    async def _scrape_node(self, path, title, book_data, prefix_len, all_data, depth=0):
+        """Scrape a chapter, or recurse into a container of chapters.
+
+        Whether a path holds verses is settled by asking for its advanced-view,
+        not by assuming a nesting depth. Bhagavad-gita is book/chapter,
+        Srimad-Bhagavatam inserts a canto, Caitanya-caritamrta a named lila
+        (adi, madhya, antya), Sri Isopanisad has no chapter level at all, and
+        several books open with front matter that is not a chapter. Asking is
+        also self-correcting: a chapter answers with its verses in the same
+        request, so the check costs nothing on the common path.
+        """
+        chapter_key = path[prefix_len:].strip("/") or "1"
+        existing = book_data["chapters"].get(chapter_key)
+        if existing and existing.get("complete"):
+            return 0
+
+        verses = await self.fetch_chapter(path)
+        if verses:
+            reference_base = f"{book_data['id'].upper()} {chapter_key.replace('/', '.')}"
+            book_data["chapters"][chapter_key] = {
+                "chapter_key": chapter_key,
+                "title": title,
+                "complete": True,
+                "verses": {
+                    verse["verse_number"]: {
+                        "reference": f"{reference_base}.{verse['verse_number']}",
+                        **verse,
+                    }
+                    for verse in verses
+                },
+            }
+            self._save_progress(all_data)
+            logger.info(f"    {chapter_key}: {title[:58]} ({len(verses)} verses)")
+            return 1
+
+        if depth >= MAX_NESTING_DEPTH:
+            return 0
+
+        scraped = 0
+        for child_path, child_title in await self._list_children(path):
+            scraped += await self._scrape_node(
+                child_path, child_title, book_data, prefix_len, all_data, depth + 1
+            )
+        return scraped
+
     def _load_existing(self) -> dict:
         """Load a previous (possibly partial) run so an interrupted scrape can resume"""
         output_file = self.output_dir / "vedabase_data.json"
@@ -224,7 +238,6 @@ class VedaBaseScraper:
     async def scrape_all_books(
         self,
         max_books: Optional[int] = None,
-        max_chapters_per_book: Optional[int] = None,
         book_ids: Optional[list] = None,
     ):
         """Main scraping orchestration. Resumable: re-running skips verses already saved.
@@ -266,50 +279,15 @@ class VedaBaseScraper:
             book_name = book.get("title", "Unknown")
             logger.info(f"\n[{idx}/{len(books)}] Processing: {book_name}")
 
-            chapters = await self.discover_chapters(book_id)
-            if max_chapters_per_book:
-                chapters = chapters[:max_chapters_per_book]
-            logger.info(f"  Found {len(chapters)} chapters")
-
             book_data = all_data["books"].setdefault(
                 book_id, {"id": book_id, "title": book_name, "chapters": {}}
             )
-            prefix_len = len(f"{LIBRARY_PATH}{book_id}/")
-
-            for position, (chapter_path, chapter_title) in enumerate(chapters, 1):
-                # "1" for Bhagavad-gita chapter 1, "1/1" for Srimad-Bhagavatam
-                # canto 1 chapter 1, "adi/1" for Caitanya-caritamrta.
-                chapter_key = chapter_path[prefix_len:].strip("/") or "1"
-
-                existing_chapter = book_data["chapters"].get(chapter_key)
-                # A completed chapter is skipped with no request at all; otherwise
-                # every restart re-walks the whole book before doing new work.
-                if existing_chapter and existing_chapter.get("complete"):
-                    continue
-
-                chapter_title = chapter_title or book_name
-                logger.info(f"    Chapter {position}/{len(chapters)}: {chapter_title}")
-                verses = await self.fetch_chapter(chapter_path)
-                if not verses:
-                    logger.warning(f"      No verses found at {chapter_path}")
-                    continue
-
-                reference_base = f"{book_id.upper()} {chapter_key.replace('/', '.')}"
-                # One request returned the whole chapter, so it is complete by
-                # construction - there is no partially fetched state to resume.
-                book_data["chapters"][chapter_key] = {
-                    "chapter_key": chapter_key,
-                    "title": chapter_title,
-                    "complete": True,
-                    "verses": {
-                        verse["verse_number"]: {
-                            "reference": f"{reference_base}.{verse['verse_number']}",
-                            **verse,
-                        }
-                        for verse in verses
-                    },
-                }
-                self._save_progress(all_data)
+            root = f"{LIBRARY_PATH}{book_id}/"
+            scraped = await self._scrape_node(root, book_name, book_data, len(root), all_data)
+            logger.info(
+                f"  {scraped} chapter(s) scraped this run, "
+                f"{len(book_data['chapters'])} held in total"
+            )
 
         logger.info("\n=== Scraping Complete ===")
         logger.info(f"Total requests: {self.request_count}")
