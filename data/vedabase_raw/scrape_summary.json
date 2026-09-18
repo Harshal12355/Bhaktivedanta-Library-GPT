@@ -1,11 +1,141 @@
 {
-  "scraped_at": "2026-09-18T01:19:06.536214",
-  "total_books": 1,
+  "scraped_at": "2026-09-18T19:05:05.905418",
+  "total_books": 27,
   "books": {
     "bg": {
       "title": "Bhagavad-g\u012bt\u0101 As It Is",
-      "chapters": 1,
-      "verses": 39
+      "chapters": 18,
+      "verses": 632
+    },
+    "sb": {
+      "title": "\u015ar\u012bmad-Bh\u0101gavatam",
+      "chapters": 0,
+      "verses": 0
+    },
+    "cc": {
+      "title": "\u015ar\u012b Caitanya-carit\u0101m\u1e5bta",
+      "chapters": 0,
+      "verses": 0
+    },
+    "noi": {
+      "title": "Nectar of Instruction",
+      "chapters": 0,
+      "verses": 0
+    },
+    "kb": {
+      "title": "K\u1e5b\u1e63\u1e47a, the Supreme Personality of Godhead",
+      "chapters": 0,
+      "verses": 0
+    },
+    "nod": {
+      "title": "The Nectar of Devotion",
+      "chapters": 0,
+      "verses": 0
+    },
+    "iso": {
+      "title": "\u015ar\u012b \u012a\u015bopani\u1e63ad",
+      "chapters": 0,
+      "verses": 0
+    },
+    "ssr": {
+      "title": "The Science of Self-Realization",
+      "chapters": 0,
+      "verses": 0
+    },
+    "bbd": {
+      "title": "Beyond Birth and Death",
+      "chapters": 0,
+      "verses": 0
+    },
+    "bhakti": {
+      "title": "Bhakti: The Art of Eternal Love",
+      "chapters": 0,
+      "verses": 0
+    },
+    "bs": {
+      "title": "\u015ar\u012b Brahma-sa\u1e41hit\u0101",
+      "chapters": 0,
+      "verses": 0
+    },
+    "cat": {
+      "title": "Civilization and Transcendence",
+      "chapters": 0,
+      "verses": 0
+    },
+    "josd": {
+      "title": "The Journey of Self-Discovery",
+      "chapters": 0,
+      "verses": 0
+    },
+    "owk": {
+      "title": "On the Way to K\u1e5b\u1e63\u1e47a",
+      "chapters": 0,
+      "verses": 0
+    },
+    "pop": {
+      "title": "The Path of Perfection",
+      "chapters": 0,
+      "verses": 0
+    },
+    "poy": {
+      "title": "The Perfection of Yoga",
+      "chapters": 0,
+      "verses": 0
+    },
+    "pqpa": {
+      "title": "Perfect Questions, Perfect Answers",
+      "chapters": 0,
+      "verses": 0
+    },
+    "rv": {
+      "title": "R\u0101ja-vidy\u0101: The King of Knowledge",
+      "chapters": 0,
+      "verses": 0
+    },
+    "sc": {
+      "title": "A Second Chance",
+      "chapters": 0,
+      "verses": 0
+    },
+    "tlc": {
+      "title": "Teachings of Lord Caitanya",
+      "chapters": 0,
+      "verses": 0
+    },
+    "tlk": {
+      "title": "Teachings of Lord Kapila",
+      "chapters": 0,
+      "verses": 0
+    },
+    "tqk": {
+      "title": "Teachings of Queen Kunt\u012b",
+      "chapters": 0,
+      "verses": 0
+    },
+    "lob": {
+      "title": "Light of the Bh\u0101gavata",
+      "chapters": 0,
+      "verses": 0
+    },
+    "cabh": {
+      "title": "Chant and be happy",
+      "chapters": 0,
+      "verses": 0
+    },
+    "spl": {
+      "title": "\u015ar\u012bla Prabhup\u0101da-l\u012bl\u0101m\u1e5bta",
+      "chapters": 0,
+      "verses": 0
+    },
+    "rkd": {
+      "title": "R\u0101m\u0101ya\u1e47a",
+      "chapters": 0,
+      "verses": 0
+    },
+    "mbk": {
+      "title": "Mah\u0101bh\u0101rata - Retold by K\u1e5b\u1e63\u1e47a Dharma dasa",
+      "chapters": 0,
+      "verses": 0
     }
   }
 }
