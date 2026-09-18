@@ -2,42 +2,110 @@
   "Dharma": {
     "id": "dharma",
     "title": "Dharma",
-    "definition": "Religious duty; righteousness; cosmic law",
+    "definition": "Religious duty; righteousness; cosmic law; the natural order of the universe",
     "synonyms": [
       "duty",
       "righteousness",
-      "law"
+      "law",
+      "cosmic order"
     ],
     "related_concepts": [
       "Karma",
-      "Yoga"
+      "Yoga",
+      "Atman"
     ]
   },
   "Bhakti": {
     "id": "bhakti",
     "title": "Bhakti",
-    "definition": "Devotion; loving service to the Supreme Lord",
+    "definition": "Devotion; loving service to the Supreme Lord; the path of devotional surrender",
     "synonyms": [
       "devotion",
       "love",
-      "service"
+      "service",
+      "surrender"
     ],
     "related_concepts": [
       "Krishna",
-      "Love"
+      "Love",
+      "Surrender"
     ]
   },
   "Yoga": {
     "id": "yoga",
     "title": "Yoga",
-    "definition": "Union; skill in action; spiritual discipline",
+    "definition": "Union; skill in action; spiritual discipline; methods of connecting with the divine",
     "synonyms": [
       "union",
-      "discipline"
+      "discipline",
+      "skill",
+      "practice"
     ],
     "related_concepts": [
       "Meditation",
-      "Action"
+      "Action",
+      "Atman",
+      "Brahman"
+    ]
+  },
+  "Atman": {
+    "id": "atman",
+    "title": "Atman",
+    "definition": "The eternal individual soul; the self; the divine essence within all beings",
+    "synonyms": [
+      "soul",
+      "self",
+      "spirit"
+    ],
+    "related_concepts": [
+      "Brahman",
+      "Maya",
+      "Consciousness"
+    ]
+  },
+  "Brahman": {
+    "id": "brahman",
+    "title": "Brahman",
+    "definition": "The ultimate reality; the absolute consciousness; the source of all existence",
+    "synonyms": [
+      "ultimate reality",
+      "absolute",
+      "supreme consciousness"
+    ],
+    "related_concepts": [
+      "Atman",
+      "Maya",
+      "Moksha"
+    ]
+  },
+  "Karma": {
+    "id": "karma",
+    "title": "Karma",
+    "definition": "Action and its consequences; the universal law of cause and effect",
+    "synonyms": [
+      "action",
+      "deed",
+      "consequence"
+    ],
+    "related_concepts": [
+      "Dharma",
+      "Rebirth",
+      "Causality"
+    ]
+  },
+  "Moksha": {
+    "id": "moksha",
+    "title": "Moksha",
+    "definition": "Liberation; freedom from the cycle of rebirth; union with the divine",
+    "synonyms": [
+      "liberation",
+      "salvation",
+      "freedom"
+    ],
+    "related_concepts": [
+      "Brahman",
+      "Atman",
+      "Yoga"
     ]
   }
 }

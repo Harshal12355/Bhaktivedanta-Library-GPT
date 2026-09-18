@@ -1,9 +1,9 @@
 {
   "status": "success",
-  "pdf_verses": 5,
+  "pdf_verses": 14,
   "vedabase_books": 1,
   "vedabase_verses": 1,
-  "concepts": 3,
-  "merged_verses": 5,
+  "concepts": 7,
+  "merged_verses": 14,
   "output_dir": "data/pipeline_output"
 }

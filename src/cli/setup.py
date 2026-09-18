@@ -7,8 +7,10 @@ import json
 import sys
 from pathlib import Path
 
-from ..rag import VectorStore, Retriever, RAGEngine, LLMInterface
-from .formatter import print_header, print_success, print_error
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from rag import VectorStore, Retriever, RAGEngine, LLMInterface
+from cli.formatter import print_header, print_success, print_error
 
 
 def setup_rag():
@@ -36,7 +38,7 @@ def setup_rag():
                 "id": data.get("reference", ref),
                 "chapter": data.get("chapter"),
                 "verse_number": data.get("verse"),
-                "translation": data.get("sources", {}).get("translation"),
+                "translation": data.get("translation") or data.get("sources", {}).get("translation"),
                 "themes": data.get("concepts", []),
             }
             verses.append(verse)
