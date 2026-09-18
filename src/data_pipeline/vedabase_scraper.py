@@ -10,6 +10,7 @@ https://vedabase.io/en/library/ instead, which robots.txt explicitly allows
 below.
 """
 
+import argparse
 import asyncio
 import json
 import os
@@ -189,13 +190,33 @@ class VedaBaseScraper:
             logger.warning(f"Could not load existing output ({e}), starting fresh")
             return {}
 
-    async def scrape_all_books(self, max_books: Optional[int] = None, max_chapters_per_book: Optional[int] = None):
-        """Main scraping orchestration. Resumable: re-running skips verses already saved."""
+    async def scrape_all_books(
+        self,
+        max_books: Optional[int] = None,
+        max_chapters_per_book: Optional[int] = None,
+        book_ids: Optional[list] = None,
+    ):
+        """Main scraping orchestration. Resumable: re-running skips verses already saved.
+
+        book_ids restricts the run to those library slugs; the full corpus is
+        tens of thousands of verses, so scoping it is often the difference
+        between hours and days.
+        """
         logger.info("=== VedaBase Comprehensive Scraper ===")
         logger.info(f"Output directory: {self.output_dir}")
         logger.info(f"Rate limit: {RATE_LIMIT_DELAY}s between requests")
 
         books = await self.get_all_books()
+        if book_ids:
+            available = {b["id"] for b in books}
+            unknown = [b for b in book_ids if b not in available]
+            if unknown:
+                raise ValueError(
+                    f"Unknown book id(s): {', '.join(unknown)}. "
+                    f"Available: {', '.join(sorted(available))}"
+                )
+            books = [b for b in books if b["id"] in book_ids]
+            logger.info(f"Restricted to {len(books)} book(s): {', '.join(book_ids)}")
         if max_books:
             books = books[:max_books]
 
@@ -322,8 +343,35 @@ class VedaBaseScraper:
 
 
 async def main():
+    parser = argparse.ArgumentParser(
+        description=(
+            "Scrape English books from vedabase.io. Resumable: re-running continues "
+            "from whatever is already in the output file."
+        )
+    )
+    parser.add_argument(
+        "--books",
+        metavar="IDS",
+        help="Comma-separated book ids to scrape, e.g. 'bg,iso,noi'. Default: all.",
+    )
+    parser.add_argument(
+        "--list",
+        action="store_true",
+        help="List available book ids and exit, without scraping.",
+    )
+    args = parser.parse_args()
+
     async with VedaBaseScraper() as scraper:
-        await scraper.scrape_all_books()
+        if args.list:
+            for book in await scraper.get_all_books():
+                print(f"{book['id']:<16}{book['title']}")
+            return
+
+        book_ids = [b.strip() for b in args.books.split(",") if b.strip()] if args.books else None
+        try:
+            await scraper.scrape_all_books(book_ids=book_ids)
+        except ValueError as e:
+            raise SystemExit(str(e))
 
 
 if __name__ == "__main__":

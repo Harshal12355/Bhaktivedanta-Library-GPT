@@ -62,8 +62,12 @@ python src/data_pipeline/pipeline.py
 # PDF Parser only
 python src/data_pipeline/pdf_parser.py
 
-# VedaBase Scraper only
+# VedaBase Scraper - all 27 books (tens of thousands of verses, allow days)
 python src/data_pipeline/vedabase_scraper.py
+
+# List the available book ids, then scrape only the ones you need
+python src/data_pipeline/vedabase_scraper.py --list
+python src/data_pipeline/vedabase_scraper.py --books bg,iso,noi
 
 # Vanipedia Scraper only
 python src/data_pipeline/vanipedia_scraper.py
@@ -173,10 +177,18 @@ python src/data_pipeline/pipeline.py
 ## Estimated Completion Time
 
 - PDF Parser: ~10 seconds (local)
-- VedaBase Scraper: with the required 10s crawl-delay, a full scrape of
-  10,000+ verses takes **on the order of 1-2 days**, not minutes. Use
-  `scrape_all_books(max_books=..., max_chapters_per_book=...)` to pull a
-  bounded subset for testing.
+- VedaBase Scraper: with the required 10s crawl-delay this is roughly one
+  verse every 10 seconds, so the full 27-book corpus takes **on the order of
+  three days** of continuous runtime. `sb` (Śrīmad-Bhāgavatam) and `cc`
+  (Śrī Caitanya-caritāmṛta) are ~95% of that cost; the other 25 books
+  together finish in a few hours. Scope the run with `--books` unless you
+  genuinely need both.
+
+  The scrape is resumable at single-verse granularity: it saves after every
+  verse, skips completed chapters without any request, and writes atomically,
+  so it can be stopped and restarted freely. Run it somewhere it will not be
+  killed - an ephemeral cloud container that gets reclaimed while idle will
+  never accumulate enough uninterrupted runtime to finish.
 - Vanipedia Scraper: ~2-3 minutes (20 concepts, ~1s between requests)
 
 ---
