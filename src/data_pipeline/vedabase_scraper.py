@@ -37,6 +37,8 @@ USER_AGENT = "BhaktivedantaLibraryGPT-Research/1.0 (+personal study/RAG project)
 ADVANCED_VIEW = "advanced-view"
 # book -> canto/lila -> chapter is the deepest the library nests.
 MAX_NESTING_DEPTH = 3
+MAX_RETRIES = 4
+RETRY_BACKOFF_SECONDS = 2
 
 
 class VedaBaseScraper:
@@ -59,24 +61,39 @@ class VedaBaseScraper:
         await self.session.aclose()
 
     async def _rate_limited_get(self, path: str) -> Optional[BeautifulSoup]:
-        """Rate-limited GET request, returns parsed HTML or None on failure"""
-        elapsed = time.time() - self.last_request_time
-        if elapsed < RATE_LIMIT_DELAY:
-            await asyncio.sleep(RATE_LIMIT_DELAY - elapsed)
+        """Rate-limited GET. Returns None only for 404 - the path is not there.
 
-        self.request_count += 1
-        if self.request_count % 10 == 0:
-            logger.info(f"Requests made: {self.request_count}")
-
+        Transient failures are retried and then allowed to propagate. Reporting
+        them as an empty page would be indistinguishable from a page that really
+        holds nothing, and callers would record a book as having no chapters:
+        a dropped connection would quietly yield a corpus that looks complete
+        and is empty.
+        """
         url = f"{VEDABASE_BASE}{path}"
-        try:
-            response = await self.session.get(url)
-            self.last_request_time = time.time()
-            response.raise_for_status()
-            return BeautifulSoup(response.text, "lxml")
-        except httpx.HTTPError as e:
-            logger.error(f"Error fetching {url}: {e}")
-            return None
+        for attempt in range(MAX_RETRIES):
+            elapsed = time.time() - self.last_request_time
+            if elapsed < RATE_LIMIT_DELAY:
+                await asyncio.sleep(RATE_LIMIT_DELAY - elapsed)
+
+            self.request_count += 1
+            if self.request_count % 10 == 0:
+                logger.info(f"Requests made: {self.request_count}")
+
+            try:
+                response = await self.session.get(url)
+                self.last_request_time = time.time()
+                if response.status_code == 404:
+                    return None
+                response.raise_for_status()
+                return BeautifulSoup(response.text, "lxml")
+            except httpx.HTTPError as e:
+                self.last_request_time = time.time()
+                if attempt == MAX_RETRIES - 1:
+                    logger.error(f"Giving up on {url} after {MAX_RETRIES} attempts: {e}")
+                    raise
+                backoff = RETRY_BACKOFF_SECONDS * (2 ** attempt)
+                logger.warning(f"Error fetching {url}: {e} - retrying in {backoff}s")
+                await asyncio.sleep(backoff)
 
     async def get_all_books(self) -> list:
         """Fetch all books listed in the English library index"""
@@ -147,6 +164,10 @@ class VedaBaseScraper:
                 heading.extract()
             return el.get_text(" ", strip=True)
 
+        # Matching only a single trailing segment is what keeps a canto from being
+        # swallowed whole: /sb/1/advanced-view/ also renders verses, but theirs link
+        # to /sb/1/<chapter>/<verse>/, so none match here and the walk descends
+        # to the chapters instead of storing the canto as one giant chapter.
         pattern = re.compile(rf"^{re.escape(chapter_path)}([\w-]+)/$")
         verses = []
         for block in container.find_all("div", recursive=False):
