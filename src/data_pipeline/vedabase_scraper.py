@@ -170,8 +170,27 @@ class VedaBaseScraper:
             "purport": text_of("av-purport"),
         }
 
+    def _load_existing(self) -> dict:
+        """Load a previous (possibly partial) run so an interrupted scrape can resume"""
+        output_file = self.output_dir / "vedabase_data.json"
+        if not output_file.exists():
+            return {}
+        try:
+            with open(output_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            existing_verses = sum(
+                len(ch.get("verses", {}))
+                for book in data.get("books", {}).values()
+                for ch in book.get("chapters", {}).values()
+            )
+            logger.info(f"Resuming from existing output: {existing_verses} verses already scraped")
+            return data
+        except (json.JSONDecodeError, OSError) as e:
+            logger.warning(f"Could not load existing output ({e}), starting fresh")
+            return {}
+
     async def scrape_all_books(self, max_books: Optional[int] = None, max_chapters_per_book: Optional[int] = None):
-        """Main scraping orchestration"""
+        """Main scraping orchestration. Resumable: re-running skips verses already saved."""
         logger.info("=== VedaBase Comprehensive Scraper ===")
         logger.info(f"Output directory: {self.output_dir}")
         logger.info(f"Rate limit: {RATE_LIMIT_DELAY}s between requests")
@@ -180,13 +199,14 @@ class VedaBaseScraper:
         if max_books:
             books = books[:max_books]
 
+        existing = self._load_existing()
         all_data = {
             "metadata": {
                 "source": "vedabase.io",
                 "scraped_at": datetime.now().isoformat(),
                 "total_books": len(books),
             },
-            "books": {},
+            "books": existing.get("books", {}),
         }
 
         for idx, book in enumerate(books, 1):
@@ -199,20 +219,28 @@ class VedaBaseScraper:
                 chapters = chapters[:max_chapters_per_book]
             logger.info(f"  Found {len(chapters)} chapters")
 
-            book_data = {
-                "id": book_id,
-                "title": book_name,
-                "chapters": {},
-            }
+            book_data = all_data["books"].setdefault(
+                book_id, {"id": book_id, "title": book_name, "chapters": {}}
+            )
 
             for chapter in chapters:
                 chapter_number = chapter.get("chapter_number")
+                chapter_key = str(chapter_number)
                 chapter_title = chapter.get("name", f"Chapter {chapter_number}")
-                logger.info(f"    Chapter {chapter_number}/{len(chapters)}: {chapter_title}")
 
                 verses = await self.get_chapter_verses(book_id, chapter_number)
+                existing_chapter = book_data["chapters"].get(chapter_key)
+                already_done = (
+                    existing_chapter is not None
+                    and len(existing_chapter.get("verses", {})) >= len(verses)
+                    and verses
+                )
+                if already_done:
+                    logger.info(f"    Chapter {chapter_number}/{len(chapters)}: already scraped, skipping")
+                    continue
 
-                chapter_data = {
+                logger.info(f"    Chapter {chapter_number}/{len(chapters)}: {chapter_title}")
+                chapter_data = existing_chapter or {
                     "chapter_number": chapter_number,
                     "title": chapter_title,
                     "verses": {},
@@ -220,6 +248,9 @@ class VedaBaseScraper:
 
                 for verse in verses:
                     verse_number = verse.get("verse_number")
+                    if verse_number in chapter_data["verses"]:
+                        continue  # already scraped in a previous run
+
                     verse_details = await self.get_verse_details(book_id, chapter_number, verse_number)
                     if not verse_details:
                         continue
@@ -229,12 +260,11 @@ class VedaBaseScraper:
                         **verse_details,
                     }
 
-                book_data["chapters"][chapter_number] = chapter_data
+                book_data["chapters"][chapter_key] = chapter_data
 
-            all_data["books"][book_id] = book_data
-
-            # Save incrementally to avoid data loss
-            self._save_progress(all_data)
+                # Save after every chapter, not just every book, to bound data loss
+                # from an interruption during a large book (e.g. Srimad-Bhagavatam).
+                self._save_progress(all_data)
 
         logger.info("\n=== Scraping Complete ===")
         logger.info(f"Total requests: {self.request_count}")
