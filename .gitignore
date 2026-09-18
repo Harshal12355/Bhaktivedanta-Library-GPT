@@ -13,4 +13,5 @@ build/
 *.db
 vedic_rag.db
 pipeline_output/
-logs/data/**/*.json.tmp
+logs/
+data/**/*.json.tmp
