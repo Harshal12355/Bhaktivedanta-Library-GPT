@@ -1,0 +1,717 @@
+{
+  "BG-1.1": {
+    "reference": "BG-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Bhagavad Gita",
+    "text": "Dharma-kṣetre kuru-kṣetre samaveta yuyutsavaḥ",
+    "translation": "On the holy field of Kurukṣetra, assembled together, eager to fight...",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-1.2": {
+    "reference": "BG-1.2",
+    "chapter": 1,
+    "verse": 2,
+    "source": "Bhagavad Gita",
+    "text": "Marjayante mahā-bhāgā bhīṣmaṁ ca droṇam ca mādhavam",
+    "translation": "O Sañjaya, after my sons and the sons of Pandu assembled in the holy field of Kurukṣetra, what did they do?",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-1.3": {
+    "reference": "BG-1.3",
+    "chapter": 1,
+    "verse": 3,
+    "source": "Bhagavad Gita",
+    "text": "Rājño narakuñjaro mahāmātrāṁ samāhitāḥ",
+    "translation": "The king's warriors and the great generals of the Pandavas were gathered.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-2.11": {
+    "reference": "BG-2.11",
+    "chapter": 2,
+    "verse": 11,
+    "source": "Bhagavad Gita",
+    "text": "Aśocyān anvaśocas tvaṁ prajñā-vādāṁś ca bhāṣase",
+    "translation": "Your words are full of concern for bodily relatives, but those who are wise lament neither for the living nor the dead.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-2.20": {
+    "reference": "BG-2.20",
+    "chapter": 2,
+    "verse": 20,
+    "source": "Bhagavad Gita",
+    "text": "Na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ",
+    "translation": "For the soul there is neither birth nor death. All paths lead to the same truth, though they may seem different when examined.",
+    "concepts": [
+      "Atman",
+      "Jnana"
+    ]
+  },
+  "BG-2.47": {
+    "reference": "BG-2.47",
+    "chapter": 2,
+    "verse": 47,
+    "source": "Bhagavad Gita",
+    "text": "Yogaḥ karmasu kauśalam",
+    "translation": "Yoga is the art of right action. It is skill in all undertakings. Yoga is also defined as equanimity.",
+    "concepts": [
+      "Yoga",
+      "Karma"
+    ]
+  },
+  "BG-2.50": {
+    "reference": "BG-2.50",
+    "chapter": 2,
+    "verse": 50,
+    "source": "Bhagavad Gita",
+    "text": "Buddhiyogam uddhṛtya tiṣṭha gatāsun ānīśvare",
+    "translation": "Give up your attachment to the results of work and surrender yourself to yoga. Steadiness is called yoga.",
+    "concepts": [
+      "Yoga",
+      "Atman",
+      "Bhakti"
+    ]
+  },
+  "BG-3.19": {
+    "reference": "BG-3.19",
+    "chapter": 3,
+    "verse": 19,
+    "source": "Bhagavad Gita",
+    "text": "Tasmād asaktaḥ satataṁ kāryaṁ karma samācar",
+    "translation": "Therefore, without attachment, always perform necessary action; by doing work without attachment, one attains the Supreme.",
+    "concepts": [
+      "Karma"
+    ]
+  },
+  "BG-3.35": {
+    "reference": "BG-3.35",
+    "chapter": 3,
+    "verse": 35,
+    "source": "Bhagavad Gita",
+    "text": "Śreyān svabhāvo guṇavān tat sangas tu sadoṣavat",
+    "translation": "It is far better to discharge one's prescribed duty, even though faultily, than another's duty perfectly.",
+    "concepts": [
+      "Dharma"
+    ]
+  },
+  "BG-3.42": {
+    "reference": "BG-3.42",
+    "chapter": 3,
+    "verse": 42,
+    "source": "Bhagavad Gita",
+    "text": "Indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ",
+    "translation": "The senses are superior to the body. The mind is superior to the senses. Above the mind is the intellect.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-4.7": {
+    "reference": "BG-4.7",
+    "chapter": 4,
+    "verse": 7,
+    "source": "Bhagavad Gita",
+    "text": "Yadā yadā hi dharmasya glānir bhavati bhārata",
+    "translation": "Whenever and wherever there is a decline in religious practice and a predominance of irreligion, at that time I descend Myself.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "BG-4.13": {
+    "reference": "BG-4.13",
+    "chapter": 4,
+    "verse": 13,
+    "source": "Bhagavad Gita",
+    "text": "Cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ",
+    "translation": "According to the three modes of material nature and the work associated with them, the four divisions of human society are created by Me.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-4.37": {
+    "reference": "BG-4.37",
+    "chapter": 4,
+    "verse": 37,
+    "source": "Bhagavad Gita",
+    "text": "Athāgnis sarva-karmāṇi bhasmasāt kurute tathā",
+    "translation": "Just as a blazing fire turns firewood to ashes, the fire of knowledge burns to ashes all reactions to material activities.",
+    "concepts": [
+      "Jnana",
+      "Karma"
+    ]
+  },
+  "BG-5.10": {
+    "reference": "BG-5.10",
+    "chapter": 5,
+    "verse": 10,
+    "source": "Bhagavad Gita",
+    "text": "Brahmany ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ",
+    "translation": "One who performs his duty without attachment, surrendering the results unto the Supreme Lord, is unaffected by sinful action.",
+    "concepts": [
+      "Karma",
+      "Dharma",
+      "Bhakti"
+    ]
+  },
+  "BG-5.24": {
+    "reference": "BG-5.24",
+    "chapter": 5,
+    "verse": 24,
+    "source": "Bhagavad Gita",
+    "text": "Yo yaḥ sukhaḥ sarvadā sukhaḥ pare ānande gataḥ sa paramānanda",
+    "translation": "One who is satisfied in mind, who has conquered the senses and whose consciousness is united in the self is said to be established in yoga.",
+    "concepts": [
+      "Yoga",
+      "Atman"
+    ]
+  },
+  "BG-6.5": {
+    "reference": "BG-6.5",
+    "chapter": 6,
+    "verse": 5,
+    "source": "Bhagavad Gita",
+    "text": "Uddhared ātmanātmānaṁ nātmānam avasādayet",
+    "translation": "One must elevate oneself by one's own mind, not degrade oneself. The mind is the friend of the conditioned soul, and his enemy as well.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "BG-6.47": {
+    "reference": "BG-6.47",
+    "chapter": 6,
+    "verse": 47,
+    "source": "Bhagavad Gita",
+    "text": "Yoginām api sarveṣāṁ mad-gatenāntarātmanā",
+    "translation": "Of all yogis, the one with great faith who always abides in Me, thinks of Me within himself, and renders transcendental loving service to Me is the most intimately united with Me.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "BG-7.1": {
+    "reference": "BG-7.1",
+    "chapter": 7,
+    "verse": 1,
+    "source": "Bhagavad Gita",
+    "text": "Mayy āsakta-manāḥ pārtha yogaṁ yuñjan mad-āśrayaḥ",
+    "translation": "Now hear, O son of Pṛthā, how by practicing yoga in full consciousness of Me, with all your heart, you can know Me completely.",
+    "concepts": [
+      "Yoga",
+      "Atman"
+    ]
+  },
+  "BG-7.8": {
+    "reference": "BG-7.8",
+    "chapter": 7,
+    "verse": 8,
+    "source": "Bhagavad Gita",
+    "text": "Raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ",
+    "translation": "I am the taste of water, the light of the sun and the moon, the syllable om in the Vedic mantras; I am the sound in ether and ability in man.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-9.4": {
+    "reference": "BG-9.4",
+    "chapter": 9,
+    "verse": 4,
+    "source": "Bhagavad Gita",
+    "text": "Mayā tatam idaṁ sarvaṁ jagad avyakta-murtinā",
+    "translation": "By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-9.26": {
+    "reference": "BG-9.26",
+    "chapter": 9,
+    "verse": 26,
+    "source": "Bhagavad Gita",
+    "text": "Patram puṣpam phalam toyaṁ yo me bhaktyā prayacchati",
+    "translation": "If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it.",
+    "concepts": [
+      "Bhakti"
+    ]
+  },
+  "BG-10.8": {
+    "reference": "BG-10.8",
+    "chapter": 10,
+    "verse": 8,
+    "source": "Bhagavad Gita",
+    "text": "Aham sarvasya prabhavo mattaḥ sarvaṁ pravartate",
+    "translation": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly engage in My devotional service get attached to Me.",
+    "concepts": [
+      "Bhakti"
+    ]
+  },
+  "BG-10.12": {
+    "reference": "BG-10.12",
+    "chapter": 10,
+    "verse": 12,
+    "source": "Bhagavad Gita",
+    "text": "Tvam adi devah purushah puranah tvam asya vishnuh paramam padam tvam",
+    "translation": "You are the Supreme Brahman, the ultimate source of all knowledge. You are the Supreme Person, the primeval lord.",
+    "concepts": [
+      "Brahman",
+      "Jnana"
+    ]
+  },
+  "BG-11.19": {
+    "reference": "BG-11.19",
+    "chapter": 11,
+    "verse": 19,
+    "source": "Bhagavad Gita",
+    "text": "Akhilaṁ puruṣaṁ śāśvataṁ divyaṁ adi-devam ajam vibhum",
+    "translation": "I see You as the eternal Supreme Personality, infinite in all directions, without beginning, middle or end.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "BG-12.6": {
+    "reference": "BG-12.6",
+    "chapter": 12,
+    "verse": 6,
+    "source": "Bhagavad Gita",
+    "text": "Ye tu sarvāṇi karmāṇi mayi sannyasya mat-parāḥ",
+    "translation": "Those who surrender all their activities unto Me and engage in My devotional service without any mental reservation, are very dear to Me.",
+    "concepts": [
+      "Bhakti"
+    ]
+  },
+  "BG-12.13": {
+    "reference": "BG-12.13",
+    "chapter": 12,
+    "verse": 13,
+    "source": "Bhagavad Gita",
+    "text": "Advesṭā sarva-bhūtānāṁ maitraḥ karuṇa eva ca",
+    "translation": "He who is not envious but is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal in both happiness and distress is very dear to Me.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "BG-13.2": {
+    "reference": "BG-13.2",
+    "chapter": 13,
+    "verse": 2,
+    "source": "Bhagavad Gita",
+    "text": "Kṣetrajñaṁ cāpi māṁ viddhi sarva-kṣetreṣu bhārata",
+    "translation": "O son of Bharata, you should understand that I am also the knower in all bodies, and to understand this body and its knower is called knowledge.",
+    "concepts": [
+      "Jnana"
+    ]
+  },
+  "BG-13.13": {
+    "reference": "BG-13.13",
+    "chapter": 13,
+    "verse": 13,
+    "source": "Bhagavad Gita",
+    "text": "Jñeyaṁ yat tat pravakṣyāmi yaj jñātvā amṛtam aśnute",
+    "translation": "Now I shall explain the knowable, knowing which you will taste the eternal. Brahman is beginningless and is transcendental to the material existence.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "BG-14.26": {
+    "reference": "BG-14.26",
+    "chapter": 14,
+    "verse": 26,
+    "source": "Bhagavad Gita",
+    "text": "Mām ca yo 'vyabhicāreṇa bhakti-yogena sevate",
+    "translation": "One who engages in full devotional service, unfailing in all circumstances, at once transcends the modes of material nature.",
+    "concepts": [
+      "Bhakti"
+    ]
+  },
+  "BG-15.1": {
+    "reference": "BG-15.1",
+    "chapter": 15,
+    "verse": 1,
+    "source": "Bhagavad Gita",
+    "text": "Ūrdhva-mūlam adhah-śākham aśvatthaṁ prāhur avyayam",
+    "translation": "The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down, and whose leaves are the Vedic hymns.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-15.15": {
+    "reference": "BG-15.15",
+    "chapter": 15,
+    "verse": 15,
+    "source": "Bhagavad Gita",
+    "text": "Sarvasya cāham hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṁ ca",
+    "translation": "I am seated in everyone's heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known.",
+    "concepts": [
+      "Jnana"
+    ]
+  },
+  "BG-16.1": {
+    "reference": "BG-16.1",
+    "chapter": 16,
+    "verse": 1,
+    "source": "Bhagavad Gita",
+    "text": "Abhayaṁ sattva-saṁśuddhir jñāna-yoga-vyavasthitiḥ",
+    "translation": "Fearlessness, purification of one's existence, cultivation of spiritual knowledge, charity, self-control, performance of sacrifice, study of the Vedas, austerity and simplicity are the natural qualities of work for the brahmanas.",
+    "concepts": [
+      "Brahman",
+      "Atman",
+      "Jnana"
+    ]
+  },
+  "BG-17.3": {
+    "reference": "BG-17.3",
+    "chapter": 17,
+    "verse": 3,
+    "source": "Bhagavad Gita",
+    "text": "Sattvānurūpā sarvasya śraddhā bhavati bhārata",
+    "translation": "O son of Bharata, according to one's existence under the various modes of nature, one evolves a particular type of faith.",
+    "concepts": [
+      "Yoga",
+      "Dharma"
+    ]
+  },
+  "BG-18.66": {
+    "reference": "BG-18.66",
+    "chapter": 18,
+    "verse": 66,
+    "source": "Bhagavad Gita",
+    "text": "Sarva-dharmān parityajya mām ekam śaraṇaṁ vraja",
+    "translation": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.",
+    "concepts": [
+      "Karma",
+      "Bhakti",
+      "Moksha"
+    ]
+  },
+  "BG-18.73": {
+    "reference": "BG-18.73",
+    "chapter": 18,
+    "verse": 73,
+    "source": "Bhagavad Gita",
+    "text": "Arjunas tataḥ kṛṣṇam utsṛjya bhagavantam",
+    "translation": "Arjuna is relieved of all his doubts and fears by the instruction of Lord Krishna on the Bhagavad-gita.",
+    "concepts": [
+      "Moksha"
+    ]
+  },
+  "Isha-1": {
+    "reference": "Isha-1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Isha Upanishad",
+    "text": "Īśāvāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat",
+    "translation": "All of this is to be covered by the Lord. Whatever exists in this universe is the property of the Lord.",
+    "concepts": [
+      "Brahman",
+      "Atman"
+    ]
+  },
+  "Isha-6": {
+    "reference": "Isha-6",
+    "chapter": 1,
+    "verse": 6,
+    "source": "Isha Upanishad",
+    "text": "Yas tu sarvāṇi bhūtāny ātmany evānupaśyati",
+    "translation": "One who sees all beings in his own self, and his own self in all beings, loses all fear.",
+    "concepts": [
+      "Atman",
+      "Moksha"
+    ]
+  },
+  "Katha-2.1": {
+    "reference": "Katha-2.1",
+    "chapter": 2,
+    "verse": 1,
+    "source": "Katha Upanishad",
+    "text": "Ātmānaṁ rathinaṁ viddhi śarīraṁ ratham eva ca",
+    "translation": "Know the self as master of the chariot, the body as the chariot itself. The intellect is the charioteer.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "Katha-2.12": {
+    "reference": "Katha-2.12",
+    "chapter": 2,
+    "verse": 12,
+    "source": "Katha Upanishad",
+    "text": "Na jayate mriyate vā, vipariṇāmno na tasyāsti",
+    "translation": "The soul is never born, and it does not die. It is unborn, eternal, permanent, and primeval.",
+    "concepts": [
+      "Atman",
+      "Brahman"
+    ]
+  },
+  "Mundaka-1.1": {
+    "reference": "Mundaka-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Mundaka Upanishad",
+    "text": "Oṁ ity etad brahma, oṁ ity etam akṣaram brahma",
+    "translation": "Om is Brahman. Om is all. The wise meditate upon Om continuously.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "Mundaka-2.2": {
+    "reference": "Mundaka-2.2",
+    "chapter": 2,
+    "verse": 2,
+    "source": "Mundaka Upanishad",
+    "text": "Brahmaiva satyaṁ, paraṁ brahma taj-jyotis, taj-jyotir aham asmi",
+    "translation": "Brahman alone is the truth, the Supreme Being. I am that Brahman.",
+    "concepts": [
+      "Brahman",
+      "Jnana"
+    ]
+  },
+  "Mundaka-2.11": {
+    "reference": "Mundaka-2.11",
+    "chapter": 2,
+    "verse": 11,
+    "source": "Mundaka Upanishad",
+    "text": "Brahmavit brahmaiva bhavati, brahmavid āpnoti param",
+    "translation": "One who knows Brahman becomes Brahman itself. Among all the seekers of liberation, one who knows Brahman attains the highest goal.",
+    "concepts": [
+      "Brahman",
+      "Atman",
+      "Moksha"
+    ]
+  },
+  "Chandogya-3.14": {
+    "reference": "Chandogya-3.14",
+    "chapter": 3,
+    "verse": 14,
+    "source": "Chandogya Upanishad",
+    "text": "Tat tvam asi śvetaketo, tat tvam asi",
+    "translation": "Thou art That - the ultimate reality is the same as your innermost self.",
+    "concepts": [
+      "Atman",
+      "Brahman"
+    ]
+  },
+  "Chandogya-6.2": {
+    "reference": "Chandogya-6.2",
+    "chapter": 6,
+    "verse": 2,
+    "source": "Chandogya Upanishad",
+    "text": "Sad eva somya idaṁ agra āsīt, ekam evādvitīyam",
+    "translation": "In the beginning, O dear, this world was just being, one only, without a second.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "Taittiriya-2.1": {
+    "reference": "Taittiriya-2.1",
+    "chapter": 2,
+    "verse": 1,
+    "source": "Taittiriya Upanishad",
+    "text": "Satyaṁ jñānaṁ anantaṁ brahma",
+    "translation": "Brahman is Truth, Knowledge, and Infinity. Brahman is not something small, not something large.",
+    "concepts": [
+      "Brahman",
+      "Jnana"
+    ]
+  },
+  "Aiterya-1.1": {
+    "reference": "Aiterya-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Aiterya Upanishad",
+    "text": "Ātmā vā idaṁ agra āsīt, ekam eva advitīyam",
+    "translation": "In the beginning, all that existed was the Self (Atman) alone, one without a second.",
+    "concepts": [
+      "Atman"
+    ]
+  },
+  "Svetasvatara-1.1": {
+    "reference": "Svetasvatara-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Svetasvatara Upanishad",
+    "text": "Athāto brahma jijñāsā, janmādy asya yataḥ",
+    "translation": "Now therefore, the inquiry into Brahman: From which all beings are born.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "Svetasvatara-4.6": {
+    "reference": "Svetasvatara-4.6",
+    "chapter": 4,
+    "verse": 6,
+    "source": "Svetasvatara Upanishad",
+    "text": "Aṇor aṇīyān mahato mahīyān, ātmā guhāyaṁ nihito yasya jānāti",
+    "translation": "The Lord is smaller than the smallest and greater than the greatest. He dwells in the hearts of all beings.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "Kena-1.1": {
+    "reference": "Kena-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Kena Upanishad",
+    "text": "Kenaiṣitaṁ patati preṣitaṁ manah, kena prāṇah prathamaṁ vāti",
+    "translation": "By whose command does the wind blow? By whose command does the sun shine?",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "Mandukya-1": {
+    "reference": "Mandukya-1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Mandukya Upanishad",
+    "text": "Oṁ ity etad akṣaram idaṁ sarvam, tasyopavyākhyānam",
+    "translation": "Om is all this. The explanation of Om is all this world.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "BS-1.1.1": {
+    "reference": "BS-1.1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "Brahma Sutras",
+    "text": "Athāto brahma-jijñāsā",
+    "translation": "Now, therefore, the inquiry into Brahman (the ultimate reality).",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "BS-1.1.2": {
+    "reference": "BS-1.1.2",
+    "chapter": 1,
+    "verse": 2,
+    "source": "Brahma Sutras",
+    "text": "Janmādy asya yataḥ",
+    "translation": "Brahman is that from which all beings originate, by which they live, and into which they finally return.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "BS-1.1.4": {
+    "reference": "BS-1.1.4",
+    "chapter": 1,
+    "verse": 4,
+    "source": "Brahma Sutras",
+    "text": "Tat tu samanvayāt",
+    "translation": "This unity is confirmed by all the Upanishads.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "BS-2.1.1": {
+    "reference": "BS-2.1.1",
+    "chapter": 2,
+    "verse": 1,
+    "source": "Brahma Sutras",
+    "text": "Atat tu samanvayāt",
+    "translation": "The nature of Brahman cannot be anything other than what is described in the Upanishads.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "BS-3.2.26": {
+    "reference": "BS-3.2.26",
+    "chapter": 3,
+    "verse": 26,
+    "source": "Brahma Sutras",
+    "text": "Ānandamayo 'bhyāsāt",
+    "translation": "According to the Upanishads, Brahman is full of bliss.",
+    "concepts": [
+      "Brahman",
+      "Moksha"
+    ]
+  },
+  "BS-4.1.1": {
+    "reference": "BS-4.1.1",
+    "chapter": 4,
+    "verse": 1,
+    "source": "Brahma Sutras",
+    "text": "Atha vidyā-viśeṣam upakramate",
+    "translation": "Now we proceed to explain the particular knowledge of Brahman.",
+    "concepts": [
+      "Brahman",
+      "Jnana"
+    ]
+  },
+  "RV-1.1": {
+    "reference": "RV-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "RV",
+    "text": "Agnimīḷe purohitaṁ yajñasya devam ṛtvijam",
+    "translation": "I meditate upon Agni (the divine fire), the beloved of all, the priest of the sacrifice, the invoker, best giver of riches.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "RV-10.129": {
+    "reference": "RV-10.129",
+    "chapter": 10,
+    "verse": 129,
+    "source": "RV",
+    "text": "Nāsad āsīn no sad āsīt tadānīm",
+    "translation": "There was neither non-existence nor existence then. There was neither the realm of space nor the sky which is beyond.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "AV-10.8": {
+    "reference": "AV-10.8",
+    "chapter": 10,
+    "verse": 8,
+    "source": "AV",
+    "text": "Brahma brahmavidaṁ namaste namas te",
+    "translation": "Salutations to Brahman, to those who know Brahman.",
+    "concepts": [
+      "Brahman"
+    ]
+  },
+  "YV-32.1": {
+    "reference": "YV-32.1",
+    "chapter": 32,
+    "verse": 1,
+    "source": "YV",
+    "text": "Īśa vāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat",
+    "translation": "The Absolute Lord is the controller of the entire universe. Everyone is dependent on the Supreme.",
+    "concepts": [
+      "Brahman",
+      "Knowledge"
+    ]
+  },
+  "SV-1.1": {
+    "reference": "SV-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "source": "SV",
+    "text": "Oṁ apratimiṛto 'syānando 'bhayāya vai brahma",
+    "translation": "Om is infinite bliss. Fear does not exist in the presence of knowledge of Brahman.",
+    "concepts": [
+      "Brahman",
+      "Jnana",
+      "Moksha"
+    ]
+  }
+}
