@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/8"
+verse: "47"
+reference: "SB 1.8.47"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/8/47/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.813161
+---
+
+# SB 1.8.47
+
+## Sanskrit
+
+आह राजा धर्मसुतश्चिन्तयन् सुहृदां वधम् । प्राकृतेनात्मना विप्रा: स्‍नेहमोहवशं गत: ॥ ४७ ॥
+
+## Transliteration
+
+*āha rājā dharma-sutaś cintayan suhṛdāṁ vadham prākṛtenātmanā viprāḥ sneha-moha-vaśaṁ gataḥ*
+
+## Word-for-Word
+
+āha — said ; rājā — King Yudhiṣṭhira ; dharma - sutaḥ — the son of Dharma (Yamarāja) ; cintayan — thinking of ; suhṛdām — of the friends ; vadham — killing ; prākṛtena — by material conception only ; ātmanā — by the self ; viprāḥ — O brāhmaṇa ; sneha — affection ; moha — delusion ; vaśam — being carried away by ; gataḥ — having gone .
+
+## Translation
+
+King Yudhiṣṭhira, son of Dharma, overwhelmed by the death of his friends, was aggrieved just like a common, materialistic man. O sages, thus deluded by affection, he began to speak.
+
+## Purport
+
+King Yudhiṣṭhira, though he was not expected to become aggrieved like a common man, became deluded by worldly affection by the will of the Lord (just as Arjuna was apparently deluded). A man who sees knows well that the living entity is neither the body nor the mind, but is transcendental to the material conception of life. The common man thinks of violence and nonviolence in terms of the body, but that is a kind of delusion. Everyone is duty-bound according to one’s occupational duties. A kṣatriya is bound to fight for the right cause, regardless of the opposite party. In such discharge of duty, one should not be disturbed by annihilation of the material body, which is only an external dress of the living soul. All this was perfectly known to Mahārāja Yudhiṣṭhira, but by the will of the Lord he became just like a common man because there was another great idea behind this delusion: the King would be instructed by Bhīṣma as Arjuna was instructed by the Lord Himself.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/8/47/)

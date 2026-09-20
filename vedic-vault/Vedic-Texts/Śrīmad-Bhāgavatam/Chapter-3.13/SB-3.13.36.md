@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/13"
+verse: "36"
+reference: "SB 3.13.36"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/13/36/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.880940
+---
+
+# SB 3.13.36
+
+## Sanskrit
+
+स्रक्तुण्ड आसीत्स्रुव ईश नासयो- रिडोदरे चमसा: कर्णरन्ध्रे । प्राशित्रमास्ये ग्रसने ग्रहास्तु ते यच्चर्वणं ते भगवन्नग्निहोत्रम् ॥ ३६ ॥
+
+## Transliteration
+
+*srak tuṇḍa āsīt sruva īśa nāsayor iḍodare camasāḥ karṇa-randhre prāśitram āsye grasane grahās tu te yac carvaṇaṁ te bhagavann agni-hotram*
+
+## Word-for-Word
+
+srak — the plate for sacrifice ; tuṇḍe — on the tongue ; āsīt — there is ; sruvaḥ — another plate for sacrifice ; īśa — O Lord ; nāsayoḥ — of the nostrils ; iḍā — the plate for eating ; udare — in the belly ; camasāḥ — another plate for sacrifices ; karṇa - randhre — in the holes of the ears ; prāśitram — the plate called the Brahmā plate ; āsye — in the mouth ; grasane — in the throat ; grahāḥ — the plates known as soma plates ; tu — but ; te — Your ; yat — that which ; carvaṇam — chewing ; te — Your ; bhagavan — O my Lord ; agni - hotram — is Your eating through Your sacrificial fire .
+
+## Translation
+
+O Lord, Your tongue is a plate of sacrifice, Your nostril is another plate of sacrifice, in Your belly is the eating plate of sacrifice, and another plate of sacrifice is the holes of Your ears. In Your mouth is the Brahmā plate of sacrifice, Your throat is the plate of sacrifice known as soma, and whatever You chew is known as agni-hotra.
+
+## Purport
+
+The veda-vādīs say that there is nothing more than the Vedas and the performances of sacrifice mentioned in the Vedas. They have recently made a rule in their group to formally observe daily sacrifice; they simply ignite a small fire and offer something whimsically, but they do not strictly follow the sacrificial rules and regulations mentioned in the Vedas. It is understood that by regulation there are different plates of sacrifice required, such as srak, sruvā, barhis, cātur-hotra, iḍā, camasa, prāśitra, graha and agni-hotra. One cannot achieve the results of sacrifice unless one observes the strict regulations. In this age there is practically no facility for performing sacrifices in strict discipline. Therefore, in this Age of Kali there is a stricture regarding such sacrifices: it is explicitly directed that one should perform saṅkīrtana-yajña and nothing more. The incarnation of the Supreme Lord is Yajñeśvara, and unless one has respect for the incarnation of the Lord, he cannot perfectly perform sacrifice. In other words, taking shelter of the Lord and rendering service unto Him is the factual performance of all sacrifices, as explained herein. Different plates of sacrifice correspond to the different parts of the body of the Lord’s incarnation. In the Śrīmad-Bhāgavatam, Eleventh Canto, it is explicitly directed that one should perform saṅkīrtana-yajña to please the Lord’s incarnation as Śrī Caitanya Mahāprabhu. This should be rigidly followed in order to achieve the result of yajña performance.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.13]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/13/36/)

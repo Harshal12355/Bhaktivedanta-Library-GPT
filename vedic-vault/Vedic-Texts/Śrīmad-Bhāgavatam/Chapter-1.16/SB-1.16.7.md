@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/16"
+verse: "7"
+reference: "SB 1.16.7"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/16/7/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.783017
+---
+
+# SB 1.16.7
+
+## Sanskrit
+
+क्षुद्रायुषां नृणामङ्ग मर्त्यानामृतमिच्छताम् । इहोपहूतो भगवान्मृत्यु: शामित्रकर्मणि ॥ ७ ॥
+
+## Transliteration
+
+*kṣudrāyuṣāṁ nṛṇām aṅga martyānām ṛtam icchatām ihopahūto bhagavān mṛtyuḥ śāmitra-karmaṇi*
+
+## Word-for-Word
+
+kṣudra — very small ; āyuṣām — of the duration of life ; nṛṇām — of the human beings ; aṅga — O Sūta Gosvāmī ; martyānām — of those who are sure to meet death ; ṛtam — eternal life ; icchatām — of those who desire it ; iha — herein ; upahūtaḥ — called for being present ; bhagavān — representing the Lord ; mṛtyuḥ — the controller of death, Yamarāja ; śāmitra — suppressing ; karmaṇi — performances .
+
+## Translation
+
+O Sūta Gosvāmī, there are those amongst men who desire freedom from death and get eternal life. They escape the slaughtering process by calling the controller of death, Yamarāja.
+
+## Purport
+
+The living entity, as he develops from lower animal life to a higher human being and gradually to higher intelligence, becomes anxious to get free from the clutches of death. Modern scientists try to avoid death by physiochemical advancement of knowledge, but alas, the controller of death, Yamarāja, is so cruel that he does not spare even the very life of the scientist himself. The scientist, who puts forward the theory of stopping death by advancement of scientific knowledge, becomes himself a victim of death when he is called by Yamarāja. What to speak of stopping death, no one can enhance the short period of life even by a fraction of a moment. The only hope of suspending the cruel slaughtering process of Yamarāja is to call him to hear and chant the holy name of the Lord. Yamarāja is a great devotee of the Lord, and he likes to be invited to kīrtanas and sacrifices by the pure devotees, who are constantly engaged in the devotional service of the Lord. Thus the great sages, headed by Śaunaka and others, invited Yamarāja to attend the sacrifice performed at Naimiṣāraṇya. This was good for those who did not want to die.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/16/7/)

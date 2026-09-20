@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/7"
+verse: "41"
+reference: "SB 2.7.41"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/7/41/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.846379
+---
+
+# SB 2.7.41
+
+## Sanskrit
+
+नान्तं विदाम्यहममी मुनयोऽग्रजास्ते मायाबलस्य पुरुषस्य कुतोऽवरा ये । गायन् गुणान् दशशतानन आदिदेव: शेषोऽधुनापि समवस्यति नास्य पारम् ॥ ४१ ॥
+
+## Transliteration
+
+*nāntaṁ vidāmy aham amī munayo ’gra-jās te māyā-balasya puruṣasya kuto ’varā ye gāyan guṇān daśa-śatānana ādi-devaḥ śeṣo ’dhunāpi samavasyati nāsya pāram*
+
+## Word-for-Word
+
+na — never ; antam — end ; vidāmi — do I know ; aham — myself ; amī — and all those ; munayaḥ — great sages ; agra - jāḥ — born prior to you ; te — you ; māyā - balasya — of the omnipotent ; puruṣasya — of the Personality of Godhead ; kutaḥ — what to speak of others ; avarāḥ — born after us ; ye — those ; gāyan — by singing ; guṇān — the qualities ; daśa - śata - ānanaḥ — one who has ten hundred faces ; ādi - devaḥ — the first incarnation of the Lord ; śeṣaḥ — known as Śeṣa ; adhunā — until now ; api — even ; samavasyati — can achieve ; na — not ; asya — of Him ; pāram — limit .
+
+## Translation
+
+Neither I nor all the sages born before you know fully the omnipotent Personality of Godhead. So what can others, who are born after us, know about Him? Even the first incarnation of the Lord, namely Śeṣa, has not been able to reach the limit of such knowledge, although He is describing the qualities of the Lord with ten hundred faces.
+
+## Purport
+
+The omnipotent Personality of Godhead has three primary potencies, namely the internal, external and marginal potencies, with unlimited expansions of these three energies. As such, the expansions of His potencies can never be calculated by anyone because even the Personality of God Himself, as the incarnation of Śeṣa, cannot estimate the potencies, although He has been describing them continuously with His one thousand faces.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/7/41/)

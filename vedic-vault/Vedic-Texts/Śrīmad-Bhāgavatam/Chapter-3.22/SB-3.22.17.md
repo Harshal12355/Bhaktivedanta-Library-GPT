@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/22"
+verse: "17"
+reference: "SB 3.22.17"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/22/17/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.911477
+---
+
+# SB 3.22.17
+
+## Sanskrit
+
+यां हर्म्यपृष्ठे क्‍वणदङ्‌घ्रिशोभां विक्रीडतीं कन्दुकविह्वलाक्षीम् । विश्‍वावसुर्न्यपतत्स्वाद्विमाना- द्विलोक्य सम्मोहविमूढचेता: ॥ १७ ॥
+
+## Transliteration
+
+*yāṁ harmya-pṛṣṭhe kvaṇad-aṅghri-śobhāṁ vikrīḍatīṁ kanduka-vihvalākṣīm viśvāvasur nyapatat svād vimānād vilokya sammoha-vimūḍha-cetāḥ*
+
+## Word-for-Word
+
+yām — whom ; harmya - pṛṣṭhe — on the roof of the palace ; kvaṇat - aṅghri - śobhām — whose beauty was heightened by the tinkling ornaments on her feet ; vikrīḍatīm — playing ; kanduka - vihvala - akṣīm — with eyes bewildered, following her ball ; viśvāvasuḥ — Viśvāvasu ; nyapatat — fell down ; svāt — from his own ; vimānāt — from the airplane ; vilokya — seeing ; sammoha - vimūḍha - cetāḥ — whose mind was stupefied .
+
+## Translation
+
+I have heard that Viśvāvasu, the great Gandharva, his mind stupefied with infatuation, fell from his airplane after seeing your daughter playing with a ball on the roof of the palace, for she was indeed beautiful with her tinkling ankle bells and her eyes moving to and fro.
+
+## Purport
+
+It is understood that not only at the present moment but in those days also there were skyscrapers. Herein we find the word harmya-pṛṣṭhe. Harmya means “a very big palatial building.” Svād vimānāt means “from his own airplane.” It is suggested that private airplanes or helicopters were also current in those days. The Gandharva Viśvāvasu, while flying in the sky, could see Devahūti playing ball on the roof of the palace. Ball playing was also current, but aristocratic girls would not play in a public place. Ball playing and other such pleasures were not meant for ordinary women and girls; only princesses like Devahūti could indulge in such sports. It is described here that she was seen from the flying airplane. This indicates that the palace was very high, otherwise how could one see her from an airplane? The vision was so distinct that the Gandharva Viśvāvasu was bewildered by her beauty and by hearing the sound of her ankle bangles, and being captivated by the sound and beauty, he fell down. Kardama Muni mentioned the incident as he had heard it.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.22]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/22/17/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/23"
+verse: "42"
+reference: "SB 3.23.42"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/23/42/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.915719
+---
+
+# SB 3.23.42
+
+## Sanskrit
+
+किं दुरापादनं तेषां पुंसामुद्दामचेतसाम् । यैराश्रितस्तीर्थपदश्चरणो व्यसनात्यय: ॥ ४२ ॥
+
+## Transliteration
+
+*kiṁ durāpādanaṁ teṣāṁ puṁsām uddāma-cetasām yair āśritas tīrtha-padaś caraṇo vyasanātyayaḥ*
+
+## Word-for-Word
+
+kim — what ; durāpādanam — difficult to achieve ; teṣām — for those ; puṁsām — men ; uddāma - cetasām — who are determined ; yaiḥ — by whom ; āśritaḥ — taken refuge ; tīrtha - padaḥ — of the Supreme Personality of Godhead ; caraṇaḥ — feet ; vyasana - atyayaḥ — which vanquish dangers .
+
+## Translation
+
+What is difficult to achieve for determined men who have taken refuge of the Supreme Personality of Godhead’s lotus feet? His feet are the source of sacred rivers like the Ganges, which put an end to the dangers of mundane life.
+
+## Purport
+
+The words yair āśritas tīrtha-padaś caraṇaḥ are significant here. The Supreme Personality of Godhead is known as tīrtha-pāda. The Ganges is called a sacred river because it emanates from the toe of Viṣṇu. The Ganges is meant to eradicate all the material distresses of the conditioned souls. Therefore nothing is impossible for any living entity who has taken shelter of the holy lotus feet of the Lord. Kardama Muni is special not because he was a great mystic, but because he was a great devotee. Therefore it is said here that for a great devotee like Kardama Muni, nothing is impossible. Although yogīs can perform wonderful feats, as Kardama has already displayed, Kardama was more than a yogī because he was a great devotee of the Lord; therefore he was more glorious than an ordinary yogī. As it is confirmed in Bhagavad-gītā, “Out of the many yogīs, he who is a devotee of the Lord is first class.” For a person like Kardama Muni there is no question of being conditioned; he was already a liberated soul and better than the demigods, who are also conditioned. Although he was enjoying with his wife and many other women, he was above material, conditional life. Therefore the word vyasanātyayaḥ is used to indicate that he was beyond the position of a conditioned soul. He was transcendental to all material limitations.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.23]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/23/42/)

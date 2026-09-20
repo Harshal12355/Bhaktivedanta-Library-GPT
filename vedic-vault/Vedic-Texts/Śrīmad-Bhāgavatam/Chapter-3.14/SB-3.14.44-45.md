@@ -1,0 +1,38 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/14"
+verse: "44-45"
+reference: "SB 3.14.44-45"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/14/44-45/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.885507
+---
+
+# SB 3.14.44-45
+
+## Sanskrit
+
+कश्यप उवाच कृतशोकानुतापेन सद्य: प्रत्यवमर्शनात् । भगवत्युरुमानाच्च भवे मय्यपि चादरात् ॥ ४४ ॥ पुत्रस्यैव च पुत्राणां भवितैक: सतां मत: । गास्यन्ति यद्यश: शुद्धं भगवद्यशसा समम् ॥ ४५ ॥
+
+## Transliteration
+
+*kaśyapa uvāca kṛta-śokānutāpena sadyaḥ pratyavamarśanāt bhagavaty uru-mānāc ca bhave mayy api cādarāt putrasyaiva ca putrāṇāṁ bhavitaikaḥ satāṁ mataḥ gāsyanti yad-yaśaḥ śuddhaṁ bhagavad-yaśasā samam*
+
+## Word-for-Word
+
+kaśyapaḥ uvāca — the learned Kaśyapa said ; kṛta - śoka — having lamented ; anutāpena — by penitence ; sadyaḥ — immediately ; pratyavamarśanāt — by proper deliberation ; bhagavati — unto the Supreme Personality of Godhead ; uru — great ; mānāt — adoration ; ca — and ; bhave — unto Lord Śiva ; mayi api — unto me also ; ca — and ; ādarāt — by respect ; putrasya — of the son ; eva — certainly ; ca — and ; putrāṇām — of the sons ; bhavitā — shall be born ; ekaḥ — one ; satām — of the devotees ; mataḥ — approved ; gāsyanti — will broadcast ; yat — of whom ; yaśaḥ — recognition ; śuddham — transcendental ; bhagavat — of the Personality of Godhead ; yaśasā — with recognition ; samam — equally .
+
+## Translation
+
+The learned Kaśyapa said: Because of your lamentation, penitence and proper deliberation, and also because of your unflinching faith in the Supreme Personality of Godhead and your adoration for Lord Śiva and me, one of the sons [Prahlāda] of your son [Hiraṇyakaśipu] will be an approved devotee of the Lord, and his fame will be broadcast equally with that of the Personality of Godhead.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.14]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/14/44-45/)

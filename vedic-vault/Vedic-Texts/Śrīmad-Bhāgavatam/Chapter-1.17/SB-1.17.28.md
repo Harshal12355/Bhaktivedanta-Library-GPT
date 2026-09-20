@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/17"
+verse: "28"
+reference: "SB 1.17.28"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/17/28/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.786470
+---
+
+# SB 1.17.28
+
+## Sanskrit
+
+इति धर्मं महीं चैव सान्‍त्वयित्वा महारथ: । निशातमाददे खड्गं कलयेऽधर्महेतवे ॥ २८ ॥
+
+## Transliteration
+
+*iti dharmaṁ mahīṁ caiva sāntvayitvā mahā-rathaḥ niśātam ādade khaḍgaṁ kalaye ’dharma-hetave*
+
+## Word-for-Word
+
+iti — thus ; dharmam — the personality of religion ; mahīm — the earth ; ca — also ; eva — as ; sāntvayitvā — after pacifying ; mahā - rathaḥ — the general who could fight alone with thousands of enemies ; niśātam — sharp ; ādade — took up ; khaḍgam — sword ; kalaye — to kill the personified Kali ; adharma — irreligion ; hetave — the root cause .
+
+## Translation
+
+Mahārāja Parīkṣit, who could fight one thousand enemies single-handedly, thus pacified the personality of religion and the earth. Then he took up his sharp sword to kill the personality of Kali, who is the cause of all irreligion.
+
+## Purport
+
+As described above, the personality of Kali is he who deliberately commits all kinds of sinful acts which are forbidden in the revealed scriptures. This Age of Kali will certainly be full of all activities of Kali, but this does not mean that the leaders of society — the executive heads, the learned and intelligent men or, above all, the devotees of the Lord — should sit down tightly and become callous to the reactions of the Age of Kali. In the rainy season certainly there will be profuse rainfalls, but that does not mean that men should not take means to protect themselves from the rains. It is the duty of the executive heads of state and others to take all necessary actions against the activities of Kali or the persons influenced by the Age of Kali; and Mahārāja Parīkṣit is the ideal executive head of the state, for at once he was ready to kill the personality of Kali with his sharp sword. The administrators should not simply pass resolutions for anticorruptional steps, but they must be ready with sharp swords to kill the persons creating corruptions from the angle of vision of the recognized śāstras. The administrators cannot prevent corrupt activities by allowing wine shops. They must at once close all shops of intoxicating drugs and wine and force punishment even by death for those who indulge in habits of intoxication of all description. That is the way of stopping the activities of Kali, as exhibited herein by Mahārāja Parīkṣit, the mahā-ratha.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.17]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/17/28/)

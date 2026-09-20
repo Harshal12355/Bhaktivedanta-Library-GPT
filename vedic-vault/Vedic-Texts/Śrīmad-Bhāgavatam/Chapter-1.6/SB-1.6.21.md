@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/6"
+verse: "21"
+reference: "SB 1.6.21"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/6/21/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.804656
+---
+
+# SB 1.6.21
+
+## Sanskrit
+
+हन्तास्मिञ्जन्मनि भवान्मा मां द्रष्टुमिहार्हति । अविपक्‍वकषायाणां दुर्दर्शोऽहं कुयोगिनाम् ॥ २१ ॥
+
+## Transliteration
+
+*hantāsmiñ janmani bhavān mā māṁ draṣṭum ihārhati avipakva-kaṣāyāṇāṁ durdarśo ’haṁ kuyoginām*
+
+## Word-for-Word
+
+hanta — O Nārada ; asmin — this ; janmani — duration of life ; bhavān — yourself ; mā — not ; mām — Me ; draṣṭum — to see ; iha — here ; arhati — deserve ; avipakva — immature ; kaṣāyāṇām — material dirt ; durdarśaḥ — difficult to be seen ; aham — I ; kuyoginām — incomplete in service .
+
+## Translation
+
+O Nārada [the Lord spoke], I regret that during this lifetime you will not be able to see Me anymore. Those who are incomplete in service and who are not completely free from all material taints can hardly see Me.
+
+## Purport
+
+The Personality of Godhead is described in the Bhagavad-gītā as the most pure, the Supreme and the Absolute Truth. There is no trace of a tinge of materiality in His person, and thus one who has the slightest tinge of material affection cannot approach Him. The beginning of devotional service starts from the point when one is freed from at least two forms of material modes, namely the mode of passion and the mode of ignorance. The result is exhibited by the signs of being freed from kāma (lust) and lobha (covetousness). That is to say, one must be freed from the desires for sense satisfaction and avarice for sense gratification. The balanced mode of nature is goodness. And to be completely freed from all material tinges is to become free from the mode of goodness also. To search the audience of God in a lonely forest is considered to be in the mode of goodness. One can go out into the forest to attain spiritual perfection, but that does not mean that one can see the Lord personally there. One must be completely freed from all material attachment and be situated on the plane of transcendence, which alone will help the devotee get in personal touch with the Personality of Godhead. The best method is that one should live at a place where the transcendental form of the Lord is worshiped. The temple of the Lord is a transcendental place, whereas the forest is a materially good habitation. A neophyte devotee is always recommended to worship the Deity of the Lord ( arcanā ) rather than go into the forest to search out the Lord. Devotional service begins from the process of arcanā, which is better than going out in the forest. In his present life, which is completely freed from all material hankerings, Śrī Nārada Muni does not go into the forest, although he can turn every place into Vaikuṇṭha by his presence only. He travels from one planet to another to convert men, gods, Kinnaras, Gandharvas, ṛṣis, munis and all others to become devotees of the Lord. By his activities he has engaged many devotees like Prahlāda Mahārāja, Dhruva Mahārāja and many others in the transcendental service of the Lord. A pure devotee of the Lord, therefore, follows in the footsteps of the great devotees like Nārada and Prahlāda and engages his whole time in glorifying the Lord by the process of kīrtana. Such a preaching process is transcendental to all material qualities.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/6/21/)

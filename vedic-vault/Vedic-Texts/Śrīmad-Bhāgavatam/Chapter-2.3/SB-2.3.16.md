@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/3"
+verse: "16"
+reference: "SB 2.3.16"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/3/16/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.831096
+---
+
+# SB 2.3.16
+
+## Sanskrit
+
+वैयासकिश्च भगवान् वासुदेवपरायण: । उरुगायगुणोदारा: सतां स्युर्हि समागमे ॥ १६ ॥
+
+## Transliteration
+
+*vaiyāsakiś ca bhagavān vāsudeva-parāyaṇaḥ urugāya-guṇodārāḥ satāṁ syur hi samāgame*
+
+## Word-for-Word
+
+vaiyāsakiḥ — the son of Vyāsadeva ; ca — also ; bhagavān — full in transcendental knowledge ; vāsudeva — Lord Kṛṣṇa ; parāyaṇaḥ — attached to ; urugāya — of the Personality of Godhead Śrī Kṛṣṇa, who is glorified by great philosophers ; guṇa - udārāḥ — great qualities ; satām — of the devotees ; syuḥ — must have been ; hi — as a matter of fact ; samāgame — by the presence of .
+
+## Translation
+
+Śukadeva Gosvāmī, the son of Vyāsadeva, was also full in transcendental knowledge and was a great devotee of Lord Kṛṣṇa, son of Vasudeva. So there must have been discussion of Lord Kṛṣṇa, who is glorified by great philosophers and in the company of great devotees.
+
+## Purport
+
+The word satām is very important in this verse. Satām means the pure devotees, who have no other desire than to serve the Lord. Only in the association of such devotees are the transcendental glories of Lord Kṛṣṇa properly discussed. It is said by the Lord that His topics are all full of spiritual significance, and once one properly hears about Him in the association of the satām, certainly one senses the great potency and so automatically attains to the devotional stage of life. As already described, Mahārāja Parīkṣit was a great devotee of the Lord from his very birth, and so was Śukadeva Gosvāmī. Both of them were on the same level, although it appeared that Mahārāja Parīkṣit was a great king accustomed to royal facilities whereas Śukadeva Gosvāmī was a typical renouncer of the world, so much so that he did not even put a cloth on his body. Superficially, Mahārāja Parīkṣit and Śukadeva Gosvāmī might seem to be opposites, but basically they were both unalloyed, pure devotees of the Lord. When such devotees are assembled together, there can be no topics save discussions of the glories of the Lord, or bhakti-yoga. In the Bhagavad-gītā also, when there were talks between the Lord and His devotee Arjuna, there could not be any topic other than bhakti-yoga, however the mundane scholars may speculate on it in their own ways. The use of the word ca after vaiyāsakiḥ suggests, according to Śrīla Jīva Gosvāmī, that both Śukadeva Gosvāmī and Mahārāja Parīkṣit were of the same category, settled long before, although one was playing the part of the master and the other the disciple. Since Lord Kṛṣṇa is the center of the topics, the word vāsudeva-parāyaṇaḥ, or “devotee of Vāsudeva,” suggests devotee of Lord Kṛṣṇa, the common aim. Although there were many others who assembled at the place where Mahārāja Parīkṣit was fasting, the natural conclusion is that there was no topic other than the glorification of Lord Kṛṣṇa, because the principal speaker was Śukadeva Gosvāmī and the chief audience was Mahārāja Parīkṣit. So Śrīmad-Bhāgavatam, as it was spoken and heard by two principal devotees of the Lord, is only for the glorification of the Supreme Lord, the Personality of Godhead, Śrī Kṛṣṇa.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/3/16/)

@@ -1,7 +1,7 @@
 ---
 title: "Vedic Knowledge Vault"
 type: "index"
-created: 2026-09-17T23:16:09.544054
+created: 2026-09-20T02:00:53.952060
 ---
 
 # Vedic Knowledge Vault
@@ -10,14 +10,41 @@ A comprehensive, interconnected knowledge base of Vedic philosophy and texts.
 
 ## 📚 Vedic Texts
 
-- [[Bhagavad-Gita]] - The Song of God (18 chapters, 5 verses)
+- [[Bhagavad-Gita]] - The Song of God (18 chapters, 2810 verses)
 
 ## 🔮 Core Concepts
 
 ### Spiritual Principles
-- [[Bhakti]]
-- [[Dharma]]
-- [[Yoga]]
+- [[153142]]
+- [[153273]]
+- [[153562]]
+- [[153769]]
+- [[153929]]
+- [[153944]]
+- [[154103]]
+- [[154273]]
+- [[154361]]
+- [[154504]]
+- [[154757]]
+- [[155532]]
+- [[155975]]
+- [[156282]]
+- [[156681]]
+- [[156682]]
+- [[156736]]
+- [[156861]]
+- [[158624]]
+- [[158628]]
+- [[159350]]
+- [[159634]]
+- [[159882]]
+- [[159890]]
+- [[160129]]
+- [[160565]]
+- [[161305]]
+- [[161356]]
+- [[161866]]
+- [[162393]]
 
 
 ## 📖 How to Use
@@ -29,10 +56,10 @@ A comprehensive, interconnected knowledge base of Vedic philosophy and texts.
 
 ## 📊 Vault Stats
 
-- **Total Verses**: 5
-- **Total Concepts**: 3
+- **Total Verses**: 2810
+- **Total Concepts**: 30
 - **Books**: 1 (Bhagavad Gita)
-- **Last Updated**: 2026-09-17T23:16:09.544060
+- **Last Updated**: 2026-09-20T02:00:53.952081
 
 ## 🔗 Cross-References
 

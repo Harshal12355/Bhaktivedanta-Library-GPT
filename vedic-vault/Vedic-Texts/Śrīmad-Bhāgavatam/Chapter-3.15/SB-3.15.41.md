@@ -1,0 +1,38 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/15"
+verse: "41"
+reference: "SB 3.15.41"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/15/41/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.889157
+---
+
+# SB 3.15.41
+
+## Sanskrit
+
+विद्युत्क्षिपन्मकरकुण्डलमण्डनार्ह- गण्डस्थलोन्नसमुखं मणिमत्किरीटम् । दोर्दण्डषण्डविवरे हरता परार्ध्य- हारेण कन्धरगतेन च कौस्तुभेन ॥ ४१ ॥
+
+## Transliteration
+
+*vidyut-kṣipan-makara-kuṇḍala-maṇḍanārha- gaṇḍa-sthalonnasa-mukhaṁ maṇimat-kirīṭam dor-daṇḍa-ṣaṇḍa-vivare haratā parārdhya- hāreṇa kandhara-gatena ca kaustubhena*
+
+## Word-for-Word
+
+vidyut — lightning ; kṣipat — outshining ; makara — alligator shaped ; kuṇḍala — earrings ; maṇḍana — decoration ; arha — as it fits ; gaṇḍa - sthala — cheeks ; unnasa — prominent nose ; mukham — countenance ; maṇi - mat — gem-studded ; kirīṭam — crown ; doḥ - daṇḍa — of His four stout arms ; ṣaṇḍa — group ; vivare — between ; haratā — charming ; para - ardhya — by the most precious ; hāreṇa — necklace ; kandhara - gatena — adorning His neck ; ca — and ; kaustubhena — by the Kaustubha jewel .
+
+## Translation
+
+His countenance was distinguished by cheeks that enhanced the beauty of His alligator-shaped pendants, which outshone lightning. His nose was prominent, and His head was covered with a gem-studded crown. A charming necklace hung between His stout arms, and His neck was adorned with the gem known by the name Kaustubha.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.15]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/15/41/)

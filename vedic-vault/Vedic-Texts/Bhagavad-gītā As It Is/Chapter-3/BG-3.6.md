@@ -1,0 +1,42 @@
+---
+source_text: "Bhagavad-gītā As It Is"
+book: "bg"
+chapter: "3"
+verse: "6"
+reference: "BG 3.6"
+themes: []
+tags: [bg, verse]
+source_url: "https://vedabase.io/en/library/bg/3/6/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.743760
+---
+
+# BG 3.6
+
+## Sanskrit
+
+कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् । इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥ ६ ॥
+
+## Transliteration
+
+*karmendriyāṇi saṁyamya ya āste manasā smaran indriyārthān vimūḍhātmā mithyācāraḥ sa ucyate*
+
+## Word-for-Word
+
+karma - indriyāṇi — the five working sense organs ; saṁyamya — controlling ; yaḥ — anyone who ; āste — remains ; manasā — by the mind ; smaran — thinking of ; indriya - arthān — sense objects ; vimūḍha — foolish ; ātmā — soul ; mithyā - ācāraḥ — pretender ; saḥ — he ; ucyate — is called .
+
+## Translation
+
+One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender.
+
+## Purport
+
+There are many pretenders who refuse to work in Kṛṣṇa consciousness but make a show of meditation, while actually dwelling within the mind upon sense enjoyment. Such pretenders may also speak on dry philosophy in order to bluff sophisticated followers, but according to this verse these are the greatest cheaters. For sense enjoyment one can act in any capacity of the social order, but if one follows the rules and regulations of his particular status, he can make gradual progress in purifying his existence. But he who makes a show of being a yogī while actually searching for the objects of sense gratification must be called the greatest cheater, even though he sometimes speaks of philosophy. His knowledge has no value, because the effects of such a sinful man’s knowledge are taken away by the illusory energy of the Lord. Such a pretender’s mind is always impure, and therefore his show of yogic meditation has no value whatsoever.
+
+## References
+
+- [[Bhagavad-gītā As It Is]]
+- [[Bhagavad-gītā As It Is Chapter 3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/bg/3/6/)

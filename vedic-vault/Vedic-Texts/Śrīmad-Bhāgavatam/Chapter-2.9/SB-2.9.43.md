@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/9"
+verse: "43"
+reference: "SB 2.9.43"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/9/43/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.861826
+---
+
+# SB 2.9.43
+
+## Sanskrit
+
+तुष्टं निशाम्य पितरं लोकानां प्रपितामहम् । देवर्षि: परिपप्रच्छ भवान् यन्मानुपृच्छति ॥ ४३ ॥
+
+## Transliteration
+
+*tuṣṭaṁ niśāmya pitaraṁ lokānāṁ prapitāmaham devarṣiḥ paripapraccha bhavān yan mānupṛcchati*
+
+## Word-for-Word
+
+tuṣṭam — satisfied ; niśāmya — after seeing ; pitaram — the father ; lokānām — of the whole universe ; prapitāmaham — the great-grandfather ; devarṣiḥ — the great sage Nārada ; paripapraccha — inquired ; bhavān — yourself ; yat — as it is ; mā — from me ; anupṛcchati — inquiring .
+
+## Translation
+
+The great sage Nārada also inquired in detail from his father, Brahmā, the great-grandfather of all the universe, after seeing him well satisfied.
+
+## Purport
+
+The process of understanding spiritual or transcendental knowledge from the realized person is not exactly like asking an ordinary question from the schoolmaster. The schoolmasters in the modern days are paid agents for giving some information, but the spiritual master is not a paid agent. Nor can he impart instruction without being authorized. In the Bhagavad-gītā (4.34) the process of understanding transcendental knowledge is directed as follows: tad viddhi praṇipātena paripraśnena sevayā upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ Arjuna was advised to receive transcendental knowledge from the realized person by surrender, questions and service. Receiving transcendental knowledge is not like exchanging dollars; such knowledge has to be received by service to the spiritual master. As Brahmājī received the knowledge directly from the Lord by satisfying Him fully, similarly one has to receive the transcendental knowledge from the spiritual master by satisfying him. The spiritual master’s satisfaction is the means of assimilating transcendental knowledge. One cannot understand transcendental knowledge simply by becoming a grammarian. The Vedas declare: yasya deve parā bhaktir yathā deve tathā gurau tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ “Only unto one who has unflinching devotion to the Lord and to the spiritual master does transcendental knowledge become automatically revealed.” ( Śvetāśvatara Upaniṣad 6.23) Such relationship between the disciple and the spiritual master is eternal. One who is now the disciple is the next spiritual master. And one cannot be a bona fide and authorized spiritual master unless one has been strictly obedient to his spiritual master. Brahmājī, as a disciple of the Supreme Lord, received the real knowledge and imparted it to his dear disciple Nārada, and similarly Nārada, as spiritual master, handed over this knowledge to Vyāsa and so on. Therefore the so-called formal spiritual master and disciple are not facsimiles of Brahmā and Nārada or Nārada and Vyāsa. The relationship between Brahmā and Nārada is reality, while the so-called formality is the relation between the cheater and cheated. It is clearly mentioned herewith that Nārada is not only well-behaved, meek and obedient, but also self-controlled. One who is not self-controlled, specifically in sex life, can become neither a disciple nor a spiritual master. One must have disciplinary training in controlling speaking, anger, the tongue, the mind, the belly and the genitals. One who has controlled the particular senses mentioned above is called a gosvāmī. Without becoming a gosvāmī one can become neither a disciple nor a spiritual master. The so-called spiritual master without sense control is certainly the cheater, and the disciple of such a so-called spiritual master is the cheated. One should not think of Brahmājī as a dead great-grandfather, as we have experience on this planet. He is the oldest great-grandfather, and he is still living, and Nārada is also living. The age of the inhabitants of the Brahmaloka planet is mentioned in the Bhagavad-gītā. The inhabitants of this small planet earth can hardly calculate even the duration of one day of Brahmā.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.9]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/9/43/)

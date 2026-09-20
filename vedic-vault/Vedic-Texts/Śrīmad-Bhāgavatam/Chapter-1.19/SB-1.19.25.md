@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/19"
+verse: "25"
+reference: "SB 1.19.25"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/19/25/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.792100
+---
+
+# SB 1.19.25
+
+## Sanskrit
+
+तत्राभवद्भगवान् व्यासपुत्रो यद‍ृच्छया गामटमानोऽनपेक्ष: । अलक्ष्यलिङ्गो निजलाभतुष्टो वृतश्च बालैरवधूतवेष: ॥ २५ ॥
+
+## Transliteration
+
+*tatrābhavad bhagavān vyāsa-putro yadṛcchayā gām aṭamāno ’napekṣaḥ alakṣya-liṅgo nija-lābha-tuṣṭo vṛtaś ca bālair avadhūta-veṣaḥ*
+
+## Word-for-Word
+
+tatra — there ; abhavat — appeared ; bhagavān — powerful ; vyāsa - putraḥ — son of Vyāsadeva ; yadṛcchayā — as one desires ; gām — the earth ; aṭamānaḥ — while traveling ; anapekṣaḥ — disinterested ; alakṣya — unmanifested ; liṅgaḥ — symptoms ; nija - lābha — self-realized ; tuṣṭaḥ — satisfied ; vṛtaḥ — surrounded ; ca — and ; bālaiḥ — by children ; avadhūta — neglected by others ; veṣaḥ — dressed .
+
+## Translation
+
+At that moment there appeared the powerful son of Vyāsadeva, who traveled over the earth disinterested and satisfied with himself. He did not manifest any symptoms of belonging to any social order or status of life. He was surrounded with women and children, and he dressed as if others had neglected him.
+
+## Purport
+
+The word bhagavān is sometimes used in relation with some of the great devotees of the Lord, like Śukadeva Gosvāmī. Such liberated souls are disinterested in the affairs of this material world because they are self-satisfied by the great achievements of devotional service. As explained before, Śukadeva Gosvāmī never accepted any formal spiritual master, nor did he undergo any formal reformatory performances. His father, Vyāsadeva, was his natural spiritual master because Śukadeva Gosvāmī heard Śrīmad-Bhāgavatam from him. After this, he became completely self-satisfied. Thus he was not dependent on any formal process. The formal processes are necessary for those who are expected to reach the stage of complete liberation, but Śrī Śukadeva Gosvāmī was already in that status by the grace of his father. As a young boy he was expected to be properly dressed, but he went about naked and was uninterested in social customs. He was neglected by the general populace, and inquisitive boys and women surrounded him as if he were a madman. He thus appears on the scene while traveling on the earth of his own accord. It appears that upon the inquiry of Mahārāja Parīkṣit, the great sages were not unanimous in their decision as to what was to be done. For spiritual salvation there were many prescriptions according to the different modes of different persons. But the ultimate aim of life is to attain the highest perfectional stage of devotional service to the Lord. As doctors differ, so also sages differ in their different prescriptions. While such things were going on, the great and powerful son of Vyāsadeva appeared on the scene.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.19]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/19/25/)

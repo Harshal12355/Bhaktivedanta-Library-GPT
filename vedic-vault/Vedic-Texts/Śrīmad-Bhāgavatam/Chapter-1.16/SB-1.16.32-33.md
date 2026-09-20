@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/16"
+verse: "32-33"
+reference: "SB 1.16.32-33"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/16/32-33/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.784521
+---
+
+# SB 1.16.32-33
+
+## Sanskrit
+
+ब्रह्मादयो बहुतिथं यदपाङ्गमोक्ष- कामास्तप: समचरन् भगवत्प्रपन्ना: । सा श्री: स्ववासमरविन्दवनं विहाय यत्पादसौभगमलं भजतेऽनुरक्ता ॥ ३२ ॥ तस्याहमब्जकुलिशाङ्‍कुशकेतुकेतै: श्रीमत्पदैर्भगवत: समलङ्‍कृताङ्गी । त्रीनत्यरोच उपलभ्य ततो विभूतिं लोकान् स मां व्यसृजदुत्स्मयतीं तदन्ते ॥ ३३ ॥
+
+## Transliteration
+
+*brahmādayo bahu-tithaṁ yad-apāṅga-mokṣa- kāmās tapaḥ samacaran bhagavat-prapannāḥ sā śrīḥ sva-vāsam aravinda-vanaṁ vihāya yat-pāda-saubhagam alaṁ bhajate ’nuraktā tasyāham abja-kuliśāṅkuśa-ketu-ketaiḥ śrīmat-padair bhagavataḥ samalaṅkṛtāṅgī trīn atyaroca upalabhya tato vibhūtiṁ lokān sa māṁ vyasṛjad utsmayatīṁ tad-ante*
+
+## Word-for-Word
+
+brahma - ādayaḥ — demigods such as Brahmā ; bahu - titham — for many days ; yat — of Lakṣmī, the goddess of fortune ; apāṅga - mokṣa — glance of grace ; kāmāḥ — being desirous of ; tapaḥ — penances ; samacaran — executing ; bhagavat — unto the Personality of Godhead ; prapannāḥ — surrendered ; sā — she (the goddess of fortune) ; śrīḥ — Lakṣmījī ; sva - vāsam — her own abode ; aravinda - vanam — the forest of lotus flowers ; vihāya — leaving aside ; yat — whose ; pāda — feet ; saubhagam — all-blissful ; alam — without hesitation ; bhajate — worships ; anuraktā — being attached ; tasya — His ; aham — myself ; abja — lotus flower ; kuliśa — thunderbolt ; aṅkuśa — rod for driving elephants ; ketu — flag ; ketaiḥ — impressions ; śrīmat — the owner of all opulence ; padaiḥ — by the soles of the feet ; bhagavataḥ — of the Personality of Godhead ; samalaṅkṛta - aṅgī — one whose body is so decorated ; trīn — three ; ati — superseding ; aroce — beautifully decorated ; upalabhya — having obtained ; tataḥ — thereafter ; vibhūtim — specific powers ; lokān — planetary systems ; saḥ — He ; mām — me ; vyasṛjat — gave up ; utsmayatīm — while feeling proud ; tat - ante — at the end .
+
+## Translation
+
+Lakṣmījī, the goddess of fortune, whose glance of grace was sought by demigods like Brahmā and for whom they surrendered many a day unto the Personality of Godhead, gave up her own abode in the forest of lotus flowers and engaged herself in the service of the lotus feet of the Lord. I was endowed with specific powers to supersede the fortune of all the three planetary systems by being decorated with the impressions of the flag, thunderbolt, elephant-driving rod and lotus flower, which are signs of the lotus feet of the Lord. But at the end, when I felt I was so fortunate, the Lord left me.
+
+## Purport
+
+The beauty and opulence of the world can be enhanced by the grace of the Lord and not by any man-made planning. When the Lord Śrī Kṛṣṇa was present on this earth, the impressions of the special signs of His lotus feet were stamped on the dust, and as a result of this specific grace, the whole earth was made as perfect as possible. In other words, the rivers, the seas, the forests, the hills and the mines, which are the supplying agents for the necessities of men and animals, were fully discharging their respective duties. Therefore the riches of the world surpassed all the riches of all other planets in the three planetary systems of the universe. One should, therefore, ask that the grace of the Lord always be present on earth so that we may be favored with His causeless mercy and be happy, having all necessities of life. One may ask how we can detain the Supreme Lord on this earth after His mission is fulfilled and He has left this earth for His own abode. The answer is that there is no need to detain the Lord. The Lord, being omnipresent, can be present with us if we want Him at all. By His omnipresence, He can always be with us if we are attached to His devotional service by hearing, chanting, remembering, etc. There is nothing in the world with which the Lord is disconnected. The only thing we must learn is to excavate the source of connection and thus be linked with Him by offenseless service. We can be connected with Him by the transcendental sound representation of the Lord. The holy name of the Lord and the Lord Himself are identical, and one who chants the holy name of the Lord in an offenseless manner can at once realize that the Lord is present before him. Even by the vibration of radio sound, we can partially realize sound relativity, and by resounding the sound of transcendence we can verily feel the presence of the Lord. In this age, when everything is polluted by the contamination of Kali, it is instructed in the scriptures and preached by Lord Śrī Caitanya Mahāprabhu that by chanting the holy name of the Lord, we can at once be free from contamination and gradually rise to the status of transcendence and go back to Godhead. The offenseless chanter of the holy name of the Lord is as auspicious as the Lord Himself, and the movement of pure devotees of the Lord all over the world can at once change the troublesome face of the world. Only by the propagation of the chanting of the holy name of the Lord can we be immune from all effects of the Age of Kali.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/16/32-33/)

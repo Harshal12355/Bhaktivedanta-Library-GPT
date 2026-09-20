@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/2"
+verse: "15"
+reference: "SB 1.2.15"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/2/15/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.793850
+---
+
+# SB 1.2.15
+
+## Sanskrit
+
+यदनुध्यासिना युक्ता: कर्मग्रन्थिनिबन्धनम् । छिन्दन्ति कोविदास्तस्य को न कुर्यात्कथारतिम् ॥ १५ ॥
+
+## Transliteration
+
+*yad-anudhyāsinā yuktāḥ karma-granthi-nibandhanam chindanti kovidās tasya ko na kuryāt kathā-ratim*
+
+## Word-for-Word
+
+yat — which ; anudhyā — remembrance ; asinā — sword ; yuktāḥ — being equipped with ; karma — reactionary work ; granthi — knot ; nibandhanam — interknit ; chindanti — cut ; kovidāḥ — intelligent ; tasya — His ; kaḥ — who ; na — not ; kuryāt — shall do ; kathā — messages ; ratim — attention .
+
+## Translation
+
+With sword in hand, intelligent men cut through the binding knots of reactionary work [karma] by remembering the Personality of Godhead. Therefore, who will not pay attention to His message?
+
+## Purport
+
+The contact of the spiritual spark with material elements creates a knot which must be cut if one wants to be liberated from the actions and reactions of fruitive work. Liberation means freedom from the cycle of reactionary work. This liberation automatically follows for one who constantly remembers the transcendental pastimes of the Personality of Godhead. This is because all the activities of the Supreme Lord (His līlā ) are transcendental to the modes of the material energy. They are all-attractive spiritual activities, and therefore constant association with the spiritual activities of the Supreme Lord gradually spiritualizes the conditioned soul and ultimately severs the knot of material bondage. Liberation from material bondage is, therefore, a by-product of devotional service. Attainment of spiritual knowledge is not sufficient to insure liberation. Such knowledge must be overcoated with devotional service so that ultimately the devotional service alone predominates. Then liberation is made possible. Even the reactionary work of the fruitive workers can lead one to liberation when it is overcoated with devotional service. Karma overcoated with devotional service is called karma-yoga. Similarly, empirical knowledge overcoated with devotional service is called jñāna-yoga. But pure bhakti-yoga is independent of such karma and jñāna because it alone can not only endow one with liberation from conditional life but also award one the transcendental loving service of the Lord. Therefore, any sensible man who is above the average man with a poor fund of knowledge must constantly remember the Personality of Godhead by hearing about Him, by glorifying Him, by remembering Him and by worshiping Him always, without cessation. That is the perfect way of devotional service. The Gosvāmīs of Vṛndāvana, who were authorized by Śrī Caitanya Mahāprabhu to preach the bhakti cult, rigidly followed this rule and made immense literatures of transcendental science for our benefit. They have chalked out ways for all classes of men in terms of the different castes and orders of life in pursuance of the teachings of Śrīmad-Bhāgavatam and similar other authoritative scriptures.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/2/15/)

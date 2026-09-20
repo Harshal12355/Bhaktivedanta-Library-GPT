@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/18"
+verse: "5"
+reference: "SB 3.18.5"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/18/5/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.895305
+---
+
+# SB 3.18.5
+
+## Sanskrit
+
+त्वयि संस्थिते गदया शीर्णशीर्ष- ण्यस्मद्भुजच्युतया ये च तुभ्यम् । बलिं हरन्त्यृषयो ये च देवा: स्वयं सर्वे न भविष्यन्त्यमूला: ॥ ५ ॥
+
+## Transliteration
+
+*tvayi saṁsthite gadayā śīrṇa-śīrṣaṇy asmad-bhuja-cyutayā ye ca tubhyam baliṁ haranty ṛṣayo ye ca devāḥ svayaṁ sarve na bhaviṣyanty amūlāḥ*
+
+## Word-for-Word
+
+tvayi — when You ; saṁsthite — are killed ; gadayā — by the mace ; śīrṇa — smashed ; śīrṣaṇi — skull ; asmat - bhuja — from my hand ; cyutayā — released ; ye — those who ; ca — and ; tubhyam — to You ; balim — presentations ; haranti — offer ; ṛṣayaḥ — sages ; ye — those who ; ca — and ; devāḥ — demigods ; svayam — automatically ; sarve — all ; na — not ; bhaviṣyanti — will exist ; amūlāḥ — without roots .
+
+## Translation
+
+The demon continued: When You fall dead with Your skull smashed by the mace hurled by my arms, the demigods and sages who offer You oblations and sacrifice in devotional service will also automatically cease to exist, like trees without roots.
+
+## Purport
+
+Demons are very much disturbed when devotees worship the Lord in the prescribed ways recommended in the scriptures. In the Vedic scriptures, the neophyte devotees are advised to engage in nine kinds of devotional service, such as to hear and chant the holy name of God, to remember Him always, to chant on beads Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare, to worship the Lord in the form of His Deity incarnation in the temples, and to engage in various activities of Kṛṣṇa consciousness to increase the number of godly persons for perfect peace in the world. Demons do not like such activity. They are always envious of God and His devotees. Their propaganda not to worship in the temple or church but simply to make material advancement for satisfaction of the senses is always current. The demon Hiraṇyākṣa, upon seeing the Lord face to face, wanted to make a permanent solution by killing the Personality of Godhead with his powerful mace. The example of an uprooted tree mentioned here by the demon is very significant. Devotees accept that God is the root of everything. Their example is that just as the stomach is the source of energy of all the limbs of the body, God is the original source of all energy manifested in the material and spiritual worlds; therefore, as supplying food to the stomach is the process to satisfy all the limbs of the body, Kṛṣṇa consciousness, or developing love of Kṛṣṇa, is the sublime method for satisfying the source of all happiness. The demon wants to uproot this source because if the root, God, were to be checked, the activities of the Lord and the devotees would automatically stop. The demon would be very much satisfied by such a situation in society. Demons are always anxious to have a godless society for their sense gratification. According to Śrīdhara Svāmī, this verse means that when the demon would be deprived of his mace by the Supreme Personality of Godhead, not only the neophyte devotees but also the ancient sagacious devotees of the Lord would be very much satisfied.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.18]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/18/5/)

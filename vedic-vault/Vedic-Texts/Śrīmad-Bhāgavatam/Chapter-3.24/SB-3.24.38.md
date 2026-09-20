@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/24"
+verse: "38"
+reference: "SB 3.24.38"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/24/38/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.919691
+---
+
+# SB 3.24.38
+
+## Sanskrit
+
+गच्छ कामं मयापृष्टो मयि संन्यस्तकर्मणा । जित्वा सुदुर्जयं मृत्युममृतत्वाय मां भज ॥ ३८ ॥
+
+## Transliteration
+
+*gaccha kāmaṁ mayāpṛṣṭo mayi sannyasta-karmaṇā jitvā sudurjayaṁ mṛtyum amṛtatvāya māṁ bhaja*
+
+## Word-for-Word
+
+gaccha — go ; kāmam — as you wish ; mayā — by Me ; āpṛṣṭaḥ — sanctioned ; mayi — to Me ; sannyasta — completely surrendered ; karmaṇā — with your activities ; jitvā — having conquered ; sudurjayam — insurmountable ; mṛtyum — death ; amṛtatvāya — for eternal life ; mām — unto Me ; bhaja — engage in devotional service .
+
+## Translation
+
+Now, being sanctioned by Me, go as you desire, surrendering all your activities to Me. Conquering insurmountable death, worship Me for eternal life.
+
+## Purport
+
+The purpose of Sāṅkhya philosophy is stated herein. If anyone wants real, eternal life, he has to engage himself in devotional service, or Kṛṣṇa consciousness. To become free from birth and death is not an easy task. Birth and death are natural to this material body. Sudurjayam means “very, very difficult to overcome.” The modern so-called scientists do not have sufficient means to understand the process of victory over birth and death. Therefore they set aside the question of birth and death; they do not consider it. They simply engage in the problems of the material body, which is transient and sure to end. Actually, human life is meant for conquering the insurmountable process of birth and death. That can be done as stated here. Māṁ bhaja: one must engage in the devotional service of the Lord. In Bhagavad-gītā also the Lord says, man-manā bhava mad-bhaktaḥ: “Just become My devotee. Just worship Me.” But foolish so-called scholars say that it is not Kṛṣṇa whom we must worship and to whom we must surrender; it is something else. Without Kṛṣṇa’s mercy, therefore, no one can understand the Sāṅkhya philosophy or any philosophy which is especially meant for liberation. Vedic knowledge confirms that one becomes entangled in this material life because of ignorance and that one can become free from material embarrassment by becoming situated in factual knowledge. Sāṅkhya means that factual knowledge by which one can get out of the material entanglement.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.24]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/24/38/)

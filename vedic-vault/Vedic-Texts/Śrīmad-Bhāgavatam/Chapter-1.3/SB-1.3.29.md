@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/3"
+verse: "29"
+reference: "SB 1.3.29"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/3/29/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.796675
+---
+
+# SB 1.3.29
+
+## Sanskrit
+
+जन्म गुह्यं भगवतो य एतत्प्रयतो नर: । सायं प्रातर्गृणन् भक्त्या दु:खग्रामाद्विमुच्यते ॥ २९ ॥
+
+## Transliteration
+
+*janma guhyaṁ bhagavato ya etat prayato naraḥ sāyaṁ prātar gṛṇan bhaktyā duḥkha-grāmād vimucyate*
+
+## Word-for-Word
+
+janma — birth ; guhyam — mysterious ; bhagavataḥ — of the Lord ; yaḥ — one ; etat — all these ; prayataḥ — carefully ; naraḥ — man ; sāyam — evening ; prātaḥ — morning ; gṛṇan — recites ; bhaktyā — with devotion ; duḥkha - grāmāt — from all miseries ; vimucyate — gets relief from .
+
+## Translation
+
+Whoever carefully recites the mysterious appearances of the Lord, with devotion in the morning and in the evening, gets relief from all miseries of life.
+
+## Purport
+
+In the Bhagavad-gītā the Personality of Godhead has declared that anyone who knows the principles of the transcendental birth and activities of the Lord will go back to Godhead after being relieved from this material tabernacle. So simply knowing factually the mysterious way of the Lord’s incarnation in this material world can liberate one from material bondage. Therefore the birth and activities of the Lord, as manifested by Him for the welfare of the people in general, are not ordinary. They are mysterious, and only by those who carefully try to go deep into the matter by spiritual devotion is the mystery discovered. Thus one gets liberation from material bondage. It is advised therefore that one who simply recites this chapter of Bhāgavatam, describing the appearance of the Lord in different incarnations, in sincerity and devotion, can have insight into the birth and activities of the Lord. The very word vimukti, or liberation, indicates that the Lord’s birth and activities are all transcendental; otherwise simply by reciting them one could not attain liberation. They are therefore mysterious, and those who do not follow the prescribed regulations of devotional service are not entitled to enter into the mysteries of His births and activities.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/3/29/)

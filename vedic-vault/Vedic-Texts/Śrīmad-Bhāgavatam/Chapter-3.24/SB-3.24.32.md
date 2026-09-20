@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/24"
+verse: "32"
+reference: "SB 3.24.32"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/24/32/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.919235
+---
+
+# SB 3.24.32
+
+## Sanskrit
+
+त्वां सूरिभिस्तत्त्वबुभुत्सयाद्धा सदाभिवादार्हणपादपीठम् । ऐश्वर्यवैराग्ययशोऽवबोध- वीर्यश्रिया पूर्तमहं प्रपद्ये ॥ ३२ ॥
+
+## Transliteration
+
+*tvāṁ sūribhis tattva-bubhutsayāddhā sadābhivādārhaṇa-pāda-pīṭham aiśvarya-vairāgya-yaśo-’vabodha- vīrya-śriyā pūrtam ahaṁ prapadye*
+
+## Word-for-Word
+
+tvām — unto You ; sūribhiḥ — by the great sages ; tattva — the Absolute Truth ; bubhutsayā — with a desire to understand ; addhā — certainly ; sadā — always ; abhivāda — of worshipful respects ; arhaṇa — which are worthy ; pāda — of Your feet ; pīṭham — to the seat ; aiśvarya — opulence ; vairāgya — renunciation ; yaśaḥ — fame ; avabodha — knowledge ; vīrya — strength ; śriyā — with beauty ; pūrtam — who are full ; aham — I ; prapadye — surrender .
+
+## Translation
+
+My dear Lord, Your lotus feet are the reservoir that always deserves to receive worshipful homage from all great sages eager to understand the Absolute Truth. You are full in opulence, renunciation, transcendental fame, knowledge, strength and beauty, and therefore I surrender myself unto Your lotus feet.
+
+## Purport
+
+Actually, those who are searching after the Absolute Truth must take shelter of the lotus feet of the Supreme Personality of Godhead and worship Him. In Bhagavad-gītā Lord Kṛṣṇa advised Arjuna many times to surrender unto Him, especially at the end of the Ninth Chapter — man-manā bhava mad-bhaktaḥ: “If you want to be perfect, just always think of Me, become My devotee, worship Me, and offer your obeisances to Me. In this way you will understand Me, the Personality of Godhead, and ultimately you will come back to Me, back to Godhead, back home.” Why is it so? The Lord is always full in six opulences, as mentioned herein: wealth, renunciation, fame, knowledge, strength and beauty. The word pūrtam means “in full.” No one can claim that all wealth belongs to him, but Kṛṣṇa can claim it, since He has full wealth. Similarly, He is full in knowledge, renunciation, strength and beauty. He is full in everything, and no one can surpass Him. Another one of Kṛṣṇa’s names is asamordhva, which means that no one is equal to or greater than Him.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.24]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/24/32/)

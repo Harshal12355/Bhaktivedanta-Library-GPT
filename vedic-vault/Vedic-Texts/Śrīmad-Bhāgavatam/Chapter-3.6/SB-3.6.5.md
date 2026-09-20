@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/6"
+verse: "5"
+reference: "SB 3.6.5"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/6/5/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.930185
+---
+
+# SB 3.6.5
+
+## Sanskrit
+
+परेण विशता स्वस्मिन्मात्रया विश्वसृग्गण: । चुक्षोभान्योन्यमासाद्य यस्मिन्लोकाश्चराचरा: ॥ ५ ॥
+
+## Transliteration
+
+*pareṇa viśatā svasmin mātrayā viśva-sṛg-gaṇaḥ cukṣobhānyonyam āsādya yasmin lokāś carācarāḥ*
+
+## Word-for-Word
+
+pareṇa — by the Lord ; viśatā — thus entering ; svasmin — by His own self ; mātrayā — by a plenary portion ; viśva - sṛk — the elements of universal creation ; gaṇaḥ — all ; cukṣobha — transformed ; anyonyam — one another ; āsādya — having obtained ; yasmin — in which ; lokāḥ — the planets ; cara - acarāḥ — movable and immovable .
+
+## Translation
+
+As the Lord, in His plenary portion, entered into the elements of the universal creation, they transformed into the gigantic form in which all the planetary systems and all movable and immovable creations rest.
+
+## Purport
+
+The elements of cosmic creation are all matter and have no potency to increase in volume unless entered into by the Lord in His plenary portion. This means that matter does not increase or decrease unless it is spiritually touched. Matter is a product of spirit and increases only by the touch of spirit. The entire cosmic manifestation has not assumed its gigantic form by itself, as wrongly calculated by less intelligent persons. As long as spirit is within matter, matter can increase as needed; but without the spirit, matter stops increasing. For example, as long as there is spiritual consciousness within the material body of a living entity, the body increases to the required size, but a dead material body, which has no spiritual consciousness, stops increasing. In Bhagavad-gītā (Chapter Two) importance is given to the spiritual consciousness, not the body. The entire cosmic body increased by the same process that we experience in our small bodies. One should not, however, foolishly think that the individual infinitesimal soul is the cause of the gigantic manifestation of the universal form. The universal form is called the virāṭ-rūpa because the Supreme Lord is within it in His plenary portion.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/6/5/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/7"
+verse: "31"
+reference: "SB 2.7.31"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/7/31/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.845592
+---
+
+# SB 2.7.31
+
+## Sanskrit
+
+नन्दं च मोक्ष्यति भयाद् वरुणस्य पाशाद् गोपान् बिलेषु पिहितान् मयसूनुना च । अह्न्यापृतं निशि शयानमतिश्रमेण लोकं विकुण्ठमुपनेष्यति गोकुलं स्म ॥ ३१ ॥
+
+## Transliteration
+
+*nandaṁ ca mokṣyati bhayād varuṇasya pāśād gopān bileṣu pihitān maya-sūnunā ca ahny āpṛtaṁ niśi śayānam atiśrameṇa lokaṁ vikuṇṭham upaneṣyati gokulaṁ sma*
+
+## Word-for-Word
+
+nandam — unto Nanda (the father of Kṛṣṇa) ; ca — also ; mokṣyati — saves ; bhayāt — from the fear of ; varuṇasya — of Varuṇa, the demigod of water ; pāśāt — from the clutches of ; gopān — the cowherd men ; bileṣu — in the caves of the mountain ; pihitān — placed ; maya - sūnunā — by the son of Maya ; ca — also ; ahni āpṛtam — being very engaged during the daytime ; niśi — at night ; śayānam — lying down ; atiśrameṇa — because of hard labor ; lokam — planet ; vikuṇṭham — the spiritual sky ; upaneṣyati — He awarded ; gokulam — the highest planet ; sma — certainly .
+
+## Translation
+
+Lord Kṛṣṇa saved His foster father, Nanda Mahārāja, from the fear of the demigod Varuṇa and released the cowherd boys from the caves of the mountain, for they were placed there by the son of Maya. Also, to the inhabitants of Vṛndāvana, who were busy working during daytime and sleeping soundly at night because of their hard labor in the day, Lord Kṛṣṇa awarded promotion to the highest planet in the spiritual sky. All these acts are transcendental and certainly prove without any doubt His Godhood.
+
+## Purport
+
+Nanda Mahārāja, the foster father of Lord Kṛṣṇa, went to take his bath in the river Yamunā in the dead of night, mistakenly thinking that the night was already over; thus the demigod Varuṇa took him to the Varuṇa planet just to have a look at the Personality of Godhead Lord Kṛṣṇa, who appeared there to release His father. Actually there was no arrest of Nanda Mahārāja by Varuṇa because the inhabitants of Vṛndāvana were always engaged in thinking of Kṛṣṇa, in constant meditation on the Personality of Godhead in a particular form of samādhi, or trance of bhakti-yoga. They had no fear of the miseries of material existence. In the Bhagavad-gītā it is confirmed that to be in association with the Supreme Personality of Godhead by full surrender in transcendental love frees one from the miseries inflicted by the laws of material nature. Here it is clearly mentioned that the inhabitants of Vṛndāvana were extensively busy in the hard labor of their day’s work, and due to the day’s hard labor they were engaged in sound sleep at night. So practically they had very little time to devote to meditation or to the other paraphernalia of spiritual activities. But factually they were engaged in the highest spiritual activities only. Everything done by them was spiritualized because everything was dovetailed in their relationship with Lord Śrī Kṛṣṇa. The central point of activities was Kṛṣṇa, and as such, the so-called activities in the material world were saturated with spiritual potency. That is the advantage of the way of bhakti-yoga. One should discharge one’s duty on Lord Kṛṣṇa’s behalf, and all one’s actions will be saturated with Kṛṣṇa thought, the highest pattern of trance in spiritual realization.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/7/31/)

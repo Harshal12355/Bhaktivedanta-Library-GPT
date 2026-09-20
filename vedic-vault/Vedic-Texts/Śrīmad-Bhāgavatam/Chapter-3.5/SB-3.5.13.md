@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/5"
+verse: "13"
+reference: "SB 3.5.13"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/5/13/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.926583
+---
+
+# SB 3.5.13
+
+## Sanskrit
+
+सा श्रद्दधानस्य विवर्धमाना विरक्तिमन्यत्र करोति पुंस: । हरे: पदानुस्मृतिनिर्वृतस्य समस्तदु:खाप्ययमाशु धत्ते ॥ १३ ॥
+
+## Transliteration
+
+*sā śraddadhānasya vivardhamānā viraktim anyatra karoti puṁsaḥ hareḥ padānusmṛti-nirvṛtasya samasta-duḥkhāpyayam āśu dhatte*
+
+## Word-for-Word
+
+sā — those topics of Kṛṣṇa, or kṛṣṇa-kathā ; śraddadhānasya — of one who is anxious to hear ; vivardhamānā — gradually increasing ; viraktim — indifference ; anyatra — in other things (than such topics) ; karoti — does ; puṁsaḥ — of one who is so engaged ; hareḥ — of the Lord ; pada - anusmṛti — constant remembrance of the lotus feet of the Lord ; nirvṛtasya — one who has achieved such transcendental bliss ; samasta - duḥkha — all miseries ; apyayam — vanquished ; āśu — without delay ; dhatte — executes .
+
+## Translation
+
+For one who is anxious to engage constantly in hearing such topics, kṛṣṇa-kathā gradually increases his indifference towards all other things. Such constant remembrance of the lotus feet of Lord Kṛṣṇa by the devotee who has achieved transcendental bliss vanquishes all his miseries without delay.
+
+## Purport
+
+We must certainly know that on the absolute plane kṛṣṇa-kathā and Kṛṣṇa are one and the same. The Lord is the Absolute Truth, and therefore His name, form, quality, etc., which are all understood to be kṛṣṇa-kathā, are nondifferent from Him. Bhagavad-gītā, being spoken by the Lord, is as good as the Lord Himself. When a sincere devotee reads Bhagavad-gītā, this is as good as seeing the Lord face to face in his personal presence, but this is not so for the mundane wrangler. All the potencies of the Lord are there when one reads Bhagavad-gītā, provided it is read in the way recommended in the Gītā by the Lord Himself. One cannot foolishly manufacture an interpretation of Bhagavad-gītā and still bring about transcendental benefit. Anyone who tries to squeeze some artificial meaning or interpretation from Bhagavad-gītā for an ulterior motive is not śraddadhāna-puṁsaḥ (one engaged anxiously in bona fide hearing of kṛṣṇa-kathā ). Such a person cannot derive any benefit from reading Bhagavad-gīta, however great a scholar he may be in the estimation of a layman. The śraddadhāna, or faithful devotee, can actually derive all the benefits of Bhagavad-gītā because by the omnipotency of the Lord he achieves the transcendental bliss which vanquishes attachment and nullifies all concomitant material miseries. Only the devotee, by his factual experience, can understand the import of this verse spoken by Vidura. The pure devotee of the Lord enjoys life by constantly remembering the lotus feet of the Lord by hearing kṛṣṇa-kathā. For such a devotee there is no such thing as material existence, and the much-advertised bliss of brahmānanda is like a fig for the devotee who is in the midst of the transcendental ocean of bliss.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/5/13/)

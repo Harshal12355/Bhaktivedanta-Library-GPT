@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/15"
+verse: "33"
+reference: "SB 1.15.33"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/15/33/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.781607
+---
+
+# SB 1.15.33
+
+## Sanskrit
+
+पृथाप्यनुश्रुत्य धनञ्जयोदितं नाशं यदूनां भगवद्गतिं च ताम् । एकान्तभक्त्या भगवत्यधोक्षजे निवेशितात्मोपरराम संसृते: ॥ ३३ ॥
+
+## Transliteration
+
+*pṛthāpy anuśrutya dhanañjayoditaṁ nāśaṁ yadūnāṁ bhagavad-gatiṁ ca tām ekānta-bhaktyā bhagavaty adhokṣaje niveśitātmopararāma saṁsṛteḥ*
+
+## Word-for-Word
+
+pṛthā — Kuntī ; api — also ; anuśrutya — overhearing ; dhanañjaya — Arjuna ; uditam — uttered by ; nāśam — end ; yadūnām — of the Yadu dynasty ; bhagavat — of the Personality of Godhead ; gatim — disappearance ; ca — also ; tām — all those ; eka - anta — unalloyed ; bhaktyā — devotion ; bhagavati — unto the Supreme Lord, Śrī Kṛṣṇa ; adhokṣaje — transcendence ; niveśita - ātmā — with full attention ; upararāma — became released from ; saṁsṛteḥ — material existence .
+
+## Translation
+
+Kuntī, after overhearing Arjuna’s telling of the end of the Yadu dynasty and disappearance of Lord Kṛṣṇa, engaged in the devotional service of the transcendental Personality of Godhead with full attention and thus gained release from the course of material existence.
+
+## Purport
+
+The setting of the sun does not mean the end of the sun. It means that the sun is out of our sight. Similarly, the end of the mission of the Lord on a particular planet or universe only means that He is out of our sight. The end of the Yadu dynasty also does not mean that it is annihilated. It disappears, along with the Lord, out of our sight. As Mahārāja Yudhiṣṭhira decided to prepare to go back to Godhead, so also Kuntī decided, and thus she fully engaged herself in the transcendental devotional service of the Lord which guarantees one a passport for going back to Godhead after quitting this present material body. The beginning of devotional service to the Lord is the beginning of spiritualizing the present body, and thus an unalloyed devotee of the Lord loses all material contact in the present body. The abode of the Lord is not a myth, as is thought by the unbelievers or ignorant people, but one cannot reach there by any material means like a sputnik or space capsule. But one can certainly reach there after leaving this present body, and one must prepare himself to go back to Godhead by practicing devotional service. That guarantees a passport for going back to Godhead, and Kuntī adopted it.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.15]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/15/33/)

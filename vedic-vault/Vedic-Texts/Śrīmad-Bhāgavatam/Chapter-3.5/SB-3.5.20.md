@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/5"
+verse: "20"
+reference: "SB 3.5.20"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/5/20/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.927070
+---
+
+# SB 3.5.20
+
+## Sanskrit
+
+माण्डव्यशापाद्भगवान् प्रजासंयमनो यम: । भ्रातु: क्षेत्रे भुजिष्यायां जात: सत्यवतीसुतात् ॥ २० ॥
+
+## Transliteration
+
+*māṇḍavya-śāpād bhagavān prajā-saṁyamano yamaḥ bhrātuḥ kṣetre bhujiṣyāyāṁ jātaḥ satyavatī-sutāt*
+
+## Word-for-Word
+
+māṇḍavya — the great ṛṣi Māṇḍavya Muni ; śāpāt — by his curse ; bhagavān — the greatly powerful ; prajā — one who is born ; saṁyamanaḥ — controller of death ; yamaḥ — known as Yamarāja ; bhrātuḥ — of the brother ; kṣetre — in the wife ; bhujiṣyāyām — kept ; jātaḥ — born ; satyavatī — Satyavatī (the mother of both Vicitravīrya and Vyāsadeva) ; sutāt — by the son (Vyāsadeva) .
+
+## Translation
+
+I know that you are now Vidura due to the cursing of Māṇḍavya Muni and that formerly you were King Yamarāja, the great controller of living entities after their death. You were begotten by the son of Satyavatī, Vyāsadeva, in the kept wife of his brother.
+
+## Purport
+
+Māṇḍavya Muni was a great sage (cf. Bhāg. 1.13.1 ), and Vidura was formerly the controller Yamarāja, who takes charge of the living entities after death. Birth, maintenance and death are three conditional states of the living entities who are within the material world. As the appointed controller after death, Yamarāja once tried Māṇḍavya Muni for his childhood profligacy and ordered him to be pierced with a lance. Māṇḍavya, being angry at Yamarāja for awarding him undue punishment, cursed him to become a śūdra (member of the less intelligent laborer class). Thus Yamarāja took birth in the womb of the kept wife of Vicitravīrya from the semen of Vicitravīrya’s brother, Vyāsadeva. Vyāsadeva is the son of Satyavatī by the great sage Parāśara, and Vicitravīrya is the son of the same Satyavatī by the great king Śantanu, the father of Bhīṣmadeva. This mysterious history of Vidura was known to Maitreya Muni because he happened to be a contemporary friend of Vyāsadeva’s. In spite of Vidura’s birth from the womb of a kept wife, because he had otherwise high parentage and great connection he inherited the highest talent of becoming a great devotee of the Lord. To take birth in such a great family is understood to be an advantage for attaining devotional life. Vidura was given this chance due to his previous greatness.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/5/20/)

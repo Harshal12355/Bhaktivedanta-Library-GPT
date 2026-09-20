@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/23"
+verse: "11"
+reference: "SB 3.23.11"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/23/11/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.913795
+---
+
+# SB 3.23.11
+
+## Sanskrit
+
+तत्रेतिकृत्यमुपशिक्ष यथोपदेशं येनैष मे कर्शितोऽतिरिरंसयात्मा । सिद्ध्येत ते कृतमनोभवधर्षिताया दीनस्तदीश भवनं सद‍ृशं विचक्ष्व ॥ ११ ॥
+
+## Transliteration
+
+*tatreti-kṛtyam upaśikṣa yathopadeśaṁ yenaiṣa me karśito ’tiriraṁsayātmā siddhyeta te kṛta-manobhava-dharṣitāyā dīnas tad īśa bhavanaṁ sadṛśaṁ vicakṣva*
+
+## Word-for-Word
+
+tatra — in that ; iti - kṛtyam — what is necessary to be done ; upaśikṣa — perform ; yathā — according to ; upadeśam — instruction in scripture ; yena — by which ; eṣaḥ — this ; me — my ; karśitaḥ — emaciated ; atiriraṁ - sayā — due to intense passion not being satisfied ; ātmā — body ; siddhyeta — it may be rendered fit ; te — for you ; kṛta — excited ; manaḥ - bhava — by emotion ; dharṣitāyāḥ — who am struck ; dīnaḥ — poor ; tat — therefore ; īśa — O my dear lord ; bhavanam — house ; sadṛśam — suitable ; vicakṣva — please think of .
+
+## Translation
+
+Devahūti continued: My dear lord, I am struck by excited emotion for you. Therefore kindly make what arrangements must be made according to the scriptures so that my skinny body, emaciated through unsatisfied passion, may be rendered fit for you. Also, my lord, please think of a suitable house for this purpose.
+
+## Purport
+
+The Vedic literatures are not only full of spiritual instruction but are also instructive in how to prosecute material existence very nicely, with the ultimate aim of spiritual perfection. Therefore Devahūti asked her husband how to prepare herself for sex life according to the Vedic instructions. Sex life is especially meant for having good children. The circumstances for creating good children are mentioned in kāma-śāstra, the scripture in which suitable arrangements are prescribed for factually glorious sex life. Everything needed is mentioned in the scriptures — what sort of house and decorations there should be, what sort of dress the wife should have, how she should be decorated with ointments, scents and other attractive features, etc. With these requisites fulfilled, the husband will be attracted by her beauty, and a favorable mental situation will be created. The mental situation at the time of sex life may then be transferred into the womb of the wife, and good children can come out of that pregnancy. Here is a special reference to Devahūti’s bodily features. Because she had become skinny, she feared that her body might have no attraction for Kardama. She wanted to be instructed how to improve her bodily condition in order to attract her husband. Sexual intercourse in which the husband is attracted to the wife is sure to produce a male child, but sexual intercourse based on attraction of the wife for the husband may produce a girl. That is mentioned in the Āyur-veda. When the passion of the woman is greater, there is a chance of a girl’s being born. When the passion of the man is greater, then there is the possibility of a son. Devahūti wanted the passion of her husband to be increased by the arrangement mentioned in the kāma-śāstra. She wanted him to instruct her in that way, and she also requested that he arrange for a suitable house because the hermitage in which Kardama Muni was living was very simple and completely in the mode of goodness, and there was less possibility of passion’s being aroused in his heart.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.23]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/23/11/)

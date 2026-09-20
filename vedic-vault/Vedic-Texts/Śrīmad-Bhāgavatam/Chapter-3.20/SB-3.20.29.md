@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/20"
+verse: "29"
+reference: "SB 3.20.29"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/20/29/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.904680
+---
+
+# SB 3.20.29
+
+## Sanskrit
+
+तां क्‍वणच्चरणाम्भोजां मदविह्वललोचनाम् । काञ्चीकलापविलसद्दुकूलच्छन्नरोधसम् ॥ २९ ॥
+
+## Transliteration
+
+*tāṁ kvaṇac-caraṇāmbhojāṁ mada-vihvala-locanām kāñcī-kalāpa-vilasad- dukūla-cchanna-rodhasam*
+
+## Word-for-Word
+
+tām — that body ; kvaṇat — tinkling with ankle bells ; caraṇa - ambhojām — with lotus feet ; mada — intoxication ; vihvala — overwhelmed ; locanām — with eyes ; kāñcī - kalāpa — with a girdle made of golden ornaments ; vilasat — shining ; dukūla — by fine cloth ; channa — covered ; rodhasam — having hips .
+
+## Translation
+
+The body given up by Brahmā took the form of the evening twilight, when the day and night meet, a time which kindles passion. The asuras, who are passionate by nature, dominated as they are by the element of rajas, took it for a damsel, whose lotus feet resounded with the tinkling of anklets, whose eyes were wide with intoxication and whose hips were covered by fine cloth, over which shone a girdle.
+
+## Purport
+
+As early morning is the period for spiritual cultivation, the beginning of evening is the period for passion. Demoniac men are generally very fond of sex enjoyment; therefore they very much appreciate the approach of evening. The demons took the approach of the evening twilight to be a beautiful woman, and they began to adore her in various ways. They imagined the twilight to be a very beautiful woman with tinkling bangles on her feet, a girdle on her hips, and beautiful breasts, and for their sexual satisfaction they imagined the appearance of this beautiful girl before them.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.20]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/20/29/)

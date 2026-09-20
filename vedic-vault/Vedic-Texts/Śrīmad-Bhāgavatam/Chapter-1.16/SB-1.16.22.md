@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/16"
+verse: "22"
+reference: "SB 1.16.22"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/16/22/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.784009
+---
+
+# SB 1.16.22
+
+## Sanskrit
+
+किं क्षत्रबन्धून् कलिनोपसृष्टान् राष्ट्राणि वा तैरवरोपितानि । इतस्ततो वाशनपानवास: स्‍नानव्यवायोन्मुखजीवलोकम् ॥ २२ ॥
+
+## Transliteration
+
+*kiṁ kṣatra-bandhūn kalinopasṛṣṭān rāṣṭrāṇi vā tair avaropitāni itas tato vāśana-pāna-vāsaḥ- snāna-vyavāyonmukha-jīva-lokam*
+
+## Word-for-Word
+
+kim — whether ; kṣatra - bandhūn — the unworthy administrators ; kalinā — by the influence of the Age of Kali ; upasṛṣṭān — bewildered ; rāṣṭrāṇi — state affairs ; vā — or ; taiḥ — by them ; avaropitāni — put into disorder ; itaḥ — here ; tataḥ — there ; vā — or ; aśana — accepting foodstuff ; pāna — drink ; vāsaḥ — residence ; snāna — bath ; vyavāya — sexual intercourse ; unmukha — inclined ; jīva - lokam — human society .
+
+## Translation
+
+The so-called administrators are now bewildered by the influence of this Age of Kali, and thus they have put all state affairs into disorder. Are you now lamenting this disorder? Now the general populace does not follow the rules and regulations for eating, sleeping, drinking, mating, etc., and they are inclined to perform such anywhere and everywhere. Are you unhappy because of this?
+
+## Purport
+
+There are some necessities of life on a par with those of the lower animals, and they are eating, sleeping, fearing and mating. These bodily demands are for both the human beings and the animals. But the human being has to fulfill such desires not like animals, but like a human being. A dog can mate with a bitch before the public eyes without hesitation, but if a human being does so the act will be considered a public nuisance, and the person will be criminally prosecuted. Therefore for the human being there are some rules and regulations, even for fulfilling common demands. The human society avoids such rules and regulations when it is bewildered by the influence of the Age of Kali. In this age, people are indulging in such necessities of life without following the rules and regulations, and this deterioration of social and moral rules is certainly lamentable because of the harmful effects of such beastly behavior. In this age, the fathers and the guardians are not happy with the behavior of their wards. They should know that so many innocent children are victims of bad association awarded by the influence of this Age of Kali. We know from Śrīmad-Bhāgavatam that Ajāmila, an innocent son of a brāhmaṇa, was walking down a road and saw a śūdra pair sexually embracing. This attracted the boy, and later on the boy became a victim of all debaucheries. From a pure brāhmaṇa, he fell down to the position of a wretched urchin, and it was all due to bad association. There was but one victim like Ajāmila in those days, but in this Age of Kali the poor innocent students are daily victims of cinemas which attract men only for sex indulgence. The so-called administrators are all untrained in the affairs of a kṣatriya. The kṣatriyas are meant for administration, as the brāhmaṇas are meant for knowledge and guidance. The word kṣatra-bandhu refers to the so-called administrators or persons promoted to the post of the administrator without proper training by culture and tradition. Nowadays they are promoted to such exalted posts by the votes of the people who are themselves fallen in the rules and regulations of life. How can such people select a proper man when they are themselves fallen in the standard of life? Therefore, by the influence of the Age of Kali, everywhere, politically, socially or religiously, everything is topsy-turvy, and therefore for the sane man it is all regrettable.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/16/22/)

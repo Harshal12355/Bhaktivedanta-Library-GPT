@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/15"
+verse: "13"
+reference: "SB 1.15.13"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/15/13/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.780380
+---
+
+# SB 1.15.13
+
+## Sanskrit
+
+तत्रैव मे विहरतो भुजदण्डयुग्मं गाण्डीवलक्षणमरातिवधाय देवा: । सेन्द्रा: श्रिता यदनुभावितमाजमीढ तेनाहमद्य मुषित: पुरुषेण भूम्ना ॥ १३ ॥
+
+## Transliteration
+
+*tatraiva me viharato bhuja-daṇḍa-yugmaṁ gāṇḍīva-lakṣaṇam arāti-vadhāya devāḥ sendrāḥ śritā yad-anubhāvitam ājamīḍha tenāham adya muṣitaḥ puruṣeṇa bhūmnā*
+
+## Word-for-Word
+
+tatra — in that heavenly planet ; eva — certainly ; me — myself ; viharataḥ — while staying as a guest ; bhuja - daṇḍa - yugmam — both of my arms ; gāṇḍīva — the bow named Gāṇḍīva ; lakṣaṇam — mark ; arāti — a demon named Nivātakavaca ; vadhāya — for killing ; devāḥ — all the demigods ; sa — along with ; indrāḥ — the heavenly King, Indra ; śritāḥ — taken shelter of ; yat — by whose ; anubhāvitam — made it possible to be powerful ; ājamīḍha — O descendant of King Ajamīḍha ; tena — by Him ; aham — myself ; adya — at the present moment ; muṣitaḥ — bereft of ; puruṣeṇa — the personality ; bhūmnā — supreme .
+
+## Translation
+
+When I stayed for some days as a guest in the heavenly planets, all the heavenly demigods, including King Indradeva, took shelter of my arms, which were marked with the Gāṇḍīva bow, to kill the demon named Nivātakavaca. O King, descendant of Ajamīḍha, at the present moment I am bereft of the Supreme Personality of Godhead, by whose influence I was so powerful.
+
+## Purport
+
+The heavenly demigods are certainly more intelligent, powerful and beautiful, and yet they had to take help from Arjuna because of his Gāṇḍīva bow, which was empowered by the grace of Lord Śrī Kṛṣṇa. The Lord is all-powerful, and by His grace His pure devotee can be as powerful as He may desire, and there is no limit to it. And when the Lord withdraws His power from anyone, he is powerless by the will of the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.15]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/15/13/)

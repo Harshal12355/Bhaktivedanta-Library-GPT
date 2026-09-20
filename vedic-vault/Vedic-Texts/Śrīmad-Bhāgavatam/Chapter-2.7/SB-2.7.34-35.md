@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/7"
+verse: "34-35"
+reference: "SB 2.7.34-35"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/7/34-35/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.845823
+---
+
+# SB 2.7.34-35
+
+## Sanskrit
+
+ये च प्रलम्बखरदर्दुरकेश्यरिष्ट- मल्लेभकंसयवना: कपिपौण्ड्रकाद्या: । अन्ये च शाल्वकुजबल्वलदन्तवक्र- सप्तोक्षशम्बरविदूरथरुक्‍मिमुख्या: ॥ ३४ ॥ ये वा मृधे समितिशालिन आत्तचापा: काम्बोजमत्स्यकुरुसृञ्जयकैकयाद्या: । यास्यन्त्यदर्शनमलं बलपार्थभीम- व्याजाह्वयेन हरिणा निलयं तदीयम् ॥ ३५ ॥
+
+## Transliteration
+
+*ye ca pralamba-khara-dardura-keśy-ariṣṭa- mallebha-kaṁsa-yavanāḥ kapi-pauṇḍrakādyāḥ anye ca śālva-kuja-balvala-dantavakra- saptokṣa-śambara-vidūratha-rukmi-mukhyāḥ ye vā mṛdhe samiti-śālina ātta-cāpāḥ kāmboja-matsya-kuru-sṛñjaya-kaikayādyāḥ yāsyanty adarśanam alaṁ bala-pārtha-bhīma- vyājāhvayena hariṇā nilayaṁ tadīyam*
+
+## Word-for-Word
+
+ye — all those ; ca — totally ; pralamba — the demon named Pralamba ; khara — Dhenukāsura ; dardura — Bakāsura ; keśī — the Keśī demon ; ariṣṭa — the demon Ariṣṭāsura ; malla — a wrestler in the court of Kaṁsa ; ibha — Kuvalayāpīḍa ; kaṁsa — the King of Mathurā and maternal uncle of Kṛṣṇa ; yavanāḥ — the kings of Persia and other adjoining places ; kapi — Dvivida ; pauṇḍraka - ādyāḥ — Pauṇḍraka and others ; anye — others ; ca — as much as ; śālva — King Śālva ; kuja — Narakāsura ; balvala — King Balvala ; dantavakra — the brother of Śiśupāla, a dead rival of Kṛṣṇa’s ; saptokṣa — King Saptokṣa ; śambara — King Śambara ; vidūratha — King Vidūratha ; rukmi - mukhyāḥ — the brother of Rukmiṇī, the first queen of Kṛṣṇa at Dvārakā ; ye — all those ; vā — either ; mṛdhe — in the battlefield ; samiti - śālinaḥ — all very powerful ; ātta - cāpāḥ — well equipped with bows and arrows ; kāmboja — the King of Kāmboja ; matsya — the King of Dvarbhaṅga ; kuru — the sons of Dhṛtarāṣṭra ; sṛñjaya — King Sṛñjaya ; kaikaya - ādyāḥ — the King of Kekaya and others ; yāsyanti — would attain ; adarśanam — impersonal merging within the brahmajyoti ; alam — what to speak of ; bala — Baladeva, the elder brother of Kṛṣṇa ; pārtha — Arjuna ; bhīma — the second Pāṇḍava ; vyāja - āhvayena — by the false names ; hariṇā — by Lord Hari ; nilayam — the abode ; tadīyam — of Him .
+
+## Translation
+
+All demonic personalities like Pralamba, Dhenuka, Baka, Keśī, Ariṣṭa, Cāṇūra, Muṣṭika, Kuvalayāpīḍa elephant, Kaṁsa, Yavana, Narakāsura and Pauṇḍraka, great marshals like Śālva, Dvivida monkey and Balvala, Dantavakra, the seven bulls, Śambara, Vidūratha and Rukmī, as also great warriors like Kāmboja, Matsya, Kuru, Sṛñjaya and Kekaya, would all fight vigorously, either with the Lord Hari directly or with Him under His names of Baladeva, Arjuna, Bhīma, etc. And the demons, thus being killed, would attain either the impersonal brahmajyoti or His personal abode in the Vaikuṇṭha planets.
+
+## Purport
+
+All manifestations, in both the material and spiritual worlds, are demonstrations of the different potencies of Lord Kṛṣṇa. The Personality of Godhead Baladeva is His immediate personal expansion, and Bhīma, Arjuna, etc., are His personal associates. The Lord would appear (and He does so whenever He appears) with all His associates and potencies. Therefore the rebellious souls, like the demons and demoniac men, mentioned by names like Pralamba, would be killed either by the Lord Himself or by His associates. All these affairs will be clearly explained in the Tenth Canto. But we should know well that all the above-mentioned living entities killed would attain salvation either by being merged in the brahmajyoti of the Lord or being allowed to enter into the abodes of the Lord called Vaikuṇṭhas. This has already been explained by Bhīṣmadeva (First Canto). All persons who participated in the Battlefield of Kurukṣetra or otherwise with the Lord or with Baladeva, etc., would benefit by attaining spiritual existence according to the situation of their minds at the time of death. Those who recognized the Lord would enter Vaikuṇṭha, and those who estimated the Lord as only a powerful being would attain salvation by merging into the spiritual existence of the impersonal brahmajyoti of the Lord. But every one of them would get release from material existence. Since such is the benefit of those who played with the Lord inimically, one can imagine what would be the position of those who devoutly served the Lord in transcendental relationship with Him.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/7/34-35/)

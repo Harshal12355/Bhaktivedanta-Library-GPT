@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/11"
+verse: "3"
+reference: "SB 1.11.3"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/11/3/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.767115
+---
+
+# SB 1.11.3
+
+## Sanskrit
+
+तमुपश्रुत्य निनदं जगद्भयभयावहम् । प्रत्युद्ययु: प्रजा: सर्वा भर्तृदर्शनलालसा: ॥ ३ ॥
+
+## Transliteration
+
+*tam upaśrutya ninadaṁ jagad-bhaya-bhayāvaham pratyudyayuḥ prajāḥ sarvā bhartṛ-darśana-lālasāḥ*
+
+## Word-for-Word
+
+tam — that ; upaśrutya — having overheard ; ninadam — sound ; jagat - bhaya — the fear of material existence ; bhaya - āvaham — the threatening principle ; prati — towards ; udyayuḥ — rapidly proceeded ; prajāḥ — the citizens ; sarvāḥ — all ; bhartṛ — the protector ; darśana — audience ; lālasāḥ — having so desired .
+
+## Translation
+
+The citizens of Dvārakā, having heard that sound which threatens fear personified in the material world, began to run towards Him fast, just to have a long desired audience with the Lord, who is the protector of all devotees.
+
+## Purport
+
+As already explained, the citizens of Dvārakā who lived at the time of Lord Kṛṣṇa’s presence there were all liberated souls who descended there along with the Lord as entourage. All were very anxious to have an audience with the Lord, although because of spiritual contact they were never separated from the Lord. Just as the gopīs at Vṛndāvana used to think of Kṛṣṇa while He was away from the village for cowherding engagements, the citizens of Dvārakā were all immersed in thought of the Lord while He was away from Dvārakā to attend the Battle of Kurukṣetra. Some distinguished fiction writer in Bengal concluded that the Kṛṣṇa of Vṛndāvana, that of Mathurā and that of Dvārakā were different personalities. Historically there is no truth in this conclusion. The Kṛṣṇa of Kurukṣetra and the Kṛṣṇa of Dvārakā are one and the same personality. The citizens of Dvārakā were thus in a state of melancholy due to the Lord’s absence from the transcendental city, as much as we are put in a state of melancholy at night because of the absence of the sun. The sound heralded by Lord Kṛṣṇa was something like the heralding of the sunrise in the morning. So all the citizens of Dvārakā awoke from a state of slumber because of the sunrise of Kṛṣṇa, and they all hastened towards Him just to have an audience. The devotees of the Lord know no one else as protector. This sound of the Lord is identical with the Lord, as we have tried to explain by the nondual position of the Lord. The material existence of our present status is full of fear. Out of the four problems of material existence, namely the food problem, the shelter problem, the fear problem and the mating problem, the fear problem gives us more trouble than the others. We are always fearful due to our ignorance of the next problem. The whole material existence is full of problems, and thus the fear problem is always prominent. This is due to our association with the illusory energy of the Lord, known as māyā or external energy, yet all fear is vanished as soon as there is the sound of the Lord, represented by His holy name, as it was sounded by Lord Śrī Caitanya Mahāprabhu in the following sixteen words: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare We can take advantage of these sounds and be free from all threatening problems of material existence.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.11]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/11/3/)

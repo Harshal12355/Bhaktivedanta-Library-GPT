@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/5"
+verse: "25"
+reference: "SB 1.5.25"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/5/25/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.802271
+---
+
+# SB 1.5.25
+
+## Sanskrit
+
+उच्छिष्टलेपाननुमोदितो द्विजै: सकृत्स्म भुञ्जे तदपास्तकिल्बिष: । एवं प्रवृत्तस्य विशुद्धचेतस- स्तद्धर्म एवात्मरुचि: प्रजायते ॥ २५ ॥
+
+## Transliteration
+
+*ucchiṣṭa-lepān anumodito dvijaiḥ sakṛt sma bhuñje tad-apāsta-kilbiṣaḥ evaṁ pravṛttasya viśuddha-cetasas tad-dharma evātma-ruciḥ prajāyate*
+
+## Word-for-Word
+
+ucchiṣṭa - lepān — the remnants of foodstuff ; anumoditaḥ — being permitted ; dvijaiḥ — by the Vedāntist brāhmaṇas ; sakṛt — once upon a time ; sma — in the past ; bhuñje — took ; tat — by that action ; apāsta — eliminated ; kilbiṣaḥ — all sins ; evam — thus ; pravṛttasya — being engaged ; viśuddha - cetasaḥ — of one whose mind is purified ; tat — that particular ; dharmaḥ — nature ; eva — certainly ; ātma - ruciḥ — transcendental attraction ; prajāyate — was manifested .
+
+## Translation
+
+Once only, by their permission, I took the remnants of their food, and by so doing all my sins were at once eradicated. Thus being engaged, I became purified in heart, and at that time the very nature of the transcendentalist became attractive to me.
+
+## Purport
+
+Pure devotion is as much infectious, in a good sense, as infectious diseases. A pure devotee is cleared from all kinds of sins. The Personality of Godhead is the purest entity, and unless one is equally pure from the infection of material qualities, one cannot become a pure devotee of the Lord. The bhakti-vedāntas as above mentioned were pure devotees, and the boy became infected with their qualities of purity by their association and by eating once the remnants of the foodstuff taken by them. Such remnants may be taken even without permission of the pure devotees. There are sometimes pseudodevotees, and one should be very much cautious about them. There are many things which hinder one from entering devotional service. But by the association of pure devotees all these obstacles are removed. The neophyte devotee becomes practically enriched with the transcendental qualities of the pure devotee, which means attraction for the Personality of Godhead’s name, fame, qualities, pastimes, etc. Infection of the qualities of the pure devotee means to imbibe the taste of pure devotion always in the transcendental activities of the Personality of Godhead. This transcendental taste at once makes all material things distasteful. Therefore a pure devotee is not at all attracted by material activities. After the elimination of all sins or obstacles on the path of devotional service, one can become attracted, one can have steadiness, one can have perfect taste, one can have transcendental emotions, and at last one can be situated on the plane of loving service of the Lord. All these stages develop by the association of pure devotees, and that is the purport of this stanza.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/5/25/)

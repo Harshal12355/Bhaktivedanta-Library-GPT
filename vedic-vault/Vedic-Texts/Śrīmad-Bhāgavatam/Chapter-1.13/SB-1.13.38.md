@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/13"
+verse: "38"
+reference: "SB 1.13.38"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/13/38/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.774856
+---
+
+# SB 1.13.38
+
+## Sanskrit
+
+अथाजगाम भगवान् नारद: सहतुम्बुरु: । प्रत्युत्थायाभिवाद्याह सानुजोऽभ्यर्चयन्मुनिम् ॥ ३८ ॥
+
+## Transliteration
+
+*athājagāma bhagavān nāradaḥ saha-tumburuḥ pratyutthāyābhivādyāha sānujo ’bhyarcayan munim*
+
+## Word-for-Word
+
+atha — thereafter ; ājagāma — arrived ; bhagavān — the godly personality ; nāradaḥ — Nārada ; saha - tumburuḥ — along with his tumburu (musical instrument) ; pratyutthāya — having gotten up from their seats ; abhivādya — offering their due obeisances ; āha — said ; sa - anujaḥ — along with younger brothers ; abhyarcayan — thus while receiving in a proper mood ; munim — the sage .
+
+## Translation
+
+While Sañjaya was thus speaking, Śrī Nārada, the powerful devotee of the Lord, appeared on the scene carrying his tumburu. Mahārāja Yudhiṣṭhira and his brothers received him properly by getting up from their seats and offering obeisances.
+
+## Purport
+
+Devarṣi Nārada is described herein as bhagavān due to his being the most confidential devotee of the Lord. The Lord and His very confidential devotees are treated on the same level by those who are actually engaged in the loving service of the Lord. Such confidential devotees of the Lord are very much dear to the Lord because they travel everywhere to preach the glories of the Lord in different capacities and try their utmost to convert the nondevotees of the Lord into devotees in order to bring them to the platform of sanity. Actually a living being cannot be a nondevotee of the Lord because of his constitutional position, but when one becomes a nondevotee or nonbeliever, it is to be understood that the person concerned is not in a sound condition of life. The confidential devotees of the Lord treat such illusioned living beings, and therefore they are most pleasing in the eyes of the Lord. The Lord says in the Bhagavad-gītā that no one is dearer to Him than one who actually preaches the glories of the Lord to convert the nonbelievers and nondevotees. Such personalities as Nārada must be offered all due respects, like those offered to the Personality of Godhead Himself, and Mahārāja Yudhiṣṭhira, along with his noble brothers, were examples for others in receiving a pure devotee of the Lord like Nārada, who had no other business save and except singing the glories of the Lord along with his vīṇā, a musical stringed instrument.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.13]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/13/38/)

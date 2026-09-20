@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/9"
+verse: "21"
+reference: "SB 3.9.21"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/9/21/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.940671
+---
+
+# SB 3.9.21
+
+## Sanskrit
+
+यन्नाभिपद्मभवनादहमासमीड्य लोकत्रयोपकरणो यदनुग्रहेण । तस्मै नमस्त उदरस्थभवाय योग- निद्रावसानविकसन्नलिनेक्षणाय ॥ २१ ॥
+
+## Transliteration
+
+*yan-nābhi-padma-bhavanād aham āsam īḍya loka-trayopakaraṇo yad-anugraheṇa tasmai namas ta udara-stha-bhavāya yoga- nidrāvasāna-vikasan-nalinekṣaṇāya*
+
+## Word-for-Word
+
+yat — whose ; nābhi — navel ; padma — lotus ; bhavanāt — from the house of ; aham — I ; āsam — became manifested ; īḍya — O worshipable one ; loka - traya — the three worlds ; upakaraṇaḥ — helping in the creation of ; yat — whose ; anugraheṇa — by the mercy ; tasmai — unto Him ; namaḥ — my obeisances ; te — unto You ; udara - stha — situated within the abdomen ; bhavāya — having the universe ; yoga - nidrā - avasāna — after the end of that transcendental sleep ; vikasat — blossoming ; nalina - īkṣaṇāya — unto Him whose opening eyes are like lotuses .
+
+## Translation
+
+O object of my worship, I am born from the house of Your lotus navel for the purpose of creating the universe by Your mercy. All these planets of the universe were stationed within Your transcendental abdomen while You were enjoying sleep. Now, Your sleep having ended, Your eyes are open like blossoming lotuses in the morning.
+
+## Purport
+
+Brahmā is teaching us the beginning of arcanā regulations from morning (four o’clock) to night (ten o’clock). Early in the morning, the devotee has to rise from his bed and pray to the Lord, and there are other regulative principles for offering maṅgala-ārati early in the morning. Foolish nondevotees, not understanding the importance of arcanā, criticize the regulative principles, but they have no eyes to see that the Lord also sleeps, by His own will. The impersonal conception of the Supreme is so detrimental to the path of devotional service that it is very difficult to associate with the stubborn nondevotees, who always think in terms of material conceptions. Impersonalists always think backwards. They think that because there is form in matter, spirit should be formless; because in matter there is sleep, in spirit there cannot be sleep; and because the sleeping of the Deity is accepted in arcanā worship, the arcanā is māyā. All these thoughts are basically material. To think either positively or negatively is still thinking materially. Knowledge accepted from the superior source of the Vedas is standard. Here in these verses of the Śrīmad-Bhāgavatam, we find that arcanā is recommended. Before Brahmā took up the task of creation, he found the Lord sleeping on the serpent bed in the waves of the water of devastation. Therefore, sleeping exists in the internal potency of the Lord, and this is not denied by pure devotees of the Lord like Brahmā and his disciplic succession. It is clearly said here that the Lord slept very happily within the violent waves of the water, manifesting thereby that He is able to do anything and everything by His transcendental will and not be hampered by any circumstances. The Māyāvādī cannot think beyond this material experience, and thus he denies the Lord’s ability to sleep within the water. His mistake is that he compares the Lord to himself — and that comparison is also a material thought. The whole philosophy of the Māyāvāda school, based on “not this, not that” ( neti, neti ), is basically material. Such thought cannot give one the chance to know the Supreme Personality of Godhead as He is.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.9]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/9/21/)

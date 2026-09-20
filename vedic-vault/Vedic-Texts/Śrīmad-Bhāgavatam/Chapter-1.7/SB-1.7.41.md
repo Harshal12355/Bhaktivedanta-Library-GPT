@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/7"
+verse: "41"
+reference: "SB 1.7.41"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/7/41/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.808724
+---
+
+# SB 1.7.41
+
+## Sanskrit
+
+अथोपेत्य स्वशिबिरं गोविन्दप्रियसारथि: । न्यवेदयत्तं प्रियायै शोचन्त्या आत्मजान् हतान् ॥ ४१ ॥
+
+## Transliteration
+
+*athopetya sva-śibiraṁ govinda-priya-sārathiḥ nyavedayat taṁ priyāyai śocantyā ātma-jān hatān*
+
+## Word-for-Word
+
+atha — thereafter ; upetya — having reached ; sva — own ; śibiram — camp ; govinda — one who enlivens the senses (Lord Śrī Kṛṣṇa) ; priya — dear ; sārathiḥ — the charioteer ; nyavedayat — entrusted to ; tam — him ; priyāyai — unto the dear ; śocantyai — lamenting for ; ātma - jān — own sons ; hatān — murdered .
+
+## Translation
+
+After reaching his own camp, Arjuna, along with his dear friend and charioteer [Śrī Kṛṣṇa], entrusted the murderer unto his dear wife, who was lamenting for her murdered sons.
+
+## Purport
+
+The transcendental relation of Arjuna with Kṛṣṇa is of the dearmost friendship. In the Bhagavad-gītā the Lord Himself has claimed Arjuna as His dearmost friend. Every living being is thus related with the Supreme Lord by some sort of affectionate relation, either as servant or as friend or as parent or as an object of conjugal love. Everyone thus can enjoy the company of the Lord in the spiritual realm if he at all desires and sincerely tries for it by the process of bhakti-yoga.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/7/41/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/19"
+verse: "26"
+reference: "SB 3.19.26"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/19/26/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.898857
+---
+
+# SB 3.19.26
+
+## Sanskrit
+
+स आहतो विश्वजिता ह्यवज्ञया परिभ्रमद्गात्र उदस्तलोचन: । विशीर्णबाह्वङ्‌घ्रिशिरोरुहोऽपतद् यथा नगेन्द्रो लुलितो नभस्वता ॥ २६ ॥
+
+## Transliteration
+
+*sa āhato viśva-jitā hy avajñayā paribhramad-gātra udasta-locanaḥ viśīrṇa-bāhv-aṅghri-śiroruho ’patad yathā nagendro lulito nabhasvatā*
+
+## Word-for-Word
+
+saḥ — he ; āhataḥ — having been struck ; viśva - jitā — by the Supreme Personality of Godhead ; hi — though ; avajñayā — indifferently ; paribhramat — wheeling ; gātraḥ — body ; udasta — bulged out ; locanaḥ — eyes ; viśīrṇa — broken ; bāhu — arms ; aṅghri — legs ; śiraḥ - ruhaḥ — hair ; apatat — fell down ; yathā — like ; naga - indraḥ — a gigantic tree ; lulitaḥ — uprooted ; nabhasvatā — by the wind .
+
+## Translation
+
+Though struck indifferently by the Lord, the conqueror of all, the demon’s body began to wheel. His eyeballs bulged out of their sockets. His arms and legs broken and the hair on his head scattered, he fell down dead, like a gigantic tree uprooted by the wind.
+
+## Purport
+
+It does not take even a moment for the Lord to kill any powerful demon, including Hiraṇyākṣa. The Lord could have killed him long before, but He allowed the demon to display the full extent of his magical feats. One may know that by magical feats, by scientific advancement of knowledge or by material power one cannot become the equal of the Supreme Personality of Godhead. His one signal is sufficient to destroy all our attempts. His inconceivable power, as displayed here, is so strong that the demon, despite all his demoniac maneuvers, was killed by the Lord when the Lord desired, simply by one slap.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.19]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/19/26/)

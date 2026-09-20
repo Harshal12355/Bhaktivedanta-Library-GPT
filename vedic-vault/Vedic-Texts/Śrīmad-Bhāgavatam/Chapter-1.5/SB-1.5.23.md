@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/5"
+verse: "23"
+reference: "SB 1.5.23"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/5/23/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.802135
+---
+
+# SB 1.5.23
+
+## Sanskrit
+
+अहं पुरातीतभवेऽभवं मुने दास्यास्तु कस्याश्चन वेदवादिनाम् । निरूपितो बालक एव योगिनां शुश्रूषणे प्रावृषि निर्विविक्षताम् ॥ २३ ॥
+
+## Transliteration
+
+*ahaṁ purātīta-bhave ’bhavaṁ mune dāsyās tu kasyāścana veda-vādinām nirūpito bālaka eva yogināṁ śuśrūṣaṇe prāvṛṣi nirvivikṣatām*
+
+## Word-for-Word
+
+aham — I ; purā — formerly ; atīta - bhave — in the previous millennium ; abhavam — became ; mune — O muni ; dāsyāḥ — of the maidservant ; tu — but ; kasyāścana — certain ; veda - vādinām — of the followers of Vedānta ; nirūpitaḥ — engaged ; bālakaḥ — boy servant ; eva — only ; yoginām — of the devotees ; śuśrūṣaṇe — in the service of ; prāvṛṣi — during the four months of the rainy season ; nirvivikṣatām — living together .
+
+## Translation
+
+O Muni, in the last millennium I was born as the son of a certain maidservant engaged in the service of brāhmaṇas who were following the principles of Vedānta. When they were living together during the four months of the rainy season, I was engaged in their personal service.
+
+## Purport
+
+The wonder of an atmosphere surcharged with devotional service to the Lord is briefly described herein by Śrī Nārada Muni. He was the son of the most insignificant parentage. He was not properly educated. Still, because his complete energy was engaged in the service of the Lord, he became an immortal sage. Such is the powerful action of devotional service. The living entities are the marginal energy of the Lord, and therefore they are meant for being properly utilized in the transcendental loving service of the Lord. When this is not done, one’s situation is called māyā. Therefore the illusion of māyā is at once dissipated as soon as one’s full energy is converted in the service of the Lord instead of in sense enjoyment. From the personal example of Śrī Nārada Muni in his previous birth, it is clear that the service of the Lord begins with the service of the Lord’s bona fide servants. The Lord says that the service of His servants is greater than His personal service. Service of the devotee is more valuable than the service of the Lord. One should therefore choose a bona fide servant of the Lord constantly engaged in His service, accept such a servant as the spiritual master and engage himself in his (the spiritual master’s) service. Such a spiritual master is the transparent medium by which to visualize the Lord, who is beyond the conception of the material senses. By service of the bona fide spiritual master, the Lord consents to reveal Himself in proportion to the service rendered. Utilization of the human energy in the service of the Lord is the progressive path of salvation. The whole cosmic creation becomes at once identical with the Lord as soon as service in relation with the Lord is rendered under the guidance of a bona fide spiritual master. The expert spiritual master knows the art of utilizing everything to glorify the Lord, and therefore under his guidance the whole world can be turned into the spiritual abode by the divine grace of the Lord’s servant.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/5/23/)

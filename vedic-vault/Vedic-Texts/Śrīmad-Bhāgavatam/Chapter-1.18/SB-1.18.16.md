@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/18"
+verse: "16"
+reference: "SB 1.18.16"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/18/16/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.788924
+---
+
+# SB 1.18.16
+
+## Sanskrit
+
+स वै महाभागवत: परीक्षिद् येनापवर्गाख्यमदभ्रबुद्धि: । ज्ञानेन वैयासकिशब्दितेन भेजे खगेन्द्रध्वजपादमूलम् ॥ १६ ॥
+
+## Transliteration
+
+*sa vai mahā-bhāgavataḥ parīkṣid yenāpavargākhyam adabhra-buddhiḥ jñānena vaiyāsaki-śabditena bheje khagendra-dhvaja-pāda-mūlam*
+
+## Word-for-Word
+
+saḥ — he ; vai — certainly ; mahā - bhāgavataḥ — first-class devotee ; parīkṣit — the King ; yena — by which ; apavarga - ākhyam — by the name of liberation ; adabhra — fixed ; buddhiḥ — intelligence ; jñānena — by knowledge ; vaiyāsaki — the son of Vyāsa ; śabditena — vibrated by ; bheje — taken to ; khaga - indra — Garuḍa, the king of the birds ; dhvaja — flag ; pāda - mūlam — soles of the feet .
+
+## Translation
+
+O Sūta Gosvāmī, please describe those topics of the Lord by which Mahārāja Parīkṣit, whose intelligence was fixed on liberation, attained the lotus feet of the Lord, who is the shelter of Garuḍa, the king of birds. Those topics were vibrated by the son of Vyāsa [Śrīla Śukadeva].
+
+## Purport
+
+There is some controversy amongst the students on the path of liberation. Such transcendental students are known as impersonalists and devotees of the Lord. The devotee of the Lord worships the transcendental form of the Lord, whereas the impersonalist meditates upon the glaring effulgence, or the bodily rays of the Lord, known as the brahmajyoti. Here in this verse it is said that Mahārāja Parīkṣit attained the lotus feet of the Lord by instructions in knowledge delivered by the son of Vyāsadeva, Śrīla Śukadeva Gosvāmī. Śukadeva Gosvāmī was also an impersonalist in the beginning, as he himself has admitted in the Bhāgavatam (2.1.9) , but later on he was attracted by the transcendental pastimes of the Lord and thus became a devotee. Such devotees with perfect knowledge are called mahā-bhāgavatas, or first-class devotees. There are three classes of devotees, namely the prākṛta, madhyama and mahā-bhāgavata. The prākṛta, or third-class devotees, are temple worshipers without specific knowledge of the Lord and the Lord’s devotees. The madhyama, or the second-class devotee, knows well the Lord, the Lord’s devotees, the neophytes and the nondevotees also. But the mahā-bhāgavata, or the first-class devotee, sees everything in relation with the Lord and the Lord present in everyone’s relation. The mahā-bhāgavata, therefore, does not make any distinction, particularly between a devotee and nondevotee. Mahārāja Parīkṣit was such a mahā-bhāgavata devotee because he was initiated by a mahā-bhāgavata devotee, Śukadeva Gosvāmī. He was equally kind, even to the personality of Kali, and what to speak of others. So there are many instances in the transcendental histories of the world of an impersonalist who has later become a devotee. But a devotee has never become an impersonalist. This very fact proves that on the transcendental steps, the step occupied by a devotee is higher than the step occupied by an impersonalist. It is also stated in the Bhagavad-gītā (12.5) that persons stuck on the impersonal step undergo more sufferings than achievement of reality. Therefore knowledge imparted by Śukadeva Gosvāmī unto Mahārāja Parīkṣit helped him attain the service of the Lord. And this stage of perfection is called apavarga, or the perfect stage of liberation. Simple knowledge of liberation is material knowledge. Actual freedom from material bondage is called liberation, but attainment of the transcendental service of the Lord is called the perfect stage of liberation. Such a stage is attained by knowledge and renunciation, as we have already explained ( Bhāg. 1.2.12 ), and perfect knowledge, as delivered by Śrīla Śukadeva Gosvāmī, results in the attainment of the transcendental service of the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.18]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/18/16/)

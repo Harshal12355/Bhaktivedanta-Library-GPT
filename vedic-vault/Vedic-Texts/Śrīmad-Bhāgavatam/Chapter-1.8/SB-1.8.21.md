@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/8"
+verse: "21"
+reference: "SB 1.8.21"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/8/21/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.811294
+---
+
+# SB 1.8.21
+
+## Sanskrit
+
+कृष्णाय वासुदेवाय देवकीनन्दनाय च । नन्दगोपकुमाराय गोविन्दाय नमो नम: ॥ २१ ॥
+
+## Transliteration
+
+*kṛṣṇāya vāsudevāya devakī-nandanāya ca nanda-gopa-kumārāya govindāya namo namaḥ*
+
+## Word-for-Word
+
+kṛṣṇāya — the Supreme Lord ; vāsudevāya — unto the son of Vasudeva ; devakī - nandanāya — unto the son of Devakī ; ca — and ; nanda - gopa — Nanda and the cowherd men ; kumārāya — unto their son ; govindāya — unto the Personality of Godhead, who enlivens the cows and the senses ; namaḥ — respectful obeisances ; namaḥ — obeisances .
+
+## Translation
+
+Let me therefore offer my respectful obeisances unto the Lord, who has become the son of Vasudeva, the pleasure of Devakī, the boy of Nanda and the other cowherd men of Vṛndāvana, and the enlivener of the cows and the senses.
+
+## Purport
+
+The Lord, being thus unapproachable by any material assets, out of unbounded and causeless mercy descends to the earth as He is in order to show His special mercy upon His unalloyed devotees and to diminish the upsurges of the demoniac persons. Queen Kuntī specifically adores the incarnation or descent of Lord Kṛṣṇa above all other incarnations because in this particular incarnation He is more approachable. In the Rāma incarnation He remained a king’s son from His very childhood, but in the incarnation of Kṛṣṇa, although He was the son of a king, He at once left the shelter of His real father and mother (King Vasudeva and Queen Devakī) just after His appearance and went to the lap of Yaśodāmāyī to play the part of an ordinary cowherd boy in the blessed Vrajabhūmi, which is very sanctified because of His childhood pastimes. Therefore Lord Kṛṣṇa is more merciful than Lord Rāma. He was undoubtedly very kind to Kuntī’s brother Vasudeva and the family. Had He not become the son of Vasudeva and Devakī, Queen Kuntī could not claim Him to be her nephew and thus address Kṛṣṇa in parental affection. But Nanda and Yaśodā are more fortunate because they could relish the Lord’s childhood pastimes, which are more attractive than all other pastimes. There is no parallel to His childhood pastimes as exhibited at Vrajabhūmi, which are replicas of His eternal affairs in the original Kṛṣṇaloka, described as the cintāmaṇi-dhāma in the Brahma-saṁhitā. Lord Śrī Kṛṣṇa descended Himself at Vrajabhūmi with all His transcendental entourage and paraphernalia. Śrī Caitanya Mahāprabhu therefore confirmed that no one is as fortunate as the residents of Vrajabhūmi, and specifically the cowherd girls, who dedicated their everything for the satisfaction of the Lord. His pastimes with Nanda and Yaśodā and His pastimes with the cowherd men and especially with the cowherd boys and the cows have caused Him to be known as Govinda. Lord Kṛṣṇa as Govinda is more inclined to the brāhmaṇas and the cows, indicating thereby that human prosperity depends more on these two items, namely brahminical culture and cow protection. Lord Kṛṣṇa is never satisfied where these are lacking.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/8/21/)

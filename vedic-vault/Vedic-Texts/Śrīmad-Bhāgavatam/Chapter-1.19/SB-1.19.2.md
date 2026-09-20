@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/19"
+verse: "2"
+reference: "SB 1.19.2"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/19/2/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.791021
+---
+
+# SB 1.19.2
+
+## Sanskrit
+
+ध्रुवं ततो मे कृतदेवहेलनाद् दुरत्ययं व्यसनं नातिदीर्घात् । तदस्तु कामं ह्यघनिष्कृताय मे यथा न कुर्यां पुनरेवमद्धा ॥ २ ॥
+
+## Transliteration
+
+*dhruvaṁ tato me kṛta-deva-helanād duratyayaṁ vyasanaṁ nāti-dīrghāt tad astu kāmaṁ hy agha-niṣkṛtāya me yathā na kuryāṁ punar evam addhā*
+
+## Word-for-Word
+
+dhruvam — sure and certain ; tataḥ — therefore ; me — my ; kṛta - deva - helanāt — because of disobeying the orders of the Lord ; duratyayam — very difficult ; vyasanam — calamity ; na — not ; ati — greatly ; dīrghāt — far off ; tat — that ; astu — let it be ; kāmam — desire without reservations ; hi — certainly ; agha — sins ; niṣkṛtāya — for getting free ; me — my ; yathā — so that ; na — never ; kuryām — shall I do it ; punaḥ — again ; evam — as I have done ; addhā — directly .
+
+## Translation
+
+[King Parīkṣit thought:] Due to my neglecting the injunctions of the Supreme Lord I must certainly expect some difficulty to overcome me in the near future. I now desire without reservation that the calamity come now, for in this way I may be freed of the sinful action and not commit such an offense again.
+
+## Purport
+
+The Supreme Lord enjoins that brāhmaṇas and cows must be given all protection. The Lord is Himself very much inclined to do good to brāhmaṇas and cows ( go-brāhmaṇa-hitāya ca ). Mahārāja Parīkṣit knew all this, and thus he concluded that his insulting a powerful brāhmaṇa was certainly to be punished by the laws of the Lord, and he was expecting something very difficult in the very near future. He therefore desired the imminent calamity to fall on him and not on his family members. A man’s personal misconduct affects all his family members. Therefore Mahārāja Parīkṣit desired the calamity to fall on him alone. By suffering personally he would be restrained from future sins, and at the same time the sin which he had committed would be counteracted so that his descendants would not suffer. That is the way a responsible devotee thinks. The family members of a devotee also share the effects of a devotee’s service unto the Lord. Mahārāja Prahlāda saved his demon father by his personal devotional service. A devotee son in the family is the greatest boon or blessing of the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.19]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/19/2/)

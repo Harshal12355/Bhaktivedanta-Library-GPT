@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/2"
+verse: "29"
+reference: "SB 3.2.29"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/2/29/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.902302
+---
+
+# SB 3.2.29
+
+## Sanskrit
+
+स एव गोधनं लक्ष्म्या निकेतं सितगोवृषम् । चारयन्ननुगान् गोपान् रणद्वेणुररीरमत् ॥ २९ ॥
+
+## Transliteration
+
+*sa eva go-dhanaṁ lakṣmyā niketaṁ sita-go-vṛṣam cārayann anugān gopān raṇad-veṇur arīramat*
+
+## Word-for-Word
+
+saḥ — He (Lord Kṛṣṇa) ; eva — certainly ; go - dhanam — the treasure of cows ; lakṣmyāḥ — by opulence ; niketam — reservoir ; sita - go - vṛṣam — beautiful cows and bulls ; cārayan — herding ; anugān — the followers ; gopān — cowherd boys ; raṇat — blowing ; veṇuḥ — flute ; arīramat — enlivened .
+
+## Translation
+
+While herding the very beautiful bulls, the Lord, who was the reservoir of all opulence and fortune, used to blow His flute, and thus He enlivened His faithful followers, the cowherd boys.
+
+## Purport
+
+As He grew to six and seven years old, the Lord was given charge of looking after the cows and bulls in the grazing grounds. He was the son of a well-to-do landholder who owned hundreds and thousands of cows, and according to Vedic economics, one is considered to be a rich man by the strength of his store of grains and cows. With only these two things, cows and grain, humanity can solve its eating problem. Human society needs only sufficient grain and sufficient cows to solve its economic problems. All other things but these two are artificial necessities created by man to kill his valuable life at the human level and waste his time in things which are not needed. Lord Kṛṣṇa, as the teacher of human society, personally showed by His acts that the mercantile community, or the vaiśyas, should herd cows and bulls and thus give protection to the valuable animals. According to smṛti regulation, the cow is the mother and the bull the father of the human being. The cow is the mother because just as one sucks the breast of one’s mother, human society takes cow’s milk. Similarly, the bull is the father of human society because the father earns for the children just as the bull tills the ground to produce food grains. Human society will kill its spirit of life by killing the father and the mother. It is mentioned herein that the beautiful cows and bulls were of various checkered colors — red, black, green, yellow, ash, etc. And because of their colors and healthy smiling features, the atmosphere was enlivening. Over and above all, the Lord used to play His celebrated flute. The sound vibrated by His flute would give His friends such transcendental pleasure that they would forget all the talks of brahmānanda, which is so praised by the impersonalists. These cowherd boys, as will be explained by Śukadeva Gosvāmī, were living entities who had accumulated heaps of pious acts and thus were enjoying with the Lord in person and were hearing His transcendental flute. The Brahma-saṁhitā (5.30) confirms the Lord’s blowing His transcendental flute: veṇuṁ kvaṇantam aravinda-dalāyatākṣaṁ barhāvataṁsam asitāmbuda-sundarāṅgam kandarpa-koṭi-kamanīya-viśeṣa-śobhaṁ govindam ādi-puruṣaṁ tam ahaṁ bhajāmi Brahmājī said, “I worship Govinda, the primeval Lord, who plays on His transcendental flute. His eyes are like lotus flowers, He is decorated with peacock plumes, and His bodily color resembles a fresh black cloud, although His bodily features are more beautiful than millions of cupids.” These are the special features of the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/2/29/)

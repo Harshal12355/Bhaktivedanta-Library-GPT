@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/20"
+verse: "31"
+reference: "SB 3.20.31"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/20/31/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.904910
+---
+
+# SB 3.20.31
+
+## Sanskrit
+
+गूहन्तीं व्रीडयात्मानं नीलालकवरूथिनीम् । उपलभ्यासुरा धर्म सर्वे सम्मुमुहु: स्त्रियम् ॥ ३१ ॥
+
+## Transliteration
+
+*gūhantīṁ vrīḍayātmānaṁ nīlālaka-varūthinīm upalabhyāsurā dharma sarve sammumuhuḥ striyam*
+
+## Word-for-Word
+
+gūhantīm — hiding ; vrīḍayā — out of shyness ; ātmānam — herself ; nīla — dark ; alaka — hair ; varūthinīm — a bunch ; upalabhya — upon imagining ; asurāḥ — the demons ; dharma — O Vidura ; sarve — all ; sammumuhuḥ — were captivated ; striyam — woman .
+
+## Translation
+
+Adorned with dark tresses, she hid herself, as it were, out of shyness. Upon seeing that girl, the asuras were all infatuated with an appetite for sex.
+
+## Purport
+
+The difference between demons and demigods is that a beautiful woman very easily attracts the minds of demons, but she cannot attract the mind of a godly person. A godly person is full of knowledge, and a demoniac person is full of ignorance. Just as a child is attracted by a beautiful doll, similarly a demon, who is less intelligent and full of ignorance, is attracted by material beauty and an appetite for sex. The godly person knows that this nicely dressed and ornamented attraction of high breasts, high hips, beautiful nose and fair complexion is māyā. All the beauty a woman can display is only a combination of flesh and blood. Śrī Śaṅkarācārya has advised all persons not to be attracted by the interaction of flesh and blood; they should be attracted by the real beauty In spiritual life. The real beauty is Kṛṣṇa and Rādhā. One who is attracted by the beauty of Rādhā and Kṛṣṇa cannot be attracted by the false beauty of this material world. That is the difference between a demon and a godly person or devotee.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.20]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/20/31/)

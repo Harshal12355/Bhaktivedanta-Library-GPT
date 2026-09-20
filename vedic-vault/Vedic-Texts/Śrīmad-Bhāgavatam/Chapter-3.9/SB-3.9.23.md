@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/9"
+verse: "23"
+reference: "SB 3.9.23"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/9/23/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.940975
+---
+
+# SB 3.9.23
+
+## Sanskrit
+
+एष प्रपन्नवरदो रमयात्मशक्त्या यद्यत्करिष्यति गृहीतगुणावतार: । तस्मिन् स्वविक्रममिदं सृजतोऽपि चेतो युञ्जीत कर्मशमलं च यथा विजह्याम् ॥ २३ ॥
+
+## Transliteration
+
+*eṣa prapanna-varado ramayātma-śaktyā yad yat kariṣyati gṛhīta-guṇāvatāraḥ tasmin sva-vikramam idaṁ sṛjato ’pi ceto yuñjīta karma-śamalaṁ ca yathā vijahyām*
+
+## Word-for-Word
+
+eṣaḥ — this ; prapanna — one who is surrendered ; vara - daḥ — benefactor ; ramayā — enjoying always with the goddess of fortune (Lakṣmī) ; ātma - śaktyā — with His internal potency ; yat yat — whatever ; kariṣyati — He may act ; gṛhīta — accepting ; guṇa - avatāraḥ — incarnation of the mode of goodness ; tasmin — unto Him ; sva - vikramam — with omnipotency ; idam — this cosmic manifestation ; sṛjataḥ — creating ; api — in spite of ; cetaḥ — heart ; yuñjīta — be engaged ; karma — work ; śamalam — material affection ; ca — also ; yathā — as much as ; vijahyām — I can give up .
+
+## Translation
+
+The Supreme Lord, the Personality of Godhead, is always the benefactor of the surrendered souls. His activities are always enacted through His internal potency, Ramā, or the goddess of fortune. I pray only to engage in His service in the creation of the material world, and I pray that I not be materially affected by my works, for thus I may be able to give up the false prestige of being the creator.
+
+## Purport
+
+In the matter of material creation, maintenance and destruction, there are three incarnations of the material modes of nature — Brahmā, Viṣṇu and Maheśvara. But the Lord’s incarnation as Viṣṇu, in His internal potency, is the supreme energy for the total activities. Brahmā, who is only an assistant in the modes of creation, wanted to remain in his actual position as an instrument of the Lord instead of becoming puffed up by the false prestige of thinking himself the creator. That is the way of becoming dear to the Supreme Lord and receiving His benediction. Foolish men want to take credit for all creations made by them, but intelligent persons know very well that not a blade of grass can move without the will of the Lord; thus all the credit for wonderful creations must go to Him. By spiritual consciousness only can one be free from the contamination of material affection and receive the benedictions offered by the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.9]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/9/23/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/11"
+verse: "4"
+reference: "SB 3.11.4"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/11/4/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.869263
+---
+
+# SB 3.11.4
+
+## Sanskrit
+
+स काल: परमाणुर्वै यो भुङ्क्ते परमाणुताम् । सतोऽविशेषभुग्यस्तु स काल: परमो महान् ॥ ४ ॥
+
+## Transliteration
+
+*sa kālaḥ paramāṇur vai yo bhuṅkte paramāṇutām sato ’viśeṣa-bhug yas tu sa kālaḥ paramo mahān*
+
+## Word-for-Word
+
+saḥ — that ; kālaḥ — eternal time ; parama - aṇuḥ — atomic ; vai — certainly ; yaḥ — which ; bhuṅkte — passes through ; parama - aṇutām — the space of an atom ; sataḥ — of the entire aggregate ; aviśeṣa - bhuk — passing through the nondual exhibition ; yaḥ tu — which ; saḥ — that ; kālaḥ — time ; paramaḥ — the supreme ; mahān — the great .
+
+## Translation
+
+Atomic time is measured according to its covering a particular atomic space. That time which covers the unmanifest aggregate of atoms is called the great time.
+
+## Purport
+
+Time and space are two correlative terms. Time is measured in terms of its covering a certain space of atoms. Standard time is calculated in terms of the movement of the sun. The time covered by the sun in passing over an atom is calculated as atomic time. The greatest time of all covers the entire existence of the nondual manifestation. All the planets rotate and cover space, and space is calculated in terms of atoms. Each planet has its particular orbit for rotating, in which it moves without deviation, and similarly the sun has its orbit. The complete calculation of the time of creation, maintenance and dissolution, measured in terms of the circulation of the total planetary systems until the end of creation, is known as the supreme kāla.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.11]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/11/4/)

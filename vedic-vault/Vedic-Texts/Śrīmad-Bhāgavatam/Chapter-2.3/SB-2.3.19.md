@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/3"
+verse: "19"
+reference: "SB 2.3.19"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/3/19/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.831389
+---
+
+# SB 2.3.19
+
+## Sanskrit
+
+श्वविड्‍वराहोष्ट्रखरै: संस्तुत: पुरुष: पशु: । न यत्कर्णपथोपेतो जातु नाम गदाग्रज: ॥ १९ ॥
+
+## Transliteration
+
+*śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ na yat-karṇa-pathopeto jātu nāma gadāgrajaḥ*
+
+## Word-for-Word
+
+śva — a dog ; viṭ - varāha — the village hog who eats stool ; uṣṭra — the camel ; kharaiḥ — and by the asses ; saṁstutaḥ — perfectly praised ; puruṣaḥ — a person ; paśuḥ — animal ; na — never ; yat — of him ; karṇa — ear ; patha — path ; upetaḥ — reached ; jātu — at any time ; nāma — the holy name ; gadāgrajaḥ — Lord Kṛṣṇa, the deliverer from all evils .
+
+## Translation
+
+Men who are like dogs, hogs, camels and asses praise those men who never listen to the transcendental pastimes of Lord Śrī Kṛṣṇa, the deliverer from evils.
+
+## Purport
+
+The general mass of people, unless they are trained systematically for a higher standard of life in spiritual values, are no better than animals, and in this verse they have particularly been put on the level of dogs, hogs, camels and asses. Modern university education practically prepares one to acquire a doggish mentality with which to accept the service of a greater master. After finishing a so-called education, the so-called educated persons move like dogs from door to door with applications for some service, and mostly they are driven away, informed of no vacancy. As dogs are negligible animals and serve the master faithfully for bits of bread, a man serves a master faithfully without sufficient rewards. Persons who have no discrimination in the matter of foodstuff and who eat all sorts of rubbish are compared to hogs. Hogs are very much attached to eating stools. So stool is a kind of foodstuff for a particular type of animal. And even stones are eatables for a particular type of animal or bird. But the human being is not meant for eating everything and anything; he is meant to eat grains, vegetables, fruits, milk, sugar, etc. Animal food is not meant for the human being. For chewing solid food, the human being has a particular type of teeth meant for cutting fruits and vegetables. The human being is endowed with two canine teeth as a concession for persons who will eat animal food at any cost. It is known to everyone that one man’s food is another man’s poison. Human beings are expected to accept the remnants of food offered to Lord Śrī Kṛṣṇa, and the Lord accepts foodstuff from the categories of leaves, flowers, fruits, etc. ( Bg. 9.26 ). As prescribed by Vedic scriptures, no animal food is offered to the Lord. Therefore, a human being is meant to eat a particular type of food. He should not imitate the animals to derive so-called vitamin values. Therefore, a person who has no discrimination in regard to eating is compared to a hog. The camel is a kind of animal that takes pleasure in eating thorns. A person who wants to enjoy family life or the worldly life of so-called enjoyment is compared to the camel. Materialistic life is full of thorns, and so one should live only by the prescribed method of Vedic regulations just to make the best use of a bad bargain. Life in the material world is maintained by sucking one’s own blood. The central point of attraction for material enjoyment is sex life. To enjoy sex life is to suck one’s own blood, and there is not much more to be explained in this connection. The camel also sucks its own blood while chewing thorny twigs. The thorns the camel eats cut the tongue of the camel, and so blood begins to flow within the camel’s mouth. The thorns, mixed with fresh blood, create a taste for the foolish camel, and so he enjoys the thorn-eating business with false pleasure. Similarly, the great business magnates, industrialists who work very hard to earn money by different ways and questionable means, eat the thorny results of their actions mixed with their own blood. Therefore the Bhāgavatam has situated these diseased fellows along with the camels. The ass is an animal who is celebrated as the greatest fool, even amongst the animals. The ass works very hard and carries burdens of the maximum weight without making profit for itself.* The ass is generally engaged by the washerman, whose social position is not very respectable. And the special qualification of the ass is that it is very much accustomed to being kicked by the opposite sex. When the ass begs for sexual intercourse, he is kicked by the fair sex, yet he still follows the female for such sexual pleasure. A henpecked man is compared, therefore, to the ass. The general mass of people work very hard, especially in the Age of Kali. In this age the human being is actually engaged in the work of an ass, carrying heavy burdens and driving ṭhelā and rickshaws. The so-called advancement of human civilization has engaged a human being in the work of an ass. The laborers in great factories and workshops are also engaged in such burdensome work, and after working hard during the day, the poor laborer has to be again kicked by the fair sex, not only for sex enjoyment but also for so many household affairs. So Śrīmad-Bhāgavatam’s categorization of the common man without any spiritual enlightenment into the society of dogs, hogs, camels and asses is not at all an exaggeration. The leaders of such ignorant masses of people may feel very proud of being adored by such a number of dogs and hogs, but that is not very flattering. The Bhāgavatam openly declares that although a person may be a great leader of such dogs and hogs disguised as men, if he has no taste for being enlightened in the science of Kṛṣṇa, such a leader is also an animal and nothing more. He may be designated as a powerful, strong animal, or a big animal, but in the estimation of Śrīmad-Bhāgavatam he is never given a place in the category of man, on account of his atheistic temperament. Or in other words, such godless leaders of dogs and hoglike men are bigger animals with the qualities of animals in greater proportion.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/3/19/)

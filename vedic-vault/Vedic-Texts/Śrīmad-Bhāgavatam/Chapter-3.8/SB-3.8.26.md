@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/8"
+verse: "26"
+reference: "SB 3.8.26"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/8/26/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.938214
+---
+
+# SB 3.8.26
+
+## Sanskrit
+
+पुंसां स्वकामाय विविक्तमार्गै- रभ्यर्चतां कामुदुघाङ्‌घ्रि पद्मम् । प्रदर्शयन्तं कृपया नखेन्दु- मयूखभिन्नाङ्गुलिचारुपत्रम् ॥ २६ ॥
+
+## Transliteration
+
+*puṁsāṁ sva-kāmāya vivikta-mārgair abhyarcatāṁ kāma-dughāṅghri-padmam pradarśayantaṁ kṛpayā nakhendu- mayūkha-bhinnāṅguli-cāru-patram*
+
+## Word-for-Word
+
+puṁsām — of the human being ; sva - kāmāya — according to the desire ; vivikta - mārgaiḥ — by the path of devotional service ; abhyarcatām — worshiped ; kāma - dugha - aṅghri - padmam — the lotus feet of the Lord, which can award all desired fruits ; pradarśayantam — while showing them ; kṛpayā — by causeless mercy ; nakha — nails ; indu — moonlike ; mayūkha — rays ; bhinna — divided ; aṅguli — figures ; cāru - patram — very beautiful .
+
+## Translation
+
+The Lord showed His lotus feet by raising them. His lotus feet are the source of all awards achieved by devotional service free from material contamination. Such awards are for those who worship Him in pure devotion. The splendor of the transcendental rays from His moonlike toenails and fingernails appeared like the petals of a flower.
+
+## Purport
+
+The Lord fulfills the desires of everyone just as one desires. Pure devotees are interested in achieving the transcendental service of the Lord, which is nondifferent from Him. Therefore, the Lord is the only desire of the pure devotees, and devotional service is the only spotless process for achieving His favor. Śrīla Rūpa Gosvāmī says in his Bhakti-rasāmṛta-sindhu (1.1.11) that pure devotional service is jñāna-karmādy-anāvṛtam: pure devotional service is without any tinge of speculative knowledge and fruitive activities. Such devotional service is able to award the pure devotee the highest result, namely direct association with the Supreme Personality of Godhead, Lord Kṛṣṇa. According to the Gopāla-tāpanī Upaniṣad, the Lord showed one of the many thousands of petals of His lotus feet. It is said: brāhmaṇo ’sāv anavarataṁ me dhyātaḥ stutaḥ parārdhānte so ’budhyata gopa-veśo me purastāt āvirbabhūva. After penetrating for millions of years, Lord Brahmā could understand the transcendental form of the Lord as Śrī Kṛṣṇa, in the dress of a cowherd boy, and thus he recorded his experience in the Brahma-saṁhitā in the famous prayer govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/8/26/)

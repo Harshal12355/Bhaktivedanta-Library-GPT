@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/9"
+verse: "15"
+reference: "SB 3.9.15"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/9/15/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.940197
+---
+
+# SB 3.9.15
+
+## Sanskrit
+
+यस्यावतारगुणकर्मविडम्बनानि नामानि येऽसुविगमे विवशा गृणन्ति । तेऽनैकजन्मशमलं सहसैव हित्वा संयान्त्यपावृतामृतं तमजं प्रपद्ये ॥ १५ ॥
+
+## Transliteration
+
+*yasyāvatāra-guṇa-karma-viḍambanāni nāmāni ye ’su-vigame vivaśā gṛṇanti te ’naika-janma-śamalaṁ sahasaiva hitvā saṁyānty apāvṛtāmṛtaṁ tam ajaṁ prapadye*
+
+## Word-for-Word
+
+yasya — whose ; avatāra — incarnations ; guṇa — transcendental qualities ; karma — activities ; viḍambanāni — all mysterious ; nāmāni — transcendental names ; ye — those ; asu - vigame — while quitting this life ; vivaśāḥ — automatically ; gṛṇanti — invoke ; te — they ; anaika — many ; janma — births ; śamalam — accumulated sins ; sahasā — immediately ; eva — certainly ; hitvā — giving up ; saṁyānti — obtain ; apāvṛta — open ; amṛtam — immortality ; tam — Him ; ajam — the unborn ; prapadye — I take shelter .
+
+## Translation
+
+Let me take shelter of the lotus feet of Him whose incarnations, qualities and activities are mysterious imitations of worldly affairs. One who invokes His transcendental names, even unconsciously, at the time he quits this life, is certainly washed immediately of the sins of many, many births and attains Him without fail.
+
+## Purport
+
+The activities of the incarnations of the Supreme Personality of Godhead are a kind of imitation of the activities going on in the material world. He is just like an actor on a stage. An actor imitates the activities of a king on stage, although actually he is not the king. Similarly, when the Lord incarnates, He imitates parts with which He has nothing to do. In Bhagavad-gītā (4.14) , it is said that the Lord has nothing to do with the activities in which He is supposedly engaged: na māṁ karmāṇi limpanti na me karma-phale spṛhā. The Lord is omnipotent; simply by His will He can perform anything and everything. When the Lord appeared as Lord Kṛṣṇa, He played the part of the son of Yaśodā and Nanda, and He lifted the Govardhana Hill, although lifting a hill is not His concern. He can lift millions of Govardhana Hills by His simple desire; He does not need to lift it with His hand. But He imitates the ordinary living entity by this lifting, and at the same time He exhibits His supernatural power. Thus His name is chanted as the lifter of Govardhana Hill, or Śrī Govardhana-dhārī. Therefore, His acts in His incarnations and His partiality to the devotees are all imitations only, just like the stage makeup of an expert dramatical player. His acts in that capacity, however, are all omnipotent, and the remembrance of such activities of the incarnations of the Supreme Personality of Godhead is as powerful as the Lord Himself. Ajāmila remembered the holy name of the Lord, Nārāyaṇa, by merely calling the name of his son Nārāyaṇa, and that gave him a complete opportunity to achieve the highest perfection of life.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.9]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/9/15/)

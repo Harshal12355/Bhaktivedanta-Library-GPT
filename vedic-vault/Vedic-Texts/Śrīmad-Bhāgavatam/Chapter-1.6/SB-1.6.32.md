@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/6"
+verse: "32"
+reference: "SB 1.6.32"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/6/32/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.805481
+---
+
+# SB 1.6.32
+
+## Sanskrit
+
+देवदत्तामिमां वीणां स्वरब्रह्मविभूषिताम् । मूर्च्छयित्वा हरिकथां गायमानश्चराम्यहम् ॥ ३२ ॥
+
+## Transliteration
+
+*deva-dattām imāṁ vīṇāṁ svara-brahma-vibhūṣitām mūrcchayitvā hari-kathāṁ gāyamānaś carāmy aham*
+
+## Word-for-Word
+
+deva — the Supreme Personality of Godhead (Śrī Kṛṣṇa) ; dattām — gifted by ; imām — this ; vīṇām — a musical stringed instrument ; svara — singing meter ; brahma — transcendental ; vibhūṣitām — decorated with ; mūrcchayitvā — vibrating ; hari - kathām — transcendental message ; gāyamānaḥ — singing constantly ; carāmi — do move ; aham — I .
+
+## Translation
+
+And thus I travel, constantly singing the transcendental message of the glories of the Lord, vibrating this instrument called a vīṇā, which is charged with transcendental sound and which was given to me by Lord Kṛṣṇa.
+
+## Purport
+
+The musical stringed instrument called the vīṇā, which was handed to Nārada by Lord Śrī Kṛṣṇa, is described in the Liṅga Purāṇa, and this is confirmed by Śrīla Jīva Gosvāmī. This transcendental instrument is identical with Lord Śrī Kṛṣṇa and Nārada because all of them are of the same transcendental category. Sound vibrated by the instrument cannot be material, and therefore the glories and pastimes which are broadcast by the instrument of Nārada are also transcendental, without a tinge of material inebriety. The seven singing meters, namely ṣa ( ṣaḍja ), ṛ ( ṛṣabha ), gā ( gāndhāra ), ma ( madhyama ), pa ( pañcama ), dha ( dhaivata ) and ni ( niṣāda ), are also transcendental and specifically meant for transcendental songs. As a pure devotee of the Lord, Śrī Nāradadeva is always fulfilling his obligation to the Lord for His gift of the instrument, and thus he is always engaged in singing His transcendental glories and is therefore infallible in his exalted position. Following in the footsteps of Śrīla Nārada Muni, a self-realized soul in the material world should also properly use the sound meters, namely ṣa, ṛ, gā, ma, etc., in the service of the Lord by constantly singing the glories of the Lord, as confirmed in the Bhagavad-gītā.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/6/32/)

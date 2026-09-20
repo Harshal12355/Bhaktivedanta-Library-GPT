@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/12"
+verse: "18"
+reference: "SB 1.12.18"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/12/18/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.770997
+---
+
+# SB 1.12.18
+
+## Sanskrit
+
+श्रीराजोवाच अप्येष वंश्यान् राजर्षीन् पुण्यश्लोकान् महात्मन: । अनुवर्तिता स्विद्यशसा साधुवादेन सत्तमा: ॥ १८ ॥
+
+## Transliteration
+
+*śrī-rājovāca apy eṣa vaṁśyān rājarṣīn puṇya-ślokān mahātmanaḥ anuvartitā svid yaśasā sādhu-vādena sattamāḥ*
+
+## Word-for-Word
+
+śrī - rājā — the all-good king (Mahārāja Yudhiṣṭhira) ; uvāca — said ; api — whether ; eṣaḥ — this ; vaṁśyān — family ; rāja - ṛṣīn — of saintly kings ; puṇya - ślokān — pious by the very name ; mahā - ātmanaḥ — all great souls ; anuvartitā — follower ; svit — will it be ; yaśasā — by achievements ; sādhu - vādena — by glorification ; sat - tamāḥ — O great souls .
+
+## Translation
+
+The good King [Yudhiṣṭhira] inquired: O great souls, will he become as saintly a king, as pious in his very name and as famous and glorified in his achievements, as others who appeared in this great royal family?
+
+## Purport
+
+The forefathers of King Yudhiṣṭhira were all great saintly kings, pious and glorified by their great achievements. They were all saints on the royal throne. And therefore all the members of the state were happy, pious, well-behaved, prosperous and spiritually enlightened. Under strict guidance of the great souls and spiritual injunctions, such great saintly kings were trained up, and as a result the kingdom was full of saintly persons and was a happy land of spiritual life. Mahārāja Yudhiṣṭhira was himself a replica of his ancestors, and he desired that the next king after him become exactly like his great forefathers. He was happy to learn from the learned brāhmaṇas that by astrological calculations the child would be born a first-grade devotee of the Lord, and more confidentially he wanted to know whether the child was going to follow in the footsteps of his great forefathers. That is the way of the monarchical state. The reigning king should be a pious, chivalrous devotee of the Lord and fear personified for the upstarts. He must also leave an heir apparent equally qualified to rule over the innocent citizens. In the modern setup of the democratic states, the people themselves are fallen to the qualities of the śūdras or less, and the government is run by their representative, who is ignorant of the scriptural mode of administrative education. Thus the whole atmosphere is surcharged with śūdra qualities, manifested by lust and avarice. Such administrators quarrel every day among themselves. The cabinet of ministers changes often due to party and group selfishness. Everyone wants to exploit the state resources till he dies. No one retires from political life unless forced to do so. How can such low-grade men do good to the people? The result is corruption, intrigue and hypocrisy. They should learn from the Śrīmad-Bhāgavatam how ideal the administrators must be before they can be given charge of different posts.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.12]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/12/18/)

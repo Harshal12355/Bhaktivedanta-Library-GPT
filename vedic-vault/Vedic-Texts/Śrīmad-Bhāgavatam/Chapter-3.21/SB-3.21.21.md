@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/21"
+verse: "21"
+reference: "SB 3.21.21"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/21/21/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.908137
+---
+
+# SB 3.21.21
+
+## Sanskrit
+
+तं त्वानुभूत्योपरतक्रियार्थं स्वमायया वर्तितलोकतन्त्रम् । नमाम्यभीक्ष्णं नमनीयपाद- सरोजमल्पीयसि कामवर्षम् ॥ २१ ॥
+
+## Transliteration
+
+*taṁ tvānubhūtyoparata-kriyārthaṁ sva-māyayā vartita-loka-tantram namāmy abhīkṣṇaṁ namanīya-pāda- sarojam alpīyasi kāma-varṣam*
+
+## Word-for-Word
+
+tam — that ; tvā — You ; anubhūtyā — by realizing ; uparata — disregarded ; kriyā — enjoyment of fruitive activities ; artham — in order that ; sva - māyayā — by Your own energy ; vartita — brought about ; loka - tantram — the material worlds ; namāmi — I offer obeisances ; abhīkṣṇam — continuously ; namanīya — worshipable ; pāda - sarojam — lotus feet ; alpīyasi — on the insignificant ; kāma — desires ; varṣam — showering .
+
+## Translation
+
+I continuously offer my respectful obeisances unto Your lotus feet, of which it is worthy to take shelter, because You shower all benedictions on the insignificant. To give all living entities detachment from fruitive activity by realizing You, You have expanded these material worlds by Your own energy.
+
+## Purport
+
+Everyone, therefore, whether he desires material enjoyment, liberation or the transcendental loving service of the Lord, should engage himself in offering obeisances unto the Supreme Lord, because the Lord can award everyone his desired benediction. In Bhagavad-gītā the Lord affirms, ye yathā māṁ prapadyante: anyone who desires to be a successful enjoyer in this material world is awarded that benediction by the Lord, anyone who wants to be liberated from the entanglement of this material world is given liberation by the Lord, and anyone who desires to constantly engage in His service in full Kṛṣṇa consciousness is awarded that benediction by the Lord. For material enjoyment He has prescribed so many ritualistic sacrificial performances in the Vedas, and thus people may take advantage of those instructions and enjoy material life in higher planets or in a noble aristocratic family. These processes are mentioned in the Vedas, and one can take advantage of them. It is similar with those who want to be liberated from this material world. Unless one is disgusted with the enjoyment of this material world, he cannot aspire for liberation. Liberation is for one who is disgusted with material enjoyment. Vedānta-sūtra says, therefore, athāto brahma-jijñāsā: those who have given up the attempt to be happy in this material world can inquire about the Absolute Truth. For those who want to know the Absolute Truth, the Vedānta-sūtra is available, as is Śrīmad-Bhāgavatam, the actual explanation of Vedānta-sūtra. Since Bhagavad-gītā is also Vedānta-sūtra, by understanding Śrīmad-Bhāgavatam, Vedānta-sūtra or Bhagavad-gītā one can obtain real knowledge. When one obtains real knowledge, he becomes theoretically one with the Supreme, and when he actually begins the service of Brahman, or Kṛṣṇa consciousness, he is not only liberated but situated in his spiritual life. Similarly, for those who want to lord it over material nature, there are so many departments of material enjoyment; material knowledge and material science are available, and the Lord provides for persons who want to enjoy them. The conclusion is that one should worship the Supreme Personality of Godhead for any benediction. The word kāma-varṣam is very significant, for it indicates that He satisfies the desires of anyone who approaches Him. But one who sincerely loves Kṛṣṇa and yet wants material enjoyment is in perplexity. Kṛṣṇa, being very kind toward him, gives him an opportunity to engage in the transcendental loving service of the Lord, and so he gradually forgets the hallucination.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.21]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/21/21/)

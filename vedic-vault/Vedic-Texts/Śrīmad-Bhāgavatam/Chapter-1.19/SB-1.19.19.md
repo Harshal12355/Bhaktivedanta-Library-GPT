@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/19"
+verse: "19"
+reference: "SB 1.19.19"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/19/19/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.791660
+---
+
+# SB 1.19.19
+
+## Sanskrit
+
+महर्षयो वै समुपागता ये प्रशस्य साध्वित्यनुमोदमाना: । ऊचु: प्रजानुग्रहशीलसारा यदुत्तमश्लोकगुणाभिरूपम् ॥ १९ ॥
+
+## Transliteration
+
+*maharṣayo vai samupāgatā ye praśasya sādhv ity anumodamānāḥ ūcuḥ prajānugraha-śīla-sārā yad uttama-śloka-guṇābhirūpam*
+
+## Word-for-Word
+
+maharṣayaḥ — the great sages ; vai — as a matter of course ; samupāgatāḥ — assembled there ; ye — those who ; praśasya — by praising ; sādhu — quite all right ; iti — thus ; anumodamānāḥ — all approving ; ūcuḥ — said ; prajā - anugraha — doing good to the living being ; śīla - sārāḥ — qualitatively powerful ; yat — because ; uttama - śloka — one who is praised by selected poems ; guṇa - abhirūpam — as beautiful as godly qualities .
+
+## Translation
+
+All the great sages who were assembled there also praised the decision of Mahārāja Parīkṣit, and they expressed their approval by saying “Very good.” Naturally the sages are inclined to do good to common men, for they have all the qualitative powers of the Supreme Lord. Therefore they were very much pleased to see Mahārāja Parīkṣit, a devotee of the Lord, and they spoke as follows.
+
+## Purport
+
+The natural beauty of a living being is enhanced by rising up to the platform of devotional service. Mahārāja Parīkṣit was absorbed in attachment for Lord Kṛṣṇa. Seeing this, the great sages assembled were very pleased, and they expressed their approval by saying “Very good.” Such sages are naturally inclined to do good to the common man, and when they see a personality like Mahārāja Parīkṣit advance in devotional service, their pleasure knows no bounds, and they offer all blessings in their power. The devotional service of the Lord is so auspicious that all demigods and sages, up to the Lord Himself, become pleased with the devotee, and therefore the devotee finds everything auspicious. All inauspicious matters are removed from the path of a progressive devotee. Meeting all the great sages at the time of death was certainly auspicious for Mahārāja Parīkṣit, and thus he was blessed by the so-called curse of a brāhmaṇa’s boy.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.19]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/19/19/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/16"
+verse: "24"
+reference: "SB 3.16.24"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/16/24/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.891798
+---
+
+# SB 3.16.24
+
+## Sanskrit
+
+तत्तेऽनभीष्टमिव सत्त्वनिधेर्विधित्सो: क्षेमं जनाय निजशक्तिभिरुद्‍धृतारे: । नैतावता त्र्यधिपतेर्बत विश्वभर्तु- स्तेज: क्षतं त्ववनतस्य स ते विनोद: ॥ २४ ॥
+
+## Transliteration
+
+*tat te ’nabhīṣṭam iva sattva-nidher vidhitsoḥ kṣemaṁ janāya nija-śaktibhir uddhṛtāreḥ naitāvatā try-adhipater bata viśva-bhartus tejaḥ kṣataṁ tv avanatasya sa te vinodaḥ*
+
+## Word-for-Word
+
+tat — that destruction of the path of auspiciousness ; te — by You ; anabhīṣṭam — is not liked ; iva — as ; sattva - nidheḥ — the reservoir of all goodness ; vidhitsoḥ — desiring to do ; kṣemam — good ; janāya — for the people in general ; nija - śaktibhiḥ — by Your own potencies ; uddhṛta — destroyed ; areḥ — the opposite element ; na — not ; etāvatā — by this ; tri - adhipateḥ — of the proprietor of the three kinds of creations ; bata — O Lord ; viśva - bhartuḥ — the maintainer of the universe ; tejaḥ — potency ; kṣatam — reduced ; tu — but ; avanatasya — submissive ; saḥ — that ; te — Your ; vinodaḥ — pleasure .
+
+## Translation
+
+Dear Lord, You never want the auspicious path to be destroyed, for You are the reservoir of all goodness. Just to benefit people in general, You destroy the evil element by Your mighty potency. You are the proprietor of the three creations and the maintainer of the entire universe. Therefore Your potency is not reduced by Your submissive behavior. Rather, by submission You exhibit Your transcendental pastimes.
+
+## Purport
+
+Lord Kṛṣṇa was never reduced in His position by becoming a cowherd boy or by offering respect to Sudāmā Brāhmaṇa or His other devotees like Nanda Mahārāja, Vasudeva, Mahārāja Yudhiṣṭhira and the Pāṇḍavas’ mother, Kuntī. Everyone knew that He was the Supreme Personality of Godhead, Kṛṣṇa, yet His behavior was exemplary. The Supreme Personality of Godhead is sac-cid-ānanda-vigraha; His form is completely spiritual, full of bliss and knowledge, and it is eternal. Because the living entities are His parts and parcels, originally they also belong to the same quality of eternal form as the Lord, but when they come in contact with māyā, the material potency, due to their forgetfulness their existential constitution is covered. We should try to understand the appearance of Lord Kṛṣṇa in this spirit, as the Kumāras pray to Him. He is eternally a cowherd boy at Vṛndāvana, He is eternally the leader of the Battle of Kurukṣetra, and He is eternally the opulent prince of Dvārakā and the lover of the damsels of Vṛndāvana. All His appearances are meaningful because they show His real characteristics to the conditioned souls, who have forgotten their relationship with the Supreme Lord. He does everything for their benefit. The force exhibited in the Battle of Kurukṣetra by the desire of Kṛṣṇa and through the agency of Arjuna was also necessary because when people become too irreligious, force is required. Nonviolence in this respect is rascaldom.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/16/24/)

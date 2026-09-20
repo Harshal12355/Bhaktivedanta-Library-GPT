@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/12"
+verse: "23"
+reference: "SB 3.12.23"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/12/23/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.874523
+---
+
+# SB 3.12.23
+
+## Sanskrit
+
+उत्सङ्गान्नारदो जज्ञे दक्षोऽङ्गुष्ठात्स्वयम्भुव: । प्राणाद्वसिष्ठ: सञ्जातो भृगुस्त्वचि करात्क्रतु: ॥ २३ ॥
+
+## Transliteration
+
+*utsaṅgān nārado jajñe dakṣo ’ṅguṣṭhāt svayambhuvaḥ prāṇād vasiṣṭhaḥ sañjāto bhṛgus tvaci karāt kratuḥ*
+
+## Word-for-Word
+
+utsaṅgāt — by transcendental deliberation ; nāradaḥ — Mahāmuni Nārada ; jajñe — was generated ; dakṣaḥ — Dakṣa ; aṅguṣṭhāt — from the thumb ; svayambhuvaḥ — of Brahmā ; prāṇāt — from the life air, or breathing ; vasiṣṭhaḥ — Vasiṣṭha ; sañjātaḥ — was born ; bhṛguḥ — the sage Bhṛgu ; tvaci — from the touch ; karāt — from the hand ; kratuḥ — the sage Kratu .
+
+## Translation
+
+Nārada was born from the deliberation of Brahmā, which is the best part of the body. Vasiṣṭha was born from his breathing, Dakṣa from a thumb, Bhṛgu from his touch, and Kratu from his hand.
+
+## Purport
+
+Nārada was born from the best deliberation of Brahmā because Nārada was able to deliver the Supreme Lord to anyone he liked. The Supreme Personality of Godhead cannot be realized by any amount of Vedic knowledge or by any number of penances. But a pure devotee of the Lord like Nārada can deliver the Supreme Lord by his good will. The very name Nārada suggests that he can deliver the Supreme Lord. Nāra means the “Supreme Lord,” and da means “one who can deliver.” That he can deliver the Supreme Lord does not mean that the Lord is like a commodity that can be delivered to any person. But Nārada can deliver to anyone the transcendental loving service of the Lord as a servitor, friend, parent or lover, as one may desire out of one’s own transcendental love for the Lord. In other words, it is Nārada only who can deliver the path of bhakti-yoga, the highest mystic means for attainment of the Supreme Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.12]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/12/23/)

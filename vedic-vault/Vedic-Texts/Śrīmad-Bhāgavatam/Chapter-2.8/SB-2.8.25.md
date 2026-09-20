@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/8"
+verse: "25"
+reference: "SB 2.8.25"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/8/25/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.849595
+---
+
+# SB 2.8.25
+
+## Sanskrit
+
+अत्र प्रमाणं हि भवान् परमेष्ठी यथात्मभू: । अपरे चानुतिष्ठन्ति पूर्वेषां पूर्वजै: कृतम् ॥ २५ ॥
+
+## Transliteration
+
+*atra pramāṇaṁ hi bhavān parameṣṭhī yathātma-bhūḥ apare cānutiṣṭhanti pūrveṣāṁ pūrva-jaiḥ kṛtam*
+
+## Word-for-Word
+
+atra — in this matter ; pramāṇam — evidential facts ; hi — certainly ; bhavān — yourself ; parameṣṭhī — Brahmā, the creator of the universe ; yathā — as ; ātma - bhūḥ — born directly from the Lord ; apare — others ; ca — only ; anutiṣṭhanti — just to follow ; pūrveṣām — as a matter of custom ; pūrva - jaiḥ — knowledge suggested by a previous philosopher ; kṛtam — having been done .
+
+## Translation
+
+O great sage, you are as good as Brahmā, the original living being. Others follow custom only, as followed by the previous philosophical speculators.
+
+## Purport
+
+It may be argued that Śukadeva Gosvāmī is not the only authority of perfect knowledge in transcendence because there are many other sages and their followers. Contemporary to Vyāsadeva or even prior to him there were many other great sages, such as Gautama, Kaṇāda, Jaimini, Kapila and Aṣṭāvakra, and all of them have presented a philosophical path by themselves. Patañjali is also one of them, and all these six great ṛṣis have their own way of thinking, exactly like the modern philosophers and mental speculators. The difference between the six philosophical paths put forward by the renowned sages above mentioned and that of Śukadeva Gosvāmī, as presented in the Śrīmad-Bhāgavatam, is that all the six sages mentioned above speak the facts according to their own thinking but Śukadeva Gosvāmī presents the knowledge which comes down directly from Brahmājī, who is known as ātma-bhūḥ, or born of and educated by the Almighty Personality of Godhead. Vedic transcendental knowledge descends directly from the Personality of Godhead. By His mercy, Brahmā, the first living being in the universe, was enlightened, and from Brahmājī, Nārada was enlightened, and from Nārada, Vyāsa was enlightened. Śukadeva Gosvāmī received such transcendental knowledge directly from his father, Vyāsadeva. Thus the knowledge, being received from the chain of disciplic succession, is perfect. One cannot be a spiritual master in perfection unless and until one has received the same by disciplic succession. That is the secret of receiving transcendental knowledge. The six great sages mentioned above may be great thinkers, but their knowledge by mental speculation is not perfect. However perfect an empiric philosopher may be in presenting a philosophical thesis, such knowledge is never perfect because it is produced by an imperfect mind. Such great sages also have their disciplic successions, but they are not authorized because such knowledge does not come directly from the independent Supreme Personality of Godhead, Nārāyaṇa. No one can be independent except Nārāyaṇa; therefore no one’s knowledge can be perfect, for everyone’s knowledge is dependent on the flickering mind. Mind is material and thus knowledge presented by material speculators is never transcendental and can never become perfect. Mundane philosophers, being imperfect in themselves, disagree with other philosophers because a mundane philosopher is not a philosopher at all unless he presents his own theory. Intelligent persons like Mahārāja Parīkṣit do not recognize such mental speculators, however great they may be, but hear from the authorities like Śukadeva Gosvāmī, who is nondifferent from the Supreme Personality of Godhead by the paramparā system, as is specially stressed in the Bhagavad-gītā.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/8/25/)

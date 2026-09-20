@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/4"
+verse: "25"
+reference: "SB 2.4.25"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/4/25/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.835073
+---
+
+# SB 2.4.25
+
+## Sanskrit
+
+एतदेवात्मभू राजन् नारदाय विपृच्छते । वेदगर्भोऽभ्यधात् साक्षाद् यदाह हरिरात्मन: ॥ २५ ॥
+
+## Transliteration
+
+*etad evātma-bhū rājan nāradāya vipṛcchate veda-garbho ’bhyadhāt sākṣād yad āha harir ātmanaḥ*
+
+## Word-for-Word
+
+etat — on this matter ; eva — exactly ; ātma - bhūḥ — the firstborn (Brahmājī) ; rājan — my dear King ; nāradāya — unto Nārada Muni ; vipṛcchate — having inquired about it from ; veda - garbhaḥ — one who is impregnated with Vedic knowledge from birth ; abhyadhāt — apprised ; sākṣāt — directly ; yat āha — what he spoke ; hariḥ — the Lord ; ātmanaḥ — unto His own (Brahmā) .
+
+## Translation
+
+My dear King, Brahmā, the firstborn, on being questioned by Nārada, exactly apprised him on this subject as it had been directly spoken by the Lord to His own son, who was impregnated with Vedic knowledge from his very birth.
+
+## Purport
+
+As soon as Brahmā was born of the abdominal lotus petals of Viṣṇu, he was impregnated with Vedic knowledge, and therefore he is known as veda-garbha, or a Vedāntist from the embryo. Without Vedic knowledge, or perfect, infallible knowledge, no one can create anything. All scientific knowledge and perfect knowledge are Vedic. One can get all types of information from the Vedas, and as such Brahmā was impregnated with all-perfect knowledge so that it was possible for him to create. Thus Brahmā knew the perfect description of creation, as it was exactly apprised to him by the Supreme Lord Hari. Brahmā, on being questioned by Nārada, told Nārada exactly what he had heard directly from the Lord. Nārada again told exactly the same thing to Vyāsa, and Vyāsa also told Śukadeva exactly what he heard from Nārada. And Śukadeva was going to repeat the same statements as he had heard them from Vyāsa. That is the way of Vedic understanding. The language of the Vedas can be revealed only by the above-mentioned disciplic succession, and not otherwise. There is no use in theories. Knowledge must be factual. There are many things that are complicated, and one cannot understand them unless they are explained by one who knows. The Vedic knowledge is also very difficult to know and must be learned by the above-mentioned system; otherwise it is not at all understood. Śukadeva Gosvāmī, therefore, prayed for the mercy of the Lord so that he might be able to repeat the very same message that was spoken directly by the Lord to Brahmā, or what was directly spoken by Brahmā to Nārada. Therefore the statements of creation explained by Śukadeva Gosvāmī are not at all, as the mundaners suggest, theoretical, but are perfectly correct. One who hears these messages and tries to assimilate them gets perfect information of the material creation. Thus end the Bhaktivedanta purports of the Second Canto, Fourth Chapter, of the Śrīmad-Bhāgavatam, entitled “The Process of Creation.”
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.4]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/4/25/)

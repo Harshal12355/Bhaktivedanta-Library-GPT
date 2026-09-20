@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/3"
+verse: "13"
+reference: "SB 1.3.13"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/3/13/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.795531
+---
+
+# SB 1.3.13
+
+## Sanskrit
+
+अष्टमे मेरुदेव्यां तु नाभेर्जात उरुक्रम: । दर्शयन् वर्त्म धीराणां सर्वाश्रमनमस्कृतम् ॥ १३ ॥
+
+## Transliteration
+
+*aṣṭame merudevyāṁ tu nābher jāta urukramaḥ darśayan vartma dhīrāṇāṁ sarvāśrama-namaskṛtam*
+
+## Word-for-Word
+
+aṣṭame — the eighth of the incarnations ; merudevyām tu — in the womb of Merudevī, the wife of ; nābheḥ — King Nābhi ; jātaḥ — took birth ; urukramaḥ — the all-powerful Lord ; darśayan — by showing ; vartma — the way ; dhīrāṇām — of the perfect beings ; sarva — all ; āśrama — orders of life ; namaskṛtam — honored by .
+
+## Translation
+
+The eighth incarnation was King Ṛṣabha, son of King Nābhi and his wife Merudevī. In this incarnation the Lord showed the path of perfection, which is followed by those who have fully controlled their senses and who are honored by all orders of life.
+
+## Purport
+
+The society of human beings is naturally divided into eight by orders and statuses of life — the four divisions of occupation and four divisions of cultural advancement. The intelligent class, the administrative class, the productive class and the laborer class are the four divisions of occupation. And the student life, the householder’s life, retired life and renounced life are the four statuses of cultural advancement towards the path of spiritual realization. Out of these, the renounced order of life, or the order of sannyāsa, is considered the highest of all, and a sannyāsī is constitutionally the spiritual master for all the orders and divisions. In the sannyāsa order also there are four stages of upliftment toward perfection. These stages are called kuṭīcaka, bahūdaka, parivrājakācārya, and paramahaṁsa. The paramahaṁsa stage of life is the highest stage of perfection. This order of life is respected by all others. Mahārāja Ṛṣabha, the son of King Nābhi and Merudevī, was an incarnation of the Lord, and He instructed His sons to follow the path of perfection by tapasya, which sanctifies one’s existence and enables one to attain the stage of spiritual happiness which is eternal and ever increasing. Every living being is searching after happiness, but no one knows where eternal and unlimited happiness is obtainable. Foolish men seek after material sense pleasure as a substitute for real happiness, but such foolish men forget that temporary so-called happiness derived from sense pleasures is also enjoyed by the dogs and hogs. No animal, bird or beast is bereft of this sense pleasure. In every species of life, including the human form of life, such happiness is immensely obtainable. The human form of life, however, is not meant for such cheap happiness. The human life is meant for attaining eternal and unlimited happiness by spiritual realization. This spiritual realization is obtained by tapasya, or undergoing voluntarily the path of penance and abstinence from material pleasure. Those who have been trained for abstinence in material pleasures are called dhīra, or men undisturbed by the senses. Only these dhīras can accept the orders of sannyāsa, and they can gradually rise to the status of the paramahaṁsa, which is adored by all members of society. King Ṛṣabha propagated this mission, and at the last stage He became completely aloof from the material bodily needs, which is a rare stage not to be imitated by foolish men, but to be worshiped by all.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/3/13/)

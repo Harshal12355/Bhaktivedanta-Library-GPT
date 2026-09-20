@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/24"
+verse: "6"
+reference: "SB 3.24.6"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/24/6/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.917379
+---
+
+# SB 3.24.6
+
+## Sanskrit
+
+तस्यां बहुतिथे काले भगवान्मधुसूदन: । कार्दमं वीर्यमापन्नो जज्ञेऽग्निरिव दारुणि ॥ ६ ॥
+
+## Transliteration
+
+*tasyāṁ bahu-tithe kāle bhagavān madhusūdanaḥ kārdamaṁ vīryam āpanno jajñe ’gnir iva dāruṇi*
+
+## Word-for-Word
+
+tasyām — in Devahūti ; bahu - tithe kāle — after many years ; bhagavān — the Supreme Personality of Godhead ; madhu - sūdanaḥ — the killer of the demon Madhu ; kārdamam — of Kardama ; vīryam — the semen ; āpannaḥ — entered ; jajñe — He appeared ; agniḥ — fire ; iva — like ; dāruṇi — in wood .
+
+## Translation
+
+After many, many years, the Supreme Personality of Godhead, Madhusūdana, the killer of the demon Madhu, having entered the semen of Kardama, appeared in Devahūti just as fire comes from wood in a sacrifice.
+
+## Purport
+
+It is clearly stated here that the Lord is always the Supreme Personality of Godhead, although He appeared as the son of Kardama Muni. Fire is already present in wood, but by a certain process, fire is kindled. Similarly, God is all-pervading. He is everywhere, and since He may come out from everything, He appeared in His devotee’s semen. Just as an ordinary living entity takes his birth by taking shelter of the semen of a certain living entity, the Supreme Personality of Godhead accepts the shelter of the semen of His devotee and comes out as His son. This manifests His full independence to act in any way, and it does not mean that He is an ordinary living entity forced to take birth in a certain type of womb. Lord Nṛsiṁha appeared from the pillar of Hiraṇyakaśipu’s palace, Lord Varāha appeared from the nostril of Brahmā, and Lord Kapila appeared from the semen of Kardama, but this does not mean that the nostril of Brahmā or the pillar of Hiraṇyakaśipu’s palace or the semen of Kardama Muni is the source of the appearance of the Lord. The Lord is always the Lord. Bhagavān madhusūdanaḥ — He is the killer of all kinds of demons, and He always remains the Lord, even if He appears as the son of a particular devotee. The word kārdamam is significant, for it indicates that the Lord had some devotional affection or relationship in devotional service with Kardama and Devahūti. But we should not mistakenly understand that He was born just like an ordinary living entity from the semen of Kardama Muni in the womb of Devahūti.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.24]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/24/6/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/5"
+verse: "6"
+reference: "SB 3.5.6"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/5/6/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.926003
+---
+
+# SB 3.5.6
+
+## Sanskrit
+
+यथा पुन: स्वे ख इदं निवेश्य शेते गुहायां स निवृत्तवृत्ति: । योगेश्वराधीश्वर एक एत- दनुप्रविष्टो बहुधा यथासीत् ॥ ६ ॥
+
+## Transliteration
+
+*yathā punaḥ sve kha idaṁ niveśya śete guhāyāṁ sa nivṛtta-vṛttiḥ yogeśvarādhīśvara eka etad anupraviṣṭo bahudhā yathāsīt*
+
+## Word-for-Word
+
+yathā — as much as ; punaḥ — again ; sve — in His ; khe — form of space ( virāṭ-rūpa ) ; idam — this ; niveśya — entering into ; śete — lies down ; guhāyām — within the universe ; saḥ — He (the Personality of Godhead) ; nivṛtta — without endeavor ; vṛttiḥ — means of livelihood ; yoga - īśvara — the master of all mystic powers ; adhīśvaraḥ — proprietor of everything ; ekaḥ — one without a second ; etat — this ; anupraviṣṭaḥ — entering afterwards ; bahudhā — by innumerable ; yathā — as much as ; āsīt — exists .
+
+## Translation
+
+He lies down on His own heart spread in the form of the sky, and thus placing the whole creation in that space, He expands Himself into many living entities, which are manifested as different species of life. He does not have to endeavor for His maintenance, because He is the master of all mystic powers and the proprietor of everything. Thus He is distinct from the living entities.
+
+## Purport
+
+The questions regarding creation, maintenance and destruction, which are mentioned in many parts of the Śrīmad-Bhāgavatam, are in relation to different millenniums ( kalpas ), and therefore they are differently described by different authorities when questioned by different students. There is no difference regarding the creative principles and the Lord’s control over them, yet there are some differences in the minute details because of different kalpas. The gigantic sky is the material body of the Lord, called the virāṭ-rūpa, and all material creations are resting on the sky, or the heart of the Lord. Therefore, beginning from the sky, the first material manifestation to the gross vision, down to the earth, everything is called Brahman. Sarvaṁ khalv idaṁ brahma: “There is nothing but the Lord, and He is one without a second.” The living entities are the superior energies, whereas matter is the inferior energy, and the combination of these energies brings about the manifestation of this material world, which is in the heart of the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/5/6/)

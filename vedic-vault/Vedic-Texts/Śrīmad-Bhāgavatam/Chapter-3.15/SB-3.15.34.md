@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/15"
+verse: "34"
+reference: "SB 3.15.34"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/15/34/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.888681
+---
+
+# SB 3.15.34
+
+## Sanskrit
+
+तद्वाममुष्य परमस्य विकुण्ठभर्तु: कर्तुं प्रकृष्टमिह धीमहि मन्दधीभ्याम् । लोकानितो व्रजतमन्तरभावद‍ृष्टय‍ा पापीयसस्त्रय इमे रिपवोऽस्य यत्र ॥ ३४ ॥
+
+## Transliteration
+
+*tad vām amuṣya paramasya vikuṇṭha-bhartuḥ kartuṁ prakṛṣṭam iha dhīmahi manda-dhībhyām lokān ito vrajatam antara-bhāva-dṛṣṭyā pāpīyasas traya ime ripavo ’sya yatra*
+
+## Word-for-Word
+
+tat — therefore ; vām — unto these two ; amuṣya — of Him ; paramasya — the Supreme ; vikuṇṭha - bhartuḥ — the Lord of Vaikuṇṭha ; kartum — to bestow ; prakṛṣṭam — benefit ; iha — in the matter of this offense ; dhīmahi — let us consider ; manda - dhībhyām — those whose intelligence is not very nice ; lokān — to the material world ; itaḥ — from this place (Vaikuṇṭha) ; vrajatam — go ; antara - bhāva — duality ; dṛṣṭyā — on account of seeing ; pāpīyasaḥ — sinful ; trayaḥ — three ; ime — these ; ripavaḥ — enemies ; asya — of a living entity ; yatra — where .
+
+## Translation
+
+Therefore let us consider how these two contaminated persons should be punished. The punishment should be apt, for thus benefit can eventually be bestowed upon them. Since they find duality in the existence of Vaikuṇṭha life, they are contaminated and should be removed from this place to the material world, where the living entities have three kinds of enemies.
+
+## Purport
+
+The reason why pure souls come into the existential circumstances of the material world, which is considered to be the criminal department of the Supreme Lord, is stated in Bhagavad-gītā, Seventh Chapter, verse 27. It is stated that as long as a living entity is pure, he is in complete harmony with the desires of the Supreme Lord, but as soon as he becomes impure he is in disharmony with the desires of the Lord. By contamination he is forced to transfer to this material world, where the living entities have three enemies, namely desire, anger and lust. These three enemies force the living entities to continue material existence, and when one is free from them he is eligible to enter the kingdom of God. One should not, therefore, be angry in the absence of an opportunity for sense gratification, and one should not be lusty to acquire more than necessary. In this verse it is clearly stated that the two doormen should be sent into the material world, where criminals are allowed to reside. Since the basic principles of criminality are sense gratification, anger and unnecessary lust, persons conducted by these three enemies of the living entity are never promoted to Vaikuṇṭhaloka. People should learn Bhagavad-gītā and accept the Supreme Personality of Godhead, Kṛṣṇa, as the Lord of everything; they should practice satisfying the senses of the Supreme Lord instead of trying to satisfy their own senses. Training in Kṛṣṇa consciousness will help one be promoted to Vaikuṇṭha.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.15]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/15/34/)

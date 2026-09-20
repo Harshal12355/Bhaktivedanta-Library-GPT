@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/7"
+verse: "29"
+reference: "SB 3.7.29"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/7/29/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.935336
+---
+
+# SB 3.7.29
+
+## Sanskrit
+
+वर्णाश्रमविभागांश्च रूपशीलस्वभावत: । ऋषीणां जन्मकर्माणि वेदस्य च विकर्षणम् ॥ २९ ॥
+
+## Transliteration
+
+*varṇāśrama-vibhāgāṁś ca rūpa-śīla-svabhāvataḥ ṛṣīṇāṁ janma-karmāṇi vedasya ca vikarṣaṇam*
+
+## Word-for-Word
+
+varṇa - āśrama — the four divisions of social statuses and orders of spiritual culture ; vibhāgān — respective divisions ; ca — also ; rūpa — personal features ; śīla - svabhāvataḥ — personal character ; ṛṣīṇām — of the sages ; janma — birth ; karmāṇi — activities ; vedasya — of the Vedas ; ca — and ; vikarṣaṇam — categorical divisions .
+
+## Translation
+
+O great sage, kindly describe the divisions and orders of human society in terms of symptoms, behavior and the characteristics of mental equilibrium and sense control. Also please describe the births of the great sages and the categorical divisions of the Vedas.
+
+## Purport
+
+The four statuses and orders of human society — brāhmaṇas, kṣatriyas, vaiśyas and śūdras, as wall as brahmacārīs, gṛhasthas, vānaprasthas and sannyāsīs — are all divisions of quality, education, culture and spiritual advancement attained by practicing control of the mind and the senses. All these divisions are based on the particular nature of each individual person, not on the principle of birth. Birth is not mentioned in this verse because birth is immaterial. Vidura is famous in history as born of a śūdrāṇī mother, yet he is more than a brāhmaṇa by qualification because he is seen here to be the disciple of a great sage, Maitreya Muni. Unless one achieves at least the brahminical qualifications, one cannot understand the Vedic hymns. Mahābhārata is also a division of the Vedas, but it is meant for women, śūdras and dvija-bandhus, the worthless children of the higher section. The less intelligent section of society can avail themselves of the Vedic instructions simply by studying the Mahābhārata.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/7/29/)

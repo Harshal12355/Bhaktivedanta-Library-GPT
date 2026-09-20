@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/10"
+verse: "23"
+reference: "SB 1.10.23"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/10/23/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.765683
+---
+
+# SB 1.10.23
+
+## Sanskrit
+
+स वा अयं यत्पदमत्र सूरयो जितेन्द्रिया निर्जितमातरिश्वन: । पश्यन्ति भक्त्युत्कलितामलात्मना नन्वेष सत्त्वं परिमार्ष्टुमर्हति ॥ २३ ॥
+
+## Transliteration
+
+*sa vā ayaṁ yat padam atra sūrayo jitendriyā nirjita-mātariśvanaḥ paśyanti bhakty-utkalitāmalātmanā nanv eṣa sattvaṁ parimārṣṭum arhati*
+
+## Word-for-Word
+
+saḥ — He ; vai — by providence ; ayam — this ; yat — that which ; padam atra — here is the same Personality of Godhead Śrī Kṛṣṇa ; sūrayaḥ — great devotees ; jita - indriyāḥ — who have overcome the influence of the senses ; nirjita — thoroughly controlled ; mātariśvanaḥ — life ; paśyanti — can see ; bhakti — by dint of devotional service ; utkalita — developed ; amala - ātmanā — those whose minds are thoroughly cleansed ; nanu eṣaḥ — certainly by this only ; sattvam — existence ; parimārṣṭum — for purifying the mind completely ; arhati — deserve .
+
+## Translation
+
+Here is the same Supreme Personality of Godhead whose transcendental form is experienced by the great devotees who are completely cleansed of material consciousness by dint of rigid devotional service and full control of life and the senses. And that is the only way to purify existence.
+
+## Purport
+
+As it is stated in Bhagavad-gītā, the Lord can be known in His real nature by dint of pure devotional service only. So it is stated here that only the great devotees of the Lord who are able to clear the mind of all material dust by rigid devotional service can experience the Lord as He is. Jitendriya means one who has full control over the senses. The senses are active parts of the body, and their activities cannot be stopped. The artificial means of the yogic processes to make the senses inactive has proved to be abject failure, even in the case of great yogīs like Viśvāmitra Muni. Viśvāmitra Muni controlled the senses by yogic trance, but when he happened to meet Menakā (a heavenly society woman), he became a victim of sex, and the artificial way of controlling the senses failed. But in the case of a pure devotee, the senses are not at all artificially stopped from doing anything, but they are given different good engagements. When the senses are engaged in more attractive activities, there is no chance of their being attracted by any inferior engagements. In the Bhagavad-gītā it is said that the senses can be controlled only by better engagements. Devotional service necessitates purifying the senses or engaging them in the activities of devotional service. Devotional service is not inaction. Anything done in the service of the Lord becomes at once purified of its material nature. The material conception is due to ignorance only. There is nothing beyond Vāsudeva. The Vāsudeva conception gradually develops in the heart of the learned after a prolonged acceleration of the receptive organs. But the process ends in the knowledge of accepting Vāsudeva as all in all. In the case of devotional service, this very same method is accepted from the very beginning, and by the grace of the Lord all factual knowledge becomes revealed in the heart of a devotee due to dictation by the Lord from within. Therefore controlling the senses by devotional service is the only and easiest means.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.10]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/10/23/)

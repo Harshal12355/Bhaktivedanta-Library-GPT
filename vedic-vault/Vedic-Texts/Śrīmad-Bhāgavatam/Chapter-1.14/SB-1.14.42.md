@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/14"
+verse: "42"
+reference: "SB 1.14.42"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/14/42/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.779477
+---
+
+# SB 1.14.42
+
+## Sanskrit
+
+कच्चित्त्वं नागमोऽगम्यां गम्यां वासत्कृतां स्त्रियम् । पराजितो वाथ भवान्नोत्तमैर्नासमै: पथि ॥ ४२ ॥
+
+## Transliteration
+
+*kaccit tvaṁ nāgamo ’gamyāṁ gamyāṁ vāsat-kṛtāṁ striyam parājito vātha bhavān nottamair nāsamaiḥ pathi*
+
+## Word-for-Word
+
+kaccit — whether ; tvam — yourself ; na — not ; agamaḥ — did contact ; agamyām — impeachable ; gamyām — acceptable ; vā — either ; asat - kṛtām — improperly treated ; striyam — a woman ; parājitaḥ — defeated by ; vā — either ; atha — after all ; bhavān — your good self ; na — nor ; uttamaiḥ — by superior power ; na — not ; asamaiḥ — by equals ; pathi — on the road .
+
+## Translation
+
+Have you contacted a woman of impeachable character, or have you not properly treated a deserving woman? Or have you been defeated on the way by someone who is inferior or equal to you?
+
+## Purport
+
+It appears from this verse that during the time of the Pāṇḍavas free contact between man and woman was allowed in certain conditions only. The higher-caste men, namely the brāhmaṇas and kṣatriyas, could accept a woman of the vaiśya or the śūdra community, but a man from the lower castes could not contact a woman of the higher caste. Even a kṣatriya could not contact a woman of the brāhmaṇa caste. The wife of a brāhmaṇa is considered one of the seven mothers (namely one’s own mother, the wife of the spiritual master or teacher, the wife of a brāhmaṇa, the wife of a king, the cow, the nurse and the earth). Such contact between man and woman was known as uttama and adhama. Contact of a brāhmaṇa with a kṣatriya woman is uttama, but the contact of a kṣatriya with a brāhmaṇa woman is adhama and therefore condemned. A woman approaching a man for contact should never be refused, but at the same time the discretion as above mentioned may also be considered. Bhīma was approached by Hiḍimbī from a community lower than the śūdras, and Yayāti refused to marry the daughter of Śukrācārya because of Śukrācārya’s being a brāhmaṇa. Vyāsadeva, a brāhmaṇa, was called to beget Pāṇḍu and Dhṛtarāṣṭra. Satyavatī belonged to a family of fishermen, but Parāśara, a great brāhmaṇa, begot in her Vyāsadeva. So there are so many examples of contacts with woman, but in all cases the contacts were not abominable nor were the results of such contacts bad. Contact between man and woman is natural, but that also must be carried out under regulative principles so that social consecration may not be disturbed or unwanted worthless population be increased for the unrest of the world. It is abominable for a kṣatriya to be defeated by one who is inferior in strength or equal in strength. If one is defeated at all, he should be defeated by some superior power. Arjuna was defeated by Bhīṣmadeva, and Lord Kṛṣṇa saved him from the danger. This was not an insult for Arjuna because Bhīṣmadeva was far superior to Arjuna in all ways, namely age, respect and strength. But Karṇa was equal to Arjuna, and therefore Arjuna was in crisis when fighting with Karṇa. It was felt by Arjuna, and therefore Karṇa was killed even by crooked means. Such are the engagements of the kṣatriyas, and Mahārāja Yudhiṣṭhira inquired from his brother whether anything undesirable happened on the way home from Dvārakā.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.14]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/14/42/)

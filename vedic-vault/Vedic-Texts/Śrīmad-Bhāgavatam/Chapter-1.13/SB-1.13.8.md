@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/13"
+verse: "8"
+reference: "SB 1.13.8"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/13/8/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.772877
+---
+
+# SB 1.13.8
+
+## Sanskrit
+
+युधिष्ठिर उवाच अपि स्मरथ नो युष्मत्पक्षच्छायासमेधितान् । विपद्गणाद्विषाग्‍न्‍यादेर्मोचिता यत्समातृका: ॥ ८ ॥
+
+## Transliteration
+
+*yudhiṣṭhira uvāca api smaratha no yuṣmat- pakṣa-cchāyā-samedhitān vipad-gaṇād viṣāgnyāder mocitā yat samātṛkāḥ*
+
+## Word-for-Word
+
+yudhiṣṭhiraḥ uvāca — Mahārāja Yudhiṣṭhira said ; api — whether ; smaratha — you remember ; naḥ — us ; yuṣmat — from you ; pakṣa — partiality towards us like the wings of a bird ; chāyā — protection ; samedhitān — we who were brought up by you ; vipat - gaṇāt — from various types of calamities ; viṣa — by administration of poison ; agni - ādeḥ — by setting on fire ; mocitāḥ — released from ; yat — what you have done ; sa — along with ; mātṛkāḥ — our mother .
+
+## Translation
+
+Mahārāja Yudhiṣṭhira said: My uncle, do you remember how you always protected us, along with our mother, from all sorts of calamities? Your partiality, like the wings of a bird, saved us from poisoning and arson.
+
+## Purport
+
+Due to Pāṇḍu’s death at an early age, his minor children and widow were the object of special care by all the elderly members of the family, especially Bhīṣmadeva and Mahātmā Vidura. Vidura was more or less partial to the Pāṇḍavas due to their political position. Although Dhṛtarāṣṭra was equally careful for the minor children of Mahārāja Pāṇḍu, he was one of the intriguing parties who wanted to wash away the descendants of Pāṇḍu and replace them by raising his own sons to become the rulers of the kingdom. Mahātmā Vidura could follow this intrigue of Dhṛtarāṣṭra and company, and therefore, even though he was a faithful servitor of his eldest brother, Dhṛtarāṣṭra, he did not like his political ambition for the sake of his own sons. He was therefore very careful about the protection of the Pāṇḍavas and their widow mother. Thus he was, so to speak, partial to the Pāṇḍavas, preferring them to the sons of Dhṛtarāṣṭra, although both of them were equally affectionate in his ordinary eyes. He was equally affectionate to both the camps of nephews in the sense that he always chastised Duryodhana for his intriguing policy against his cousins. He always criticized his elder brother for his policy of encouragement to his sons, and at the same time he was always alert in giving special protection to the Pāṇḍavas. All these different activities of Vidura within the palace politics made him well known as partial to the Pāṇḍavas. Mahārāja Yudhiṣṭhira has referred to the past history of Vidura before his going away from home for a prolonged pilgrim’s journey. Mahārāja Yudhiṣṭhira reminded him that he was equally kind and partial to his grown-up nephews, even after the Battle of Kurukṣetra, a great family disaster. Before the Battle of Kurukṣetra, Dhṛtarāṣṭra’s policy was peaceful annihilation of his nephews, and therefore he ordered Purocana to build a house of lac at Vāraṇāvata, and when the building was finished Dhṛtarāṣṭra desired that his brother’s family live there for some time. When the Pāṇḍavas were going there in the presence of all the members of the royal family, Vidura tactfully gave instructions to the Pāṇḍavas about the future plan of Dhṛtarāṣṭra. This is specifically described in the Mahābhārata ( Ādi-parva 144). He indirectly hinted, “Even a weapon not made of steel or any other material element can be more than sharp enough to kill an enemy, and he who knows this is never killed.” That is to say, he hinted that the party of the Pāṇḍavas was being sent to Vāraṇāvata to be killed, and thus he warned Yudhiṣṭhira to be very careful in their new residential palace. He also gave indications of fire and said that fire cannot extinguish the soul but can annihilate the material body. But one who protects the soul can live. Kuntī could not follow such indirect conversations between Mahārāja Yudhiṣṭhira and Vidura, and thus when she inquired from her son about the purport of the conversation, Yudhiṣṭhira replied that from the talks of Vidura it was understood that there was a hint of fire in the house where they were proceeding. Later on, Vidura came in disguise to the Pāṇḍavas and informed them that the housekeeper was going to set fire to the house on the fourteenth night of the waning moon. It was an intrigue of Dhṛtarāṣṭra that the Pāṇḍavas might die all together with their mother. And by his warning the Pāṇḍavas escaped through a tunnel underneath the earth so that their escape was also unknown to Dhṛtarāṣṭra, so much so that after setting the fire, the Kauravas were so certain of the death of the Pāṇḍavas that Dhṛtarāṣṭra performed the last rites of death with great cheerfulness. And during the mourning period all the members of the palace became overwhelmed with lamentation, but Vidura did not become so, because of his knowledge that the Pāṇḍavas were alive somewhere. There are many such instances of calamities, and in each of them Vidura gave protection to the Pāṇḍavas on one hand, and on the other he tried to restrain his brother Dhṛtarāṣṭra from such intriguing policies. Therefore, he was always partial to the Pāṇḍavas, just as a bird protects its eggs by its wing.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.13]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/13/8/)

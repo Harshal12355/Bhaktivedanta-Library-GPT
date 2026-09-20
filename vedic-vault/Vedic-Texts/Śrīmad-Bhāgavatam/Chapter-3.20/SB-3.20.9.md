@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/20"
+verse: "9"
+reference: "SB 3.20.9"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/20/9/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.903278
+---
+
+# SB 3.20.9
+
+## Sanskrit
+
+विदुर उवाच प्रजापतिपति: सृष्ट्वा प्रजासर्गे प्रजापतीन् । किमारभत मे ब्रह्मन् प्रब्रूह्यव्यक्तमार्गवित् ॥ ९ ॥
+
+## Transliteration
+
+*vidura uvāca prajāpati-patiḥ sṛṣṭvā prajā-sarge prajāpatīn kim ārabhata me brahman prabrūhy avyakta-mārga-vit*
+
+## Word-for-Word
+
+viduraḥ uvāca — Vidura said ; prajāpati - patiḥ — Lord Brahmā ; sṛṣṭvā — after creating ; prajā - sarge — for the purpose of creating living beings ; prajāpatīn — the Prajāpatis ; kim — what ; ārabhata — started ; me — to me ; brahman — O holy sage ; prabrūhi — tell ; avyakta - mārga - vit — knower of that which we do not know .
+
+## Translation
+
+Vidura said: Since you know of matters inconceivable to us, tell me, O holy sage, what did Brahmā do to create living beings after evolving the Prajāpatis, the progenitors of living beings?
+
+## Purport
+
+Significant here is the word avyakta-mārga-vit, “one who knows that which is beyond our perception.” To know matters beyond one’s perception, one has to learn from a superior authority in the line of disciplic succession. Just to know who is our father is beyond our perception. For that, the mother is the authority. Similarly, we have to understand everything beyond our perception from the authority who actually knows. The first avyakta-mārga-vit, or authority, is Brahmā, and the next authority in disciplic succession is Nārada. Maitreya Ṛṣi belongs to that disciplic succession, so he also is avyakta-mārga-vit. Anyone in the bona fide line of disciplic succession is avyakta-mārga-vit, a personality who knows that which is beyond ordinary perception.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.20]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/20/9/)

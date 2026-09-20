@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/2"
+verse: "19"
+reference: "SB 3.2.19"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/2/19/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.901530
+---
+
+# SB 3.2.19
+
+## Sanskrit
+
+द‍ृष्टा भवद्‍‌भिर्ननु राजसूये चैद्यस्य कृष्णं द्विषतोऽपि सिद्धि: । यां योगिन: संस्पृहयन्ति सम्यग् योगेन कस्तद्विरहं सहेत ॥ १९ ॥
+
+## Transliteration
+
+*dṛṣṭā bhavadbhir nanu rājasūye caidyasya kṛṣṇaṁ dviṣato ’pi siddhiḥ yāṁ yoginaḥ saṁspṛhayanti samyag yogena kas tad-virahaṁ saheta*
+
+## Word-for-Word
+
+dṛṣṭā — it has been seen ; bhavadbhiḥ — by your good self ; nanu — of course ; rājasūye — in the assembly of the rājasūya sacrifice performed by Mahārāja Yudhiṣṭhira ; caidyasya — of the King of Cedi (Śiśupāla) ; kṛṣṇam — unto Kṛṣṇa ; dviṣataḥ — envying ; api — in spite of ; siddhiḥ — success ; yām — which ; yoginaḥ — the yogīs ; saṁspṛhayanti — verily desire ; samyak — fully ; yogena — by performance of yoga ; kaḥ — who ; tat — His ; viraham — separation ; saheta — can tolerate .
+
+## Translation
+
+You have personally seen how the King of Cedi [Śiśupāla] achieved success in yoga practice, although he hated Lord Kṛṣṇa. Even the actual yogīs aspire after such success with great interest by performance of their various practices. Who can tolerate separation from Him?
+
+## Purport
+
+Lord Kṛṣṇa’s causeless mercy was exhibited in the great assembly of Mahārāja Yudhiṣṭhira. He was merciful even to His enemy the King of Cedi, who always tried to be an envious rival of the Lord. Because it is not possible to be a bona fide rival of the Lord, the King of Cedi was extremely malicious toward Lord Kṛṣṇa. In this he was like many other asuras, such as Kaṁsa and Jarāsandha. In the open assembly of the rājasūya sacrifice performed by Mahārāja Yudhiṣṭhira, Śiśupāla insulted Lord Kṛṣṇa, and he was finally killed by the Lord. But it was seen by everyone in the assembly that a light flashed out of the body of the King of Cedi and merged into the body of Lord Kṛṣṇa. This means that Cedirāja achieved the salvation of attaining oneness with the Supreme, which is a perfection most desired by the jñānīs and yogīs and for which they execute their different types of transcendental activities. It is a fact that persons who are trying to understand the Supreme Truth by their personal endeavors of mental speculation or mystic powers of yoga achieve the same goal as others who are personally killed by the Lord. Both achieve the salvation of merging in the brahmajyoti rays of the transcendental body of the Lord. The Lord was merciful even to His enemy, and the success of the King of Cedi was observed by everyone who was present in the assembly. Vidura was also present there, and therefore Uddhava referred the incident to his memory.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/2/19/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/6"
+verse: "36"
+reference: "SB 1.6.36"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/6/36/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.805706
+---
+
+# SB 1.6.36
+
+## Sanskrit
+
+सर्वं तदिदमाख्यातं यत्पृष्टोऽहं त्वयानघ । जन्मकर्मरहस्यं मे भवतश्चात्मतोषणम् ॥ ३६ ॥
+
+## Transliteration
+
+*sarvaṁ tad idam ākhyātaṁ yat pṛṣṭo ’haṁ tvayānagha janma-karma-rahasyaṁ me bhavataś cātma-toṣaṇam*
+
+## Word-for-Word
+
+sarvam — all ; tat — that ; idam — this ; ākhyātam — described ; yat — whatever ; pṛṣṭaḥ — asked by ; aham — me ; tvayā — by you ; anagha — without any sins ; janma — birth ; karma — activities ; rahasyam — mysteries ; me — mine ; bhavataḥ — your ; ca — and ; ātma — self ; toṣaṇam — satisfaction .
+
+## Translation
+
+O Vyāsadeva, you are freed from all sins. Thus I have explained my birth and activities for self-realization, as you asked. All this will be conducive for your personal satisfaction also.
+
+## Purport
+
+The process of devotional activities from the beginning to the stage of transcendence is all duly explained to satisfy the inquiries of Vyāsadeva. Nārada has explained how the seeds of devotional service were sown by transcendental association and how they gradually developed by hearing the sages. The result of such hearing is detachment from worldliness, so much so that even a small boy could receive the death news of his mother, who was his only caretaker, as the blessing of God. And at once he took the opportunity to search out the Lord. A sincere urge for having an interview with the Lord was also granted to him, although it is not possible for anyone to see the Lord with mundane eyes. He also explained how by execution of pure transcendental service one can get rid of the fruitive action of accumulated work and how he transformed his material body into a spiritual one. The spiritual body is alone able to enter into the spiritual realm of the Lord, and no one but a pure devotee is eligible to enter into the kingdom of God. All the mysteries of transcendental realization are duly experienced by Nārada Muni himself, and therefore by hearing such an authority one can have some idea of the results of devotional life, which are hardly delineated even in the original texts of the Vedas. In the Vedas and Upaniṣads there are only indirect hints to all this. Nothing is directly explained there, and therefore Śrīmad-Bhāgavatam is the mature fruit of all the Vedic trees of literatures.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/6/36/)

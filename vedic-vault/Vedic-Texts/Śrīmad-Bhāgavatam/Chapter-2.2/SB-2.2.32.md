@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/2"
+verse: "32"
+reference: "SB 2.2.32"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/2/32/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.829143
+---
+
+# SB 2.2.32
+
+## Sanskrit
+
+एते सृती ते नृप वेदगीते त्वयाभिपृष्टे च सनातने च । ये वै पुरा ब्रह्मण आह तुष्ट आराधितो भगवान् वासुदेव: ॥ ३२ ॥
+
+## Transliteration
+
+*ete sṛtī te nṛpa veda-gīte tvayābhipṛṣṭe ca sanātane ca ye vai purā brahmaṇa āha tuṣṭa ārādhito bhagavān vāsudevaḥ*
+
+## Word-for-Word
+
+ete — all that is described ; sṛtī — way ; te — unto you ; nṛpa — O Mahārāja Parīkṣit ; veda - gīte — according to the version of the Vedas ; tvayā — by Your Majesty ; abhipṛṣṭe — being properly inquired ; ca — also ; sanātane — in the matter of eternal truth ; ca — verily ; ye — which ; vai — certainly ; purā — before ; brahmaṇe — unto Lord Brahmā ; āha — said ; tuṣṭaḥ — being satisfied ; ārādhitaḥ — being worshiped ; bhagavān — the Personality of Godhead ; vāsudevaḥ — Lord Kṛṣṇa .
+
+## Translation
+
+Your Majesty Mahārāja Parīkṣit, know that all that I have described in reply to your proper inquiry is just according to the version of the Vedas, and it is eternal truth. This was described personally by Lord Kṛṣṇa unto Brahmā, with whom the Lord was satisfied upon being properly worshiped.
+
+## Purport
+
+The two different ways of reaching the spiritual sky and thereby getting emancipation from all material bondage, namely either the direct process of reaching the kingdom of God or the gradual process through the other higher planets of the universe, are set forth exactly according to the version of the Vedas. The Vedic versions in this connection are, yadā sarve pramucyante kāmā ye ’sya hṛdi śritāḥ/ atha martyo ’mṛto bhavaty atra brahma samaśnute ( Bṛhad-āraṇyaka Upaniṣad 4.4.7) and te ’rcir abhisambhavanti ( Bṛhad-āraṇyaka Upaniṣad 6.2.15): “Those who are free from all material desires, which are diseases of the heart, are able to conquer death and enter the kingdom of God through the Arci planets.” These Vedic versions corroborate the version of the Śrīmad-Bhāgavatam, and the latter is further confirmed by Śukadeva Gosvāmī, who affirms that the truth was disclosed by the Supreme Personality of Godhead Lord Śrī Kṛṣṇa, Vāsudeva, to Brahmā, the first authority on the Vedas. The disciplic succession holds that the Vedas were uttered by Lord Kṛṣṇa to Brahmā, by Brahmā to Nārada, and by Nārada to Vyāsadeva, and then by Vyāsadeva to Śukadeva Gosvāmī and so on. So there is no difference between the versions of all the authorities. The truth is eternal, and as such there cannot be any new opinion about the truth. That is the way of knowing the knowledge contained in the Vedas. It is not a thing to be understood by one’s erudite scholarship or by the fashionable interpretations of mundane scholars. There is nothing to be added and nothing to be subtracted, because the truth is the truth. One has to accept, after all, some authority. The modern scientists are also authorities for the common man for some scientific truths. The common man follows the version of the scientist. This means that the common man follows the authority. The Vedic knowledge is also received in that way. The common man cannot argue about what is beyond the sky or beyond the universe; he must accept the versions of the Vedas as they are understood by the authorized disciplic succession. In the Bhagavad-gītā also the same process of understanding the Gītā is stated in the Fourth Chapter. If one does not follow the authoritative version of the ācāryas, he will vainly search after the truth mentioned in the Vedas.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/2/32/)

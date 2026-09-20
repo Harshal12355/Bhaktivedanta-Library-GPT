@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/7"
+verse: "13-14"
+reference: "SB 1.7.13-14"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/7/13-14/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.806825
+---
+
+# SB 1.7.13-14
+
+## Sanskrit
+
+यदा मृधे कौरवसृञ्जयानां वीरेष्वथो वीरगतिं गतेषु । वृकोदराविद्धगदाभिमर्श- भग्नोरुदण्डे धृतराष्ट्रपुत्रे ॥ १३ ॥ भर्तु: प्रियं द्रौणिरिति स्म पश्यन् कृष्णासुतानां स्वपतां शिरांसि । उपाहरद्विप्रियमेव तस्य जुगुप्सितं कर्म विगर्हयन्ति ॥ १४ ॥
+
+## Transliteration
+
+*yadā mṛdhe kaurava-sṛñjayānāṁ vīreṣv atho vīra-gatiṁ gateṣu vṛkodarāviddha-gadābhimarśa- bhagnoru-daṇḍe dhṛtarāṣṭra-putre bhartuḥ priyaṁ drauṇir iti sma paśyan kṛṣṇā-sutānāṁ svapatāṁ śirāṁsi upāharad vipriyam eva tasya jugupsitaṁ karma vigarhayanti*
+
+## Word-for-Word
+
+yadā — when ; mṛdhe — in the battlefield ; kaurava — the party of Dhṛtarāṣṭra ; sṛñjayānām — of the party of the Pāṇḍavas ; vīreṣu — of the warriors ; atho — thus ; vīra - gatim — the destination deserved by the warriors ; gateṣu — being obtained ; vṛkodara — Bhīma (the second Pāṇḍava) ; āviddha — beaten ; gadā — by the club ; abhimarśa — lamenting ; bhagna — broken ; uru - daṇḍe — spinal cord ; dhṛtarāṣṭra - putre — the son of King Dhṛtarāṣṭra ; bhartuḥ — of the master ; priyam — pleasing ; drauṇiḥ — the son of Droṇācārya ; iti — thus ; sma — shall be ; paśyan — seeing ; kṛṣṇā — Draupadī ; sutānām — of the sons ; svapatām — while sleeping ; śirāṁsi — heads ; upāharat — delivered as a prize ; vipriyam — unpleasing ; eva — like ; tasya — his ; jugupsitam — most heinous ; karma — act ; vigarhayanti — disapproving .
+
+## Translation
+
+When the respective warriors of both camps, namely the Kauravas and the Pāṇḍavas, were killed on the Battlefield of Kurukṣetra and the dead warriors obtained their deserved destinations, and when the son of Dhṛtarāṣṭra fell down lamenting, his spine broken, being beaten by the club of Bhīmasena, the son of Droṇācārya [Aśvatthāmā] beheaded the five sleeping sons of Draupadī and delivered the heads as a prize to his master, foolishly thinking that he would be pleased. Duryodhana, however, disapproved of the heinous act, and he was not pleased in the least.
+
+## Purport
+
+Transcendental topics of the activities of Lord Śrī Kṛṣṇa in the Śrīmad-Bhāgavatam begin from the end of the battle at Kurukṣetra, where the Lord Himself spoke about Himself in the Bhagavad-gītā. Therefore, both the Bhagavad-gītā and Śrīmad-Bhāgavatam are transcendental topics of Lord Kṛṣṇa. The Gītā is kṛṣṇa-kathā, or topics of Kṛṣṇa, because it is spoken by the Lord, and the Bhāgavatam is also kṛṣṇa-kathā because it is spoken about the Lord. Lord Śrī Caitanya Mahāprabhu wanted everyone to be informed of both kṛṣṇa-kathās by His order. Lord Kṛṣṇa Caitanya is Kṛṣṇa Himself in the garb of a devotee of Kṛṣṇa, and therefore the versions of both Lord Kṛṣṇa and Śrī Kṛṣṇa Caitanya Mahāprabhu are identical. Lord Caitanya desired that all who are born in India seriously understand such kṛṣṇa-kathās and then after full realization preach the transcendental message to everyone in all parts of the world. That will bring about the desired peace and prosperity of the stricken world.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/7/13-14/)

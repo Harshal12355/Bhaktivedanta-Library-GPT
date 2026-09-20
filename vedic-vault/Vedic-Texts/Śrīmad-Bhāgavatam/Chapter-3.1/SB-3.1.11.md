@@ -1,0 +1,38 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/1"
+verse: "11"
+reference: "SB 3.1.11"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/1/11/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.863116
+---
+
+# SB 3.1.11
+
+## Sanskrit
+
+अजातशत्रो: प्रतियच्छ दायं तितिक्षतो दुर्विषहं तवाग: । सहानुजो यत्र वृकोदराहि: श्वसन् रुषा यत्त्वमलं बिभेषि ॥ ११ ॥
+
+## Transliteration
+
+*ajāta-śatroḥ pratiyaccha dāyaṁ titikṣato durviṣahaṁ tavāgaḥ sahānujo yatra vṛkodarāhiḥ śvasan ruṣā yat tvam alaṁ bibheṣi*
+
+## Word-for-Word
+
+ajāta - śatroḥ — of Yudhiṣṭhira, who has no enemy ; pratiyaccha — return ; dāyam — legitimate share ; titikṣataḥ — of he who is so forbearing ; durviṣaham — unbearable ; tava — your ; āgaḥ — offense ; saha — along with ; anujaḥ — younger brothers ; yatra — wherein ; vṛkodara — Bhīma ; ahiḥ — revenging snake ; śvasan — breathing heavily ; ruṣā — in anger ; yat — whom ; tvam — you ; alam — verily ; bibheṣi — do fear .
+
+## Translation
+
+[Vidura said:] You must now return the legitimate share to Yudhiṣṭhira, who has no enemies and who has been forbearing through untold sufferings due to your offenses. He is waiting with his younger brothers, among whom is the revengeful Bhīma, breathing heavily like a snake. Surely you are afraid of him.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.1]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/1/11/)

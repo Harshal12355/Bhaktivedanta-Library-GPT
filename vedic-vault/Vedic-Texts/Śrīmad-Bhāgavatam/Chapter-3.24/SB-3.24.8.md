@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/24"
+verse: "8"
+reference: "SB 3.24.8"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/24/8/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.917493
+---
+
+# SB 3.24.8
+
+## Sanskrit
+
+पेतु: सुमनसो दिव्या: खेचरैरपवर्जिता: । प्रसेदुश्च दिश: सर्वा अम्भांसि च मनांसि च ॥ ८ ॥
+
+## Transliteration
+
+*petuḥ sumanaso divyāḥ khe-carair apavarjitāḥ praseduś ca diśaḥ sarvā ambhāṁsi ca manāṁsi ca*
+
+## Word-for-Word
+
+petuḥ — fell ; sumanasaḥ — flowers ; divyāḥ — beautiful ; khe - caraiḥ — by the demigods who fly in the sky ; apavarjitāḥ — dropped ; praseduḥ — became satisfied ; ca — and ; diśaḥ — directions ; sarvāḥ — all ; ambhāṁsi — waters ; ca — and ; manāṁsi — minds ; ca — and .
+
+## Translation
+
+At the time of the Lord’s appearance, the demigods flying freely in the sky showered flowers. All the directions, all the waters and everyone’s mind became very satisfied.
+
+## Purport
+
+It is learned herewith that in the higher sky there are living entities who can travel through the air without being hampered. Although we can travel in outer space, we are hampered by so many impediments, but they are not. We learn from the pages of Śrīmad-Bhāgavatam that the inhabitants of the planet called Siddhaloka can travel in space from one planet to another without impediment. They showered flowers on the earth when Lord Kapila, the son of Kardama, appeared.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.24]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/24/8/)

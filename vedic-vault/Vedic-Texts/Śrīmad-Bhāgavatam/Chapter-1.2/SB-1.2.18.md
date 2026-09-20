@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/2"
+verse: "18"
+reference: "SB 1.2.18"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/2/18/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.794037
+---
+
+# SB 1.2.18
+
+## Sanskrit
+
+नष्टप्रायेष्वभद्रेषु नित्यं भागवतसेवया । भगवत्युत्तमश्लोके भक्तिर्भवति नैष्ठिकी ॥ १८ ॥
+
+## Transliteration
+
+*naṣṭa-prāyeṣv abhadreṣu nityaṁ bhāgavata-sevayā bhagavaty uttama-śloke bhaktir bhavati naiṣṭhikī*
+
+## Word-for-Word
+
+naṣṭa — destroyed ; prāyeṣu — almost to nil ; abhadreṣu — all that is inauspicious ; nityam — regularly ; bhāgavata — Śrīmad-Bhāgavatam, or the pure devotee ; sevayā — by serving ; bhagavati — unto the Personality of Godhead ; uttama — transcendental ; śloke — prayers ; bhaktiḥ — loving service ; bhavati — comes into being ; naiṣṭhikī — irrevocable .
+
+## Translation
+
+By regular attendance in classes on the Bhāgavatam and by rendering of service to the pure devotee, all that is troublesome to the heart is almost completely destroyed, and loving service unto the Personality of Godhead, who is praised with transcendental songs, is established as an irrevocable fact.
+
+## Purport
+
+Here is the remedy for eliminating all inauspicious things within the heart, which are considered to be obstacles in the path of self-realization. The remedy is the association of the Bhāgavatas. There are two types of Bhāgavatas, namely the book Bhāgavata and the devotee Bhāgavata. Both the Bhāgavatas are competent remedies, and both of them or either of them can be good enough to eliminate the obstacles. A devotee Bhāgavata is as good as the book Bhāgavata because the devotee Bhāgavata leads his life in terms of the book Bhāgavata and the book Bhāgavata is full of information about the Personality of Godhead and His pure devotees, who are also Bhāgavatas. Bhāgavata book and person are identical. The devotee Bhāgavata is a direct representative of Bhagavān, the Personality of Godhead. So by pleasing the devotee Bhāgavata one can receive the benefit of the book Bhāgavata. Human reason fails to understand how by serving the devotee Bhāgavata or the book Bhāgavata one gets gradual promotion on the path of devotion. But actually these are facts explained by Śrīla Nāradadeva, who happened to be a maidservant’s son in his previous life. The maidservant was engaged in the menial service of the sages, and thus he also came into contact with them. And simply by associating with them and accepting the remnants of foodstuff left by the sages, the son of the maidservant got the chance to become the great devotee and personality Śrīla Nāradadeva. These are the miraculous effects of the association of Bhāgavatas. And to understand these effects practically, it should be noted that by such sincere association of the Bhāgavatas one is sure to receive transcendental knowledge very easily, with the result that he becomes fixed in the devotional service of the Lord. The more progress is made in devotional service under the guidance of the Bhāgavatas, the more one becomes fixed in the transcendental loving service of the Lord. The messages of the book Bhāgavata, therefore, have to be received from the devotee Bhāgavata, and the combination of these two Bhāgavatas will help the neophyte devotee to make progress on and on.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/2/18/)

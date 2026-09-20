@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/7"
+verse: "23"
+reference: "SB 2.7.23"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/7/23/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.844729
+---
+
+# SB 2.7.23
+
+## Sanskrit
+
+अस्मत्प्रसादसुमुख: कलया कलेश इक्ष्वाकुवंश अवतीर्य गुरोर्निदेशे । तिष्ठन् वनं सदयितानुज आविवेश यस्मिन् विरुध्य दशकन्धर आर्तिमार्च्छत् ॥ २३ ॥
+
+## Transliteration
+
+*asmat-prasāda-sumukhaḥ kalayā kaleśa ikṣvāku-vaṁśa avatīrya guror nideśe tiṣṭhan vanaṁ sa-dayitānuja āviveśa yasmin virudhya daśa-kandhara ārtim ārcchat*
+
+## Word-for-Word
+
+asmat — unto us, beginning from Brahmā down to the insignificant ant ; prasāda — causeless mercy ; sumukhaḥ — so inclined ; kalayā — with His plenary extensions ; kaleśaḥ — the Lord of all potencies ; ikṣvāku — Mahārāja Ikṣvāku, in the dynasty of the sun ; vaṁśe — family ; avatīrya — by descending in ; guroḥ — of the father or spiritual master ; nideśe — under the order of ; tiṣṭhan — being situated in ; vanam — in the forest ; sa - dayitā - anujaḥ — along with His wife and younger brother ; āviveśa — entered ; yasmin — unto whom ; virudhya — being rebellious ; daśa - kandharaḥ — Rāvaṇa, who had ten heads ; ārtim — great distress ; ārcchat — achieved .
+
+## Translation
+
+Due to His causeless mercy upon all living entities within the universe, the Supreme Personality of Godhead, along with His plenary extensions, appeared in the family of Mahārāja Ikṣvāku as the Lord of His internal potency, Sītā. Under the order of His father, Mahārāja Daśaratha, He entered the forest and lived there for considerable years with His wife and younger brother. Rāvaṇa, who was very materially powerful, with ten heads on his shoulders, committed a great offense against Him and was thus ultimately vanquished.
+
+## Purport
+
+Lord Rāma is the Supreme Personality of Godhead, and His brothers, namely Bharata, Lakṣmaṇa and Śatrughna, are His plenary expansions. All four brothers are viṣṇu-tattva and were never ordinary human beings. There are many unscrupulous and ignorant commentators on Rāmāyaṇa who present the younger brothers of Lord Rāmacandra as ordinary living entities. But here in the Śrīmad-Bhāgavatam, the most authentic scripture on the science of Godhead, it is clearly stated that His brothers were His plenary expansions. Originally Lord Rāmacandra is the incarnation of Vāsudeva, Lakṣmaṇa is the incarnation of Saṅkarṣaṇa, Bharata is the incarnation of Pradyumna, and Śatrughna is the incarnation of Aniruddha, expansions of the Personality of Godhead. Lakṣmījī Sītā is the internal potency of the Lord and is neither an ordinary woman nor the external potency incarnation of Durgā. Durgā is the external potency of the Lord, and she is associated with Lord Śiva. As stated in the Bhagavad-gītā (4.7) , the Lord appears when there are discrepancies in the discharge of factual religion. Lord Rāmacandra also appeared under the same circumstances, accompanied by His brothers, who are expansions of the Lord’s internal potency, and by Lakṣmījī Sītādevī. Lord Rāmacandra was ordered by His father, Mahārāja Daśaratha, to leave home for the forest under awkward circumstances, and the Lord, as the ideal son of His father, carried out the order, even on the occasion of His being declared the King of Ayodhyā. One of His younger brothers, Lakṣmaṇajī, desired to go with Him, and so also His eternal wife, Sītājī, desired to go with Him. The Lord agreed to both of them, and all together they entered the Daṇḍakāraṇya Forest, to live there for fourteen years. During their stay in the forest, there was some quarrel between Rāmacandra and Rāvaṇa, and the latter kidnapped the Lord’s wife, Sītā. The quarrel ended in the vanquishing of the greatly powerful Rāvaṇa, along with all his kingdom and family. Sītā is Lakṣmījī, or the goddess of fortune, but she is never to be enjoyed by any living being. She is meant for being worshiped by the living being along with her husband, Śrī Rāmacandra. A materialistic man like Rāvaṇa does not understand this great truth, but on the contrary he wants to snatch Sītādevī from the custody of Rāma and thus incurs great miseries. The materialists, who are after opulence and material prosperity, may take lessons from the Rāmāyaṇa that the policy of exploiting the nature of the Lord without acknowledging the supremacy of the Supreme Lord is the policy of Rāvaṇa. Rāvaṇa was very advanced materially, so much so that he turned his kingdom, Laṅkā, into pure gold, or full material wealth. But because he did not recognize the supremacy of Lord Rāmacandra and defied Him by stealing His wife, Sītā, Rāvaṇa was killed, and all his opulence and power were destroyed. Lord Rāmacandra is a full incarnation with six opulences in full, and He is therefore mentioned in this verse as kaleśaḥ, or master of all opulence.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.7]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/7/23/)

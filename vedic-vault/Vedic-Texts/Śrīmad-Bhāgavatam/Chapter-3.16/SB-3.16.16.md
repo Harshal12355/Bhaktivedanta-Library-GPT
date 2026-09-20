@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/16"
+verse: "16"
+reference: "SB 3.16.16"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/16/16/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.891286
+---
+
+# SB 3.16.16
+
+## Sanskrit
+
+ऋषय ऊचु: न वयं भगवन् विद्मस्तव देव चिकीर्षितम् । कृतो मेऽनुग्रहश्चेति यदध्यक्ष: प्रभाषसे ॥ १६ ॥
+
+## Transliteration
+
+*ṛṣaya ūcuḥ na vayaṁ bhagavan vidmas tava deva cikīrṣitam kṛto me ’nugrahaś ceti yad adhyakṣaḥ prabhāṣase*
+
+## Word-for-Word
+
+ṛṣayaḥ — the sages ; ūcuḥ — said ; na — not ; vayam — we ; bhagavan — O Supreme Personality of Godhead ; vidmaḥ — did know ; tava — Your ; deva — O Lord ; cikīrṣitam — wish for us to do ; kṛtaḥ — has been done ; me — unto Me ; anugrahaḥ — favor ; ca — and ; iti — thus ; yat — which ; adhyakṣaḥ — the supreme ruler ; prabhāṣase — You say .
+
+## Translation
+
+The sages said: O Supreme Personality of Godhead, we are unable to know what You intend for us to do, for even though You are the supreme ruler of all, You speak in our favor as if we had done something good for You.
+
+## Purport
+
+The sages could understand that the Supreme Personality of Godhead, who is above everyone, was speaking as if He were in the wrong; therefore it was difficult for them to understand the words of the Lord. They could understand, however, that the Lord was speaking in such a humble way just to show them His all-merciful favor.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/16/16/)

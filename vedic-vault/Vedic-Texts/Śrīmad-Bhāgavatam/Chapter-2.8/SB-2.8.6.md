@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/8"
+verse: "6"
+reference: "SB 2.8.6"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/8/6/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.848002
+---
+
+# SB 2.8.6
+
+## Sanskrit
+
+धौतात्मा पुरुष: कृष्णपादमूलं न मुञ्चति । मुक्त सर्वपरिक्लेश: पान्थ: स्वशरणं यथा ॥ ६ ॥
+
+## Transliteration
+
+*dhautātmā puruṣaḥ kṛṣṇa- pāda-mūlaṁ na muñcati mukta-sarva-parikleśaḥ pānthaḥ sva-śaraṇaṁ yathā*
+
+## Word-for-Word
+
+dhauta - ātmā — whose heart has been cleansed ; puruṣaḥ — the living being ; kṛṣṇa — the Supreme Personality of Godhead ; pāda - mūlam — the shelter of the lotus feet ; na — never ; muñcati — gives up ; mukta — liberated ; sarva — all ; parikleśaḥ — of all miseries of life ; pānthaḥ — the traveler ; sva - śaraṇam — in his own abode ; yathā — as it were .
+
+## Translation
+
+A pure devotee of the Lord whose heart has once been cleansed by the process of devotional service never relinquishes the lotus feet of Lord Kṛṣṇa, for they fully satisfy him, as a traveler is satisfied at home after a troubled journey.
+
+## Purport
+
+One who is not a pure devotee of the Supreme Lord Kṛṣṇa is not completely cleansed in the heart. But a perfectly cleansed person never quits the devotional service of the Lord. In discharging such devotional service, as ordered by Brahmājī to Nārada in the preaching of Śrīmad-Bhāgavatam, sometimes a representative of the Lord engaged in preaching work meets various so-called difficulties. This was exhibited by Lord Nityānanda when He delivered the two fallen souls Jagāi and Mādhāi, and similarly Lord Jesus Christ was crucified by the nonbelievers. But such difficulties are very gladly suffered by the devotees in preaching because in such activities, although apparently very severe, the devotees of the Lord feel transcendental pleasure because the Lord is satisfied. Prahlāda Mahārāja suffered greatly, but still he never forgot the lotus feet of the Lord. This is because a pure devotee of the Lord is so purified in his heart that he cannot leave the shelter of Lord Kṛṣṇa in any circumstances. There is no self-interest in such service. The progress of culturing knowledge by the jñānīs or the bodily gymnastics by the yogīs are ultimately given up by the respective performers, but a devotee of the Lord cannot give up the service of the Lord, for he is ordered by his spiritual master. Pure devotees like Nārada and Nityānanda Prabhu take up the order of the spiritual master as the sustenance of life. They do not mind what becomes of the future of their lives. They take the matter very seriously, as the order comes from the higher authority, from the representative of the Lord, or from the Lord Himself. The example set herein is very appropriate. A traveler leaves home to search for wealth in far distant places, sometimes in the forest and sometimes on the ocean and sometimes on hilltops. Certainly there are many troubles for the traveler when he is in such unknown places. But all such troubles are at once mitigated as soon as the sense of his family affection is remembered, and as soon as he returns home he forgets all such troubles on the way. A pure devotee of the Lord is exactly in a family tie with the Lord, and therefore he is undeterred in discharging his duty in a full affectionate tie with the Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/8/6/)

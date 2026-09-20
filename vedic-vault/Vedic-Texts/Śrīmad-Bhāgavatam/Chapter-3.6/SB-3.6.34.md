@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/6"
+verse: "34"
+reference: "SB 3.6.34"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/6/34/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.932479
+---
+
+# SB 3.6.34
+
+## Sanskrit
+
+एते वर्णा: स्वधर्मेण यजन्ति स्वगुरुं हरिम् । श्रद्धयात्मविशुद्ध्यर्थं यज्जाता: सह वृत्तिभि: ॥ ३४ ॥
+
+## Transliteration
+
+*ete varṇāḥ sva-dharmeṇa yajanti sva-guruṁ harim śraddhayātma-viśuddhy-arthaṁ yaj-jātāḥ saha vṛttibhiḥ*
+
+## Word-for-Word
+
+ete — all these ; varṇāḥ — orders of society ; sva - dharmeṇa — by one’s own occupational duties ; yajanti — worship ; sva - gurum — with the spiritual master ; harim — the Supreme Personality of Godhead ; śraddhayā — with faith and devotion ; ātma — self ; viśuddhi - artham — for purifying ; yat — from whom ; jātāḥ — born ; saha — along with ; vṛttibhiḥ — occupational duty .
+
+## Translation
+
+All these different social divisions are born, with their occupational duties and living conditions, from the Supreme Personality of Godhead. Thus for unconditional life and self-realization one has to worship the Supreme Lord under the direction of the spiritual master.
+
+## Purport
+
+Since they are born from different parts of the body of the Supreme Lord in His gigantic form, all living entities in all parts of the entire universe are supposed to be eternal servitors of the supreme body. Every part of our own body, such as the mouth, hands, thighs and legs, is meant to render service to the whole. That is their constitutional position. In subhuman life the living entities are not conscious of this constitutional position, but in the human form of life they are supposed to know this through the system of the varṇas, the social orders. As above mentioned, the brāhmaṇa is the spiritual master of all the orders of society, and thus brahminical culture, culminating in the transcendental service of the Lord, is the basic principle for purifying the soul. In conditioned life the soul is under the impression that he can become the lord of the universe, and the last point of this misconception is to think oneself the Supreme. The foolish conditioned soul does not take into account that the Supreme cannot be conditioned by māyā, or illusion. If the Supreme were to become conditioned by illusion, where would be His supremacy? In that case, māyā, or illusion, would be the Supreme. Therefore, because the living entities are conditioned, they cannot be supreme. The actual position of the conditioned soul is explained in this verse: all the conditioned souls are impure due to contact with the material energy in three modes of nature. Therefore it is necessary that they purify themselves under the guidance of the bona fide spiritual master, who not only is a brāhmaṇa by qualification but must also be a Vaiṣṇava. The only self-purifying process mentioned herein is to worship the Lord under the recognized method — under the guidance of the bona fide spiritual master. That is the natural way of purification, and no other method is recommended as bona fide. The other methods of purification may be helpful to come to this stage of life, but ultimately one has to come to this last point before he attains actual perfection. Bhagavad-gītā (7.19) confirms this truth as follows: bahūnāṁ janmanām ante jñānavān māṁ prapadyate vāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/6/34/)

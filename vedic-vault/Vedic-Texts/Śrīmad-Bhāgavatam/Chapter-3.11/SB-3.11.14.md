@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/11"
+verse: "14"
+reference: "SB 3.11.14"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/11/14/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.870122
+---
+
+# SB 3.11.14
+
+## Sanskrit
+
+संवत्सर: परिवत्सर इडावत्सर एव च । अनुवत्सरो वत्सरश्च विदुरैवं प्रभाष्यते ॥ १४ ॥
+
+## Transliteration
+
+*saṁvatsaraḥ parivatsara iḍā-vatsara eva ca anuvatsaro vatsaraś ca viduraivaṁ prabhāṣyate*
+
+## Word-for-Word
+
+saṁvatsaraḥ — orbit of the sun ; parivatsaraḥ — circumambulation of Bṛhaspati ; iḍā - vatsaraḥ — orbit of the stars ; eva — as they are ; ca — also ; anuvatsaraḥ — orbit of the moon ; vatsaraḥ — one calendar year ; ca — also ; vidura — O Vidura ; evam — thus ; prabhāṣyate — they are so told .
+
+## Translation
+
+There are five different names for the orbits of the sun, moon, stars and luminaries in the firmament, and they each have their own saṁvatsara.
+
+## Purport
+
+The subject matters of physics, chemistry, mathematics, astronomy, time and space dealt with in the above verses of Śrīmad-Bhāgavatam are certainly very interesting to students of the particular subject, but as far as we are concerned, we cannot explain them very thoroughly in terms of technical knowledge. The subject is summarized by the statement that above all the different branches of knowledge is the supreme control of kāla, the plenary representation of the Supreme Personality of Godhead. Nothing exists without Him, and therefore everything, however wonderful it may appear to our meager knowledge, is but the work of the magical wand of the Supreme Lord. As far as time is concerned, we beg to subjoin herewith a table of timings in terms of the modern clock. One truṭi — 8/13,500 second One vedha — 8/135 second One lava — 8/45 second One nimeṣa — 8/15 second One kṣaṇa — 8/5 second One kāṣṭhā — 8 seconds One laghu — 2 minutes One daṇḍa — 30 minutes One prahara — 3 hours One day — 12 hours One night — 12 hours One pakṣa — 15 days Two pakṣas comprise one month, and twelve months comprise one calendar year, or one full orbit of the sun. A human being is expected to live up to one hundred years. That is the way of the controlling measure of eternal time. The Brahma-saṁhitā (5.52) affirms this control in this way: yac-cakṣur eṣa savitā sakala-grahāṇāṁ rājā samasta-sura-mūrtir aśeṣa-tejāḥ yasyājñayā bhramati saṁbhṛta-kāla-cakro govindam ādi-puruṣaṁ tam ahaṁ bhajāmi “I worship Govinda, the primeval Lord, the Supreme Personality of Godhead, under whose control even the sun, which is considered to be the eye of the Lord, rotates within the fixed orbit of eternal time. The sun is the king of all planetary systems and has unlimited potency in heat and light.”
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.11]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/11/14/)

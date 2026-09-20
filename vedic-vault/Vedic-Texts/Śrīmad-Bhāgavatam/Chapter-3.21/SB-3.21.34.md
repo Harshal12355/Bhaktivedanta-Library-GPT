@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/21"
+verse: "34"
+reference: "SB 3.21.34"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/21/34/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.909156
+---
+
+# SB 3.21.34
+
+## Sanskrit
+
+निरीक्षतस्तस्य ययावशेष- सिद्धेश्वराभिष्टुतसिद्धमार्ग: । आकर्णयन् पत्ररथेन्द्रपक्षै- रुच्चारितं स्तोममुदीर्णसाम ॥ ३४ ॥
+
+## Transliteration
+
+*nirīkṣatas tasya yayāv aśeṣa- siddheśvarābhiṣṭuta-siddha-mārgaḥ ākarṇayan patra-rathendra-pakṣair uccāritaṁ stomam udīrṇa-sāma*
+
+## Word-for-Word
+
+nirīkṣataḥ tasya — while he was looking on ; yayau — He left ; aśeṣa — all ; siddha - īśvara — by liberated souls ; abhiṣṭuta — is praised ; siddha - mārgaḥ — the way to the spiritual world ; ākarṇayan — hearing ; patra - ratha - indra — of Garuḍa (king of birds) ; pakṣaiḥ — by the wings ; uccāritam — vibrated ; stomam — hymns ; udīrṇa - sāma — forming the Sāma Veda. .
+
+## Translation
+
+While the sage stood looking on, the Lord left by the pathway leading to Vaikuṇṭha, a path extolled by all great liberated souls. The sage stood listening as the hymns forming the basis of the Sāma Veda were vibrated by the flapping wings of the Lord’s carrier, Garuḍa.
+
+## Purport
+
+In the Vedic literature it is stated that the two wings of the transcendental bird Garuḍa, who carries the Lord everywhere, are two divisions of the Sāma Veda, known as bṛhat and rathāntara. Garuḍa works as the carrier of the Lord; therefore he is considered the transcendental prince of all carriers. With his two wings Garuḍa began to vibrate the Sāma Veda, which is chanted by great sages to pacify the Lord. The Lord is worshiped by Brahmā, by Lord Śiva, by Garuḍa and other demigods with selected poems, and great sages worship Him with the hymns of Vedic literatures, such as the Upaniṣads and Sāma Veda. These Sāma Veda utterances are automatically heard by the devotee when another great devotee of the Lord, Garuḍa, flaps his wings. It is clearly stated here that the sage Kardama began to look to the path by which the Lord was being carried to Vaikuṇṭha. It is thus confirmed that the Lord descends from His abode, Vaikuṇṭha, in the spiritual sky, and is carried by Garuḍa. The path which leads to Vaikuṇṭha is not worshiped by the ordinary class of transcendentalists. Only those who are already liberated from material bondage can become devotees of the Lord. Those who are not liberated from material bondage cannot understand transcendental devotional service. In Bhagavad-gītā it is clearly stated, yatatām api siddhānām. There are many persons who are trying to attain perfection by striving for liberation from material bondage, and those who are actually liberated are called brahma-bhūta or siddha. Only the siddhas, or persons liberated from material bondage, can become devotees. This is also confirmed in Bhagavad-gītā: anyone who is engaged in Kṛṣṇa consciousness, or devotional service, is already liberated from the influence of the modes of material nature. Here it is also confirmed that the path of devotional service is worshiped by liberated persons, not the conditioned souls. The conditioned soul cannot understand the devotional service of the Lord. Kardama Muni was a liberated soul who saw the Supreme Lord in person, face to face. There was no doubt that he was liberated, and thus he could see Garuḍa carrying the Lord on the way to Vaikuṇṭha and hear the flapping of his wings vibrating the sound of Hare Kṛṣṇa, the essence of the Sāma Veda.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.21]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/21/34/)

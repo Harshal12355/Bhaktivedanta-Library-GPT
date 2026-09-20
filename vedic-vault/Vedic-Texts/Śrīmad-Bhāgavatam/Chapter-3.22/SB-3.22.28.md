@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/22"
+verse: "28"
+reference: "SB 3.22.28"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/22/28/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.912220
+---
+
+# SB 3.22.28
+
+## Sanskrit
+
+तमायान्तमभिप्रेत्य ब्रह्मावर्तात्प्रजा: पतिम् । गीतसंस्तुतिवादित्रै: प्रत्युदीयु: प्रहर्षिता: ॥ २८ ॥
+
+## Transliteration
+
+*tam āyāntam abhipretya brahmāvartāt prajāḥ patim gīta-saṁstuti-vāditraiḥ pratyudīyuḥ praharṣitāḥ*
+
+## Word-for-Word
+
+tam — him ; āyāntam — who was arriving ; abhipretya — knowing of ; brahmāvartāt — from Brahmāvarta ; prajāḥ — his subjects ; patim — their lord ; gīta - saṁstuti - vāditraiḥ — with songs, praise and instrumental music ; pratyudīyuḥ — came forward to greet ; praharṣitāḥ — overjoyed .
+
+## Translation
+
+Overjoyed to know of his arrival, his subjects came forth from Brahmāvarta to greet their returning lord with songs, prayers and musical instruments.
+
+## Purport
+
+It is the custom of the citizens of a kingdom’s capital to receive the king when he returns from a tour. There is a similar description when Kṛṣṇa returned to Dvārakā after the Battle of Kurukṣetra. At that time He was received by all classes of citizens at the gate of the city. Formerly, capital cities were surrounded by walls, and there were different gates for regular entrance. Even in Delhi today there are old gates, and some other old cities have such gates where citizens would gather to receive the king. Here also the citizens of Barhiṣmatī, the capital of Brahmāvarta, the kingdom of Svāyambhuva, came nicely dressed to receive the Emperor with decorations and musical instruments.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.22]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/22/28/)

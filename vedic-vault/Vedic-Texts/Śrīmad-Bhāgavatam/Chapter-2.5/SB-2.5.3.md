@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/5"
+verse: "3"
+reference: "SB 2.5.3"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/5/3/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.835445
+---
+
+# SB 2.5.3
+
+## Sanskrit
+
+सर्वं ह्येतद् भवान् वेद भूतभव्यभवत्प्रभु: । करामलकवद् विश्वं विज्ञानावसितं तव ॥ ३ ॥
+
+## Transliteration
+
+*sarvaṁ hy etad bhavān veda bhūta-bhavya-bhavat-prabhuḥ karāmalaka-vad viśvaṁ vijñānāvasitaṁ tava*
+
+## Word-for-Word
+
+sarvam — all and everything ; hi — certainly ; etat — this ; bhavān — your good self ; veda — know ; bhūta — all that is created or born ; bhavya — all that will be created or born ; bhavat — all that is being created ; prabhuḥ — you, the master of everything ; kara - āmalaka - vat — just like a walnut within your grip ; viśvam — the universe ; vijñāna - avasitam — within your knowledge scientifically ; tava — your .
+
+## Translation
+
+My dear father, all this is known to you scientifically because whatever was created in the past, whatever will be created in the future, or whatever is being created at present, as well as everything within the universe, is within your grip, just like a walnut.
+
+## Purport
+
+Brahmā is the direct creator of the manifested universe and everything within the universe. He therefore knows what happened in the past, what will happen in the future, and what is happening at present. Three principal items, namely the living being, the phenomenal world and the controller, are all in continuous action — past, present and future — and the direct manager is supposed to know everything of such actions and reactions, as one knows about a walnut within the grip of one’s palm. The direct manufacturer of a particular thing is supposed to know how he learned the art of manufacturing, where he got the ingredients, how he set it up and how the products in the manufacturing process are being turned out. Because Brahmā is the firstborn living being, naturally he is supposed to know everything about creative functions.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/5/3/)

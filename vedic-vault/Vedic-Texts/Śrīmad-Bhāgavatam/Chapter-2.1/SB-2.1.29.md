@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/1"
+verse: "29"
+reference: "SB 2.1.29"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/1/29/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.820035
+---
+
+# SB 2.1.29
+
+## Sanskrit
+
+इन्द्रादयो बाहव आहुरुस्रा: कर्णौ दिश:श्रोत्रममुष्य शब्द: । नासत्यदस्रौ परमस्य नासे घ्राणोऽस्य गन्धो मुखमग्निरिद्ध: ॥ २९ ॥
+
+## Transliteration
+
+*indrādayo bāhava āhur usrāḥ karṇau diśaḥ śrotram amuṣya śabdaḥ nāsatya-dasrau paramasya nāse ghrāṇo ’sya gandho mukham agnir iddhaḥ*
+
+## Word-for-Word
+
+indra - ādayaḥ — demigods headed by the heavenly king, Indra ; bāhavaḥ — arms ; āhuḥ — are called ; usrāḥ — the demigods ; karṇau — the ears ; diśaḥ — the four directions ; śrotram — the sense of hearing ; amuṣya — of the Lord ; śabdaḥ — sound ; nāsatya - dasrau — the demigods known as the Aśvinī-kumāras ; paramasya — of the Supreme ; nāse — nostrils ; ghrāṇaḥ — the sense of smell ; asya — of Him ; gandhaḥ — fragrance ; mukham — the mouth ; agniḥ — fire ; iddhaḥ — blazing .
+
+## Translation
+
+His arms are the demigods headed by Indra, the ten directional sides are His ears, and physical sound is His sense of hearing. His nostrils are the two Aśvinī-kumāras, and material fragrance is His sense of smell. His mouth is the blazing fire.
+
+## Purport
+
+The description of the gigantic form of the Personality of Godhead made in the Eleventh Chapter of the Bhagavad-gītā is further explained here in the Śrīmad-Bhāgavatam. The description in the Bhagavad-gītā (11.30) runs as follows: “O Viṣṇu, I see You devouring all people in Your blazing mouths and covering all the universe by Your immeasurable rays. Scorching the worlds, You are manifest.” In that way, Śrīmad-Bhāgavatam is the postgraduate study for the student of the Bhagavad-gītā. Both of them are the science of Kṛṣṇa, the Absolute Truth, and so they are interdependent. The conception of the virāṭ-puruṣa, or the gigantic form of the Supreme Lord, is said to include all the dominating demigods as well as the dominated living beings. Even the minutest part of a living being is controlled by the empowered agency of the Lord. Since the demigods are included in the gigantic form of the Lord, worship of the Lord, whether in His gigantic material conception or in His eternal transcendental form as Lord Śrī Kṛṣṇa, also appeases the demigods and all the other parts and parcels, as much as watering the root of a tree distributes energy to all of the tree’s other parts. Consequently, for a materialist also, worship of the universal gigantic form of the Lord leads one to the right path. One need not risk being misled by approaching many demigods for fulfillment of different desires. The real entity is the Lord Himself, and all others are imaginary, for everything is included in Him only.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.1]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/1/29/)

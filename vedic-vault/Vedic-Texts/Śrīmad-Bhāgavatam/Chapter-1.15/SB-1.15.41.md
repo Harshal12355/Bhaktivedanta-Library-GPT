@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/15"
+verse: "41"
+reference: "SB 1.15.41"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/15/41/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.781926
+---
+
+# SB 1.15.41
+
+## Sanskrit
+
+वाचं जुहाव मनसि तत्प्राण इतरे च तम् । मृत्यावपानं सोत्सर्गं तं पञ्चत्वे ह्यजोहवीत् ॥ ४१ ॥
+
+## Transliteration
+
+*vācaṁ juhāva manasi tat prāṇa itare ca tam mṛtyāv apānaṁ sotsargaṁ taṁ pañcatve hy ajohavīt*
+
+## Word-for-Word
+
+vācam — speeches ; juhāva — relinquished ; manasi — into the mind ; tat prāṇe — mind into breathing ; itare ca — other senses also ; tam — into that ; mṛtyau — into death ; apānam — breathing ; sa - utsargam — with all dedication ; tam — that ; pañcatve — into the body made of five elements ; hi — certainly ; ajohavīt — amalgamated it .
+
+## Translation
+
+Then he amalgamated all the sense organs into the mind, then the mind into life, life into breathing, his total existence into the embodiment of the five elements, and his body into death. Then, as pure self, he became free from the material conception of life.
+
+## Purport
+
+Mahārāja Yudhiṣṭhira, like his brother Arjuna, began to concentrate and gradually became freed from all material bondage. First he concentrated all the actions of the senses and amalgamated them into the mind, or in other words he turned his mind toward the transcendental service of the Lord. He prayed that since all material activities are performed by the mind in terms of actions and reactions of the material senses, and since he was going back to Godhead, the mind would wind up its material activities and be turned towards the transcendental service to the Lord. There was no longer a need for material activities. Actually the activities of the mind cannot be stopped, for they are the reflection of the eternal soul, but the quality of the activities can be changed from matter to the transcendental service of the Lord. The material color of the mind is changed when one washes it clean of the contaminations of life-breathing and thereby frees it from the contamination of repeated births and deaths and situates it in pure spiritual life. All is manifested by the temporary embodiment of the material body, which is a production of the mind at the time of death, and if the mind is purified by practice of transcendental loving service to the Lord and is constantly engaged in the service of the lotus feet of the Lord, there is no more chance of the mind’s producing another material body after death. It will be freed from absorption in material contamination. The pure soul will be able to return home, back to Godhead.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.15]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/15/41/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/13"
+verse: "45"
+reference: "SB 3.13.45"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/13/45/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.881475
+---
+
+# SB 3.13.45
+
+## Sanskrit
+
+स वै बत भ्रष्टमतिस्तवैषते य: कर्मणां पारमपारकर्मण: । यद्योगमायागुणयोगमोहितं विश्वं समस्तं भगवन् विधेहि शम् ॥ ४५ ॥
+
+## Transliteration
+
+*sa vai bata bhraṣṭa-matis tavaiṣate yaḥ karmaṇāṁ pāram apāra-karmaṇaḥ yad-yoga-māyā-guṇa-yoga-mohitaṁ viśvaṁ samastaṁ bhagavan vidhehi śam*
+
+## Word-for-Word
+
+saḥ — he ; vai — certainly ; bata — alas ; bhraṣṭa - matiḥ — nonsense ; tava — Your ; eṣate — desires ; yaḥ — one who ; karmaṇām — of activities ; pāram — limit ; apāra - karmaṇaḥ — of one who has unlimited activities ; yat — by whom ; yoga — mystic power ; māyā — potency ; guṇa — modes of material nature ; yoga — mystic power ; mohitam — bewildered ; viśvam — the universe ; samastam — in total ; bhagavan — O Supreme Personality of Godhead ; vidhehi — just be pleased to bestow ; śam — good fortune .
+
+## Translation
+
+O Lord, there is no limit to Your wonderful activities. Anyone who desires to know the limit of Your activities is certainly nonsensical. Everyone in this world is conditioned by the powerful mystic potencies. Please bestow Your causeless mercy upon these conditioned souls.
+
+## Purport
+
+Mental speculators who want to understand the limit of the Unlimited are certainly nonsensical. Every one of them is captivated by the external potencies of the Lord. The best thing for them is to surrender unto Him, knowing Him to be inconceivable, for thus they can receive His causeless mercy. This prayer was offered by the inhabitants of the higher planetary systems, namely Jana-, Tapo- and Satyaloka, who are far more intelligent and powerful than humans. Viśvaṁ samastam is very significant here. There are the material world and the spiritual world. The sages pray: “Both worlds are bewildered by Your different energies. Those who are in the spiritual world are absorbed in Your loving service, forgetting themselves and You also, and those in the material world are absorbed in material sense gratification and therefore also forget You. No one can know You, because You are unlimited. It is best not to try to know You by unnecessary mental speculation. Rather, kindly bless us so that we can worship You with causeless devotional service.”
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.13]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/13/45/)

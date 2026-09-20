@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/24"
+verse: "13"
+reference: "SB 3.24.13"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/24/13/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.917811
+---
+
+# SB 3.24.13
+
+## Sanskrit
+
+एतावत्येव शुश्रूषा कार्या पितरि पुत्रकै: । बाढमित्यनुमन्येत गौरवेण गुरोर्वच: ॥ १३ ॥
+
+## Transliteration
+
+*etāvaty eva śuśrūṣā kāryā pitari putrakaiḥ bāḍham ity anumanyeta gauraveṇa guror vacaḥ*
+
+## Word-for-Word
+
+etāvatī — to this extent ; eva — exactly ; śuśrūṣā — service ; kāryā — ought to be rendered ; pitari — to the father ; putrakaiḥ — by the sons ; bāḍham iti — accepting, “Yes, sir” ; anumanyeta — he should obey ; gauraveṇa — with due deference ; guroḥ — of the guru ; vacaḥ — commands .
+
+## Translation
+
+Sons ought to render service to their father exactly to this extent. One should obey the command of his father or spiritual master with due deference, saying, “Yes, sir.”
+
+## Purport
+
+Two words in this verse are very important: one word is pitari, and another word is guroḥ. The son or disciple should accept the words of his spiritual master and father without hesitation. Whatever the father and the spiritual master order should be taken without argument: “Yes.” There should be no instance in which the disciple or the son says, “This is not correct. I cannot carry it out.” When he says that, he is fallen. The father and the spiritual master are on the same platform because a spiritual master is the second father. The higher classes are called dvija, twice-born. Whenever there is a question of birth, there must be a father. The first birth is made possible by the actual father, and the second birth is made possible by the spiritual master. Sometimes the father and the spiritual master may be the same man, and sometimes they are different men. In any case, the order of the father or the order of the spiritual master must be carried out without hesitation, with an immediate yes. There should be no argument. That is real service to the father and to the spiritual master. Viśvanātha Cakravartī Ṭhākura has stated that the order of the spiritual master is the life and soul of the disciples. As a man cannot separate his life from his body, a disciple cannot separate the order of the spiritual master from his life. If a disciple follows the instruction of the spiritual master in that way, he is sure to become perfect. This is confirmed in the Upaniṣads: the import of Vedic instruction is revealed automatically only to one who has implicit faith in the Supreme Personality of Godhead and in his spiritual master. One may be materially considered an illiterate man, but if he has faith in the spiritual master as well as in the Supreme Personality of Godhead, then the meaning of scriptural revelation is immediately manifested before him.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.24]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/24/13/)

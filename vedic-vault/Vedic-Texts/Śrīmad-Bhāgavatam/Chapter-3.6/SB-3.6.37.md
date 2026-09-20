@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/6"
+verse: "37"
+reference: "SB 3.6.37"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/6/37/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.932736
+---
+
+# SB 3.6.37
+
+## Sanskrit
+
+एकान्तलाभं वचसो नु पुंसां सुश्लोकमौलेर्गुणवादमाहु: । श्रुतेश्च विद्वद्‍‌भिरुपाकृतायां कथासुधायामुपसम्प्रयोगम् ॥ ३७ ॥
+
+## Transliteration
+
+*ekānta-lābhaṁ vacaso nu puṁsāṁ suśloka-mauler guṇa-vādam āhuḥ śruteś ca vidvadbhir upākṛtāyāṁ kathā-sudhāyām upasamprayogam*
+
+## Word-for-Word
+
+eka - anta — the one which has no comparison ; lābham — gain ; vacasaḥ — by discussions ; nu puṁsām — after the Supreme Person ; suśloka — pious ; mauleḥ — activities ; guṇa - vādam — glorification ; āhuḥ — it is so said ; śruteḥ — of the ear ; ca — also ; vidvadbhiḥ — by the learned ; upākṛtāyām — being so edited ; kathā - sudhāyām — in the nectar of such a transcendental message ; upasamprayogam — serves the real purpose, being nearer to .
+
+## Translation
+
+The highest perfectional gain of humanity is to engage in discussions of the activities and glories of the Pious Actor. Such activities are so nicely arranged in writing by the greatly learned sages that the actual purpose of the ear is served just by being near them.
+
+## Purport
+
+The impersonalists are very much afraid of hearing the activities of the Lord because they think that the happiness derived from the transcendental situation of Brahman is the ultimate goal of life; they think that anyone’s activity, even that of the Personality of Godhead, is mundane. But the idea of happiness indicated in this verse is different because it relates to the activities of the Supreme Personality, who has transcendental qualities. The word guṇa-vādam is significant because the qualities of the Lord and His activities and pastimes are the subject matter for the discussions of devotees. A ṛṣi like Maitreya is certainly not interested in discussing anything pertaining to mundane qualities, yet he says that the highest perfectional stage of transcendental realization is to discuss the Lord’s activities. Śrīla Jīva Gosvāmī, therefore, concludes that topics regarding the transcendental activities of the Lord are far beyond the transcendental realization of kaivalya happiness. These transcendental activities of the Lord are so arranged in writing by the great sages that simply by hearing of those narrations one becomes perfectly self-realized, and the proper use of the ear and the tongue is also achieved. Śrīmad-Bhāgavatam is one of such great literatures, and the highest perfectional state of life is attained simply by hearing and reciting its contents.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.6]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/6/37/)

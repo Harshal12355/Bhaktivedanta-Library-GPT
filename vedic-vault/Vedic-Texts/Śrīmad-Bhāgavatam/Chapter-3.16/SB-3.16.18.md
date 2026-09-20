@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/16"
+verse: "18"
+reference: "SB 3.16.18"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/16/18/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.891399
+---
+
+# SB 3.16.18
+
+## Sanskrit
+
+त्वत्त: सनातनो धर्मो रक्ष्यते तनुभिस्तव । धर्मस्य परमो गुह्यो निर्विकारो भवान्मत: ॥ १८ ॥
+
+## Transliteration
+
+*tvattaḥ sanātano dharmo rakṣyate tanubhis tava dharmasya paramo guhyo nirvikāro bhavān mataḥ*
+
+## Word-for-Word
+
+tvattaḥ — from You ; sanātanaḥ — eternal ; dharmaḥ — occupation ; rakṣyate — is protected ; tanubhiḥ — by multimanifestations ; tava — Your ; dharmasya — of religious principles ; paramaḥ — the supreme ; guhyaḥ — objective ; nirvikāraḥ — unchangeable ; bhavān — You ; mataḥ — in our opinion .
+
+## Translation
+
+You are the source of the eternal occupation of all living entities, and by Your multimanifestations of Personalities of Godhead, You have always protected religion. You are the supreme objective of religious principles, and in our opinion You are inexhaustible and unchangeable eternally.
+
+## Purport
+
+The statement in this verse dharmasya paramo guhyaḥ refers to the most confidential part of all religious principles. This is confirmed in Bhagavad-gītā. The conclusion of Lord Kṛṣṇa in His advice to Arjuna is: “Give up all other religious engagement and just surrender unto Me.” This is the most confidential knowledge in executing religious principles. In the Bhāgavatam also it is stated that if one does not become Kṛṣṇa conscious after very rigidly executing one’s specified religious duties, all his labor in following so-called religious principles is simply a waste of time. Here also the sages confirm the statement that the Supreme Lord, not the demigods, is the ultimate goal of all religious principles. There are many foolish propagandists who say that worship of the demigods is also a way to reach the supreme goal, but in the authorized statements of Śrīmad-Bhāgavatam and Bhagavad-gītā this is not accepted. Bhagavad-gītā says that one who worships a particular demigod can reach the demigod’s planet, but one who worships the Supreme Personality of Godhead can enter into Vaikuṇṭha. Some propagandists say that regardless of what one does he will ultimately reach the supreme abode of the Personality of Godhead, but this is not valid. The Lord is eternal, the Lord’s servitor is eternal, and the Lord’s abode is also eternal. They are all described here as sanātana, or eternal. The result of devotional service, therefore, is not temporary, as is the achievement of heavenly planets by worshiping the demigods. The sages wanted to stress that although the Lord, out of His causeless mercy, says that He worships the brāhmaṇas and Vaiṣṇavas, actually the Lord is worshipable not only by the brāhmaṇas and Vaiṣṇavas but also by the demigods.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/16/18/)

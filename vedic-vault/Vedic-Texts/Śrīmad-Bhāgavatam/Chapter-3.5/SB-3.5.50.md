@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/5"
+verse: "50"
+reference: "SB 3.5.50"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/5/50/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.929424
+---
+
+# SB 3.5.50
+
+## Sanskrit
+
+त्वं न: सुराणामसि सान्वयानां कूटस्थ आद्य: पुरुष: पुराण: । त्वं देव शक्त्यां गुणकर्मयोनौ रेतस्त्वजायां कविमादधेऽज: ॥ ५० ॥
+
+## Transliteration
+
+*tvaṁ naḥ surāṇām asi sānvayānāṁ kūṭa-stha ādyaḥ puruṣaḥ purāṇaḥ tvaṁ deva śaktyāṁ guṇa-karma-yonau retas tv ajāyāṁ kavim ādadhe ’jaḥ*
+
+## Word-for-Word
+
+tvam — Your Lordship ; naḥ — of us ; surāṇām — of the demigods ; asi — You are ; sa - anvayānām — with different gradations ; kūṭa - sthaḥ — one who is unchanged ; ādyaḥ — without any superior ; puruṣaḥ — the founder person ; purāṇaḥ — the oldest, who has no other founder ; tvam — You ; deva — O Lord ; śaktyām — unto the energy ; guṇa - karma - yonau — unto the cause of the material modes and activities ; retaḥ — semen of birth ; tu — indeed ; ajāyām — for begetting ; kavim — the total living entities ; ādadhe — initiated ; ajaḥ — one who is unborn .
+
+## Translation
+
+You are the original personal founder of all the demigods and the orders of different gradations, yet You are the oldest and are unchanged. O Lord, You have no source or superior. You have impregnated the external energy with the semen of the total living entities, yet You are unborn.
+
+## Purport
+
+The Lord, the original person, is the father of all other living entities, beginning from Brahmā, the personality from whom all other living entities in different gradations of species are generated. Yet the supreme father has no other father. Every one of the living entities of all grades, up to Brahmā, the original creature of the universe, is begotten by a father, but He, the Lord, has no father. When He descends to the material plane, out of His causeless mercy He accepts one of His great devotees as His father to keep pace with the rules of the material world. But since He is the Lord, He is always independent in choosing who will become His father. For example, the Lord came out of a pillar in His incarnation as Nṛsiṁhadeva, and by the Lord’s causeless mercy, Ahalyā came out of a stone by the touch of the lotus feet of His incarnation as Lord Śrī Rāma. He is also the companion of every living entity as the Supersoul, but He is unchanged. The living entity changes his body in the material world, but even when the Lord is in the material world, He is ever unchanged. That is His prerogative. As confirmed in Bhagavad-gītā (14.3) , the Lord impregnates the external or material energy, and thus the total living entities later come out in different gradations, beginning from Brahmā, the first demigod, down to the insignificant ant. All gradations of living entities are manifested by Brahmā and the external energy, but the Lord is the original father of everyone. The relationship of every living being with the Supreme Lord is certainly one of son and father and not one of equality. Sometimes in love the son is more than the father, but the relationship of father and son is one of the superior and the subordinate. Every living entity, however great he may be, even up to demigods like Brahmā and Indra, is an eternally subordinate servitor of the supreme father. The mahat-tattva principle is the generating source of all the modes of material nature, and the living entities take birth in the material world in bodies supplied by the mother, material nature, in terms of their previous work. The body is a gift of material nature, but the soul is originally part and parcel of the Supreme Lord.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/5/50/)

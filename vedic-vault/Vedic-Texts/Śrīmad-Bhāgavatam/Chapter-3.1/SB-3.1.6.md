@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/1"
+verse: "6"
+reference: "SB 3.1.6"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/1/6/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.862666
+---
+
+# SB 3.1.6
+
+## Sanskrit
+
+श्रीशुक उवाच यदा तु राजा स्वसुतानसाधून् पुष्णन्नधर्मेण विनष्टद‍ृष्टि: । भ्रातुर्यविष्ठस्य सुतान् विबन्धून् प्रवेश्य लाक्षाभवने ददाह ॥ ६ ॥
+
+## Transliteration
+
+*śrī-śuka uvāca yadā tu rājā sva-sutān asādhūn puṣṇan na dharmeṇa vinaṣṭa-dṛṣṭiḥ bhrātur yaviṣṭhasya sutān vibandhūn praveśya lākṣā-bhavane dadāha*
+
+## Word-for-Word
+
+śrī - śukaḥ uvāca — Śrī Śukadeva Gosvāmī said ; yadā — when ; tu — but ; rājā — King Dhṛtarāṣṭra ; sva - sutān — his own sons ; asādhūn — dishonest ; puṣṇan — nourishing ; na — never ; dharmeṇa — on the right path ; vinaṣṭa - dṛṣṭiḥ — one who has lost his insight ; bhrātuḥ — of his brother ; yaviṣṭhasya — younger ; sutān — sons ; vibandhūn — having no guardian (father) ; praveśya — made to enter ; lākṣā — lacquer ; bhavane — in the house ; dadāha — set on fire .
+
+## Translation
+
+Śrī Śukadeva Gosvāmī said: King Dhṛtarāṣṭra became blind under the influence of impious desires to nourish his dishonest sons, and thus he set fire to the lacquer house to burn his fatherless nephews, the Pāṇḍavas.
+
+## Purport
+
+Dhṛtarāṣṭra was blind from birth, but his blindness in committing impious activities to support his dishonest sons was a greater blindness than his physical lack of eyesight. The physical lack of sight does not bar one from spiritual progress. But when one is blind spiritually, even though physically fit, that blindness is dangerously detrimental to the progressive path of human life.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.1]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/1/6/)

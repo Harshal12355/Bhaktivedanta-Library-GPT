@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/8"
+verse: "4"
+reference: "SB 1.8.4"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/8/4/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.810234
+---
+
+# SB 1.8.4
+
+## Sanskrit
+
+सान्‍त्वयामास मुनिभिर्हतबन्धूञ्शुचार्पितान् । भूतेषु कालस्य गतिं दर्शयन्न प्रतिक्रियाम् ॥ ४ ॥
+
+## Transliteration
+
+*sāntvayām āsa munibhir hata-bandhūñ śucārpitān bhūteṣu kālasya gatiṁ darśayan na pratikriyām*
+
+## Word-for-Word
+
+sāntvayām āsa — pacified ; munibhiḥ — along with the munis present there ; hata - bandhūn — those who lost their friends and relatives ; śucārpitān — all shocked and affected ; bhūteṣu — unto the living beings ; kālasya — of the supreme law of the Almighty ; gatim — reactions ; darśayan — demonstrated ; na — no ; pratikriyām — remedial measures .
+
+## Translation
+
+Citing the stringent laws of the Almighty and their reactions upon living beings, Lord Śrī Kṛṣṇa and the munis began to pacify those who were shocked and affected.
+
+## Purport
+
+The stringent laws of nature, under the order of the Supreme Personality of Godhead, cannot be altered by any living entity. The living entities are eternally under the subjugation of the almighty Lord. The Lord makes all the laws and orders, and these laws and orders are generally called dharma or religion. No one can create any religious formula. Bona fide religion is to abide by the orders of the Lord. The Lord’s orders are clearly declared in the Bhagavad-gītā. Everyone should follow Him only or His orders, and that will make all happy, both materially and spiritually. As long as we are in the material world, our duty is to follow the orders of the Lord, and if by the grace of the Lord we are liberated from the clutches of the material world, then in our liberated stage also we can render transcendental loving service unto the Lord. In our material stage we can see neither ourselves nor the Lord for want of spiritual vision. But when we are liberated from material affection and are situated in our original spiritual form we can see both ourselves and the Lord face to face. Mukti means to be reinstated in one’s original spiritual status after giving up the material conception of life. Therefore, human life is specifically meant for qualifying ourselves for this spiritual liberty. Unfortunately, under the influence of illusory material energy, we accept this spot-life of only a few years as our permanent existence and thus become illusioned by possessing so-called country, home, land, children, wife, community, wealth, etc., which are false representations created by māyā (illusion). And under the dictation of māyā, we fight with one another to protect these false possessions. By cultivating spiritual knowledge, we can realize that we have nothing to do with all this material paraphernalia. Then at once we become free from material attachment. This clearance of the misgivings of material existence at once takes place by association with the Lord’s devotees, who are able to inject the transcendental sound into the depths of the bewildered heart and thus make one practically liberated from all lamentation and illusion. That is a summary of the pacifying measures for those affected by the reaction of stringent material laws, exhibited in the forms of birth, death, old age and disease, which are insoluble factors of material existence. The victims of war, namely the family members of the Kurus, were lamenting the problems of death, and the Lord pacified them on the basis of knowledge.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.8]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/8/4/)

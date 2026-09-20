@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/13"
+verse: "38"
+reference: "SB 3.13.38"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/13/38/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.881068
+---
+
+# SB 3.13.38
+
+## Sanskrit
+
+सोमस्तु रेत: सवनान्यवस्थिति: संस्थाविभेदास्तव देव धातव: । सत्राणि सर्वाणि शरीरसन्धि- स्त्वं सर्वयज्ञक्रतुरिष्टिबन्धन: ॥ ३८ ॥
+
+## Transliteration
+
+*somas tu retaḥ savanāny avasthitiḥ saṁsthā-vibhedās tava deva dhātavaḥ satrāṇi sarvāṇi śarīra-sandhis tvaṁ sarva-yajña-kratur iṣṭi-bandhanaḥ*
+
+## Word-for-Word
+
+somaḥ tu retaḥ — Your semen is the sacrifice called soma ; savanāni — ritualistic performances of the morning ; avasthitiḥ — different statuses of bodily growth ; saṁsthā - vibhedāḥ — seven varieties of sacrifices ; tava — Your ; deva — O Lord ; dhātavaḥ — ingredients of the body such as skin and flesh ; satrāṇi — sacrifices performed over twelve days ; sarvāṇi — all of them ; śarīra — the bodily ; sandhiḥ — joints ; tvam — Your Lordship ; sarva — all ; yajña — asoma sacrifices ; kratuḥ — soma sacrifices ; iṣṭi — the ultimate desire ; bandhanaḥ — attachment .
+
+## Translation
+
+O Lord, Your semen is the sacrifice called soma-yajña. Your growth is the ritualistic performances of the morning. Your skin and touch sensations are the seven elements of the agniṣṭoma sacrifice. Your bodily joints are symbols of various other sacrifices performed in twelve days. Therefore You are the object of all sacrifices called soma and asoma, and You are bound by yajñas only.
+
+## Purport
+
+There are seven kinds of routine yajñas performed by all followers of the Vedic rituals, and they are called agniṣṭoma, atyagniṣṭoma, uktha, ṣoḍaśī, vājapeya, atirātra and āptoryāma. Anyone performing such yajñas regularly is supposed to be situated with the Lord. But anyone who is in contact with the Supreme Lord by discharging devotional service is understood to have performed all different varieties of yajñas.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.13]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/13/38/)

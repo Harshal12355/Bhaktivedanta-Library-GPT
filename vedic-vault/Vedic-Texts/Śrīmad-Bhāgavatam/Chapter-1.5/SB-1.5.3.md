@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/5"
+verse: "3"
+reference: "SB 1.5.3"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/5/3/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.800675
+---
+
+# SB 1.5.3
+
+## Sanskrit
+
+जिज्ञासितं सुसम्पन्नमपि ते महदद्भ‍ुतम् । कृतवान् भारतं यस्त्वं सर्वार्थपरिबृंहितम् ॥ ३ ॥
+
+## Transliteration
+
+*jijñāsitaṁ susampannam api te mahad-adbhutam kṛtavān bhārataṁ yas tvaṁ sarvārtha-paribṛṁhitam*
+
+## Word-for-Word
+
+jijñāsitam — fully inquired ; susampannam — well versed ; api — in spite of ; te — your ; mahat - adbhutam — great and wonderful ; kṛtavān — prepared ; bhāratam — the Mahābhārata ; yaḥ tvam — what you have done ; sarva - artha — including all sequences ; paribṛṁhitam — elaborately explained .
+
+## Translation
+
+Your inquiries were full and your studies were also well fulfilled, and there is no doubt that you have prepared a great and wonderful work, the Mahābhārata, which is full of all kinds of Vedic sequences elaborately explained.
+
+## Purport
+
+The despondency of Vyāsadeva was certainly not due to his lack of sufficient knowledge because as a student he had fully inquired about the Vedic literatures, as a result of which the Mahābhārata is compiled with full explanation of the Vedas.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.5]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/5/3/)

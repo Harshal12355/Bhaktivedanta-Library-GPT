@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/17"
+verse: "2"
+reference: "SB 1.17.2"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/17/2/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.785242
+---
+
+# SB 1.17.2
+
+## Sanskrit
+
+वृषं मृणालधवलं मेहन्तमिव बिभ्यतम् । वेपमानं पदैकेन सीदन्तं शूद्रताडितम् ॥ २ ॥
+
+## Transliteration
+
+*vṛṣaṁ mṛṇāla-dhavalaṁ mehantam iva bibhyatam vepamānaṁ padaikena sīdantaṁ śūdra-tāḍitam*
+
+## Word-for-Word
+
+vṛṣam — the bull ; mṛṇāla - dhavalam — as white as a white lotus ; mehantam — urinating ; iva — as if ; bibhyatam — being too afraid ; vepamānam — trembling ; padā ekena — standing on only one leg ; sīdantam — terrified ; śūdra - tāḍitam — being beaten by a śūdra. .
+
+## Translation
+
+The bull was as white as a white lotus flower. He was terrified of the śūdra who was beating him, and he was so afraid that he was standing on one leg, trembling and urinating.
+
+## Purport
+
+The next symptom of the Age of Kali is that principles of religion, which are all spotlessly white, like the white lotus flower, will be attacked by the uncultured śūdra population of the age. They may be descendants of brāhmaṇa or kṣatriya forefathers, but in the Age of Kali, for want of sufficient education and culture of Vedic wisdom, such a śūdra- like population will defy the principles of religion, and persons who are religiously endowed will be terrified by such men. They will declare themselves as adherents of no religious principles, and many “isms” and cults will spring up in Kali-yuga only to kill the spotless bull of religion. The state will be declared to be secular, or without any particular principle of religion, and as a result there will be total indifference to the principles of religion. The citizens will be free to act as they like, without respect for sādhu, śāstra and guru. The bull standing on one leg indicates that the principles of religion are gradually diminishing. Even the fragmental existence of religious principles will be embarrassed by so many obstacles as if in the trembling condition of falling down at any time.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.17]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/17/2/)

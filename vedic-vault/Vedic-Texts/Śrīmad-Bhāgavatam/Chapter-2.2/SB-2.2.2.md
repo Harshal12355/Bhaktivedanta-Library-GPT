@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/2"
+verse: "2"
+reference: "SB 2.2.2"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/2/2/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.825854
+---
+
+# SB 2.2.2
+
+## Sanskrit
+
+शाब्दस्य हि ब्रह्मण एष पन्था यन्नामभिर्ध्यायति धीरपार्थै: । परिभ्रमंस्तत्र न विन्दतेऽर्थान् मायामये वासनया शयान: ॥ २ ॥
+
+## Transliteration
+
+*śābdasya hi brahmaṇa eṣa panthā yan nāmabhir dhyāyati dhīr apārthaiḥ paribhramaṁs tatra na vindate ’rthān māyāmaye vāsanayā śayānaḥ*
+
+## Word-for-Word
+
+śābdasya — of the Vedic sound ; hi — certainly ; brahmaṇaḥ — of the Vedas ; eṣaḥ — these ; panthāḥ — the way ; yat — what is ; nāmabhiḥ — by different names ; dhyāyati — ponders ; dhīḥ — intelligence ; apārthaiḥ — by meaningless ideas ; paribhraman — wandering ; tatra — there ; na — never ; vindate — enjoys ; arthān — realities ; māyā - maye — in illusory things ; vāsanayā — by different desires ; śayānaḥ — as if dreaming in sleep .
+
+## Translation
+
+The way of presentation of the Vedic sounds is so bewildering that it directs the intelligence of the people to meaningless things like the heavenly kingdoms. The conditioned souls hover in dreams of such heavenly illusory pleasures, but actually they do not relish any tangible happiness in such places.
+
+## Purport
+
+The conditioned soul is always engaged in laying out plans for happiness within the material world, even up to the end of the universal limit. He is not even satisfied with available amenities on this planet earth, where he has exploited the resources of nature to the best of his ability. He wants to go to the moon or the planet Venus to exploit resources there. But the Lord has warned us in the Bhagavad-gītā (8.16) about the worthlessness of all the innumerable planets of this universe, as well as those planets within other systems. There are innumerable universes and also innumerable planets in each of them. But none of them is immune to the chief miseries of material existence, namely the pangs of birth, the pangs of death, the pangs of old age and the pangs of disease. The Lord says that even the topmost planet, known as the Brahmaloka or Satyaloka, (and what to speak of other planets, like the heavenly planets) is not a happy land for residential purposes, due to the presence of material pangs, as above mentioned. Conditioned souls are strictly under the laws of fruitive activities, and as such they sometimes go up to Brahmaloka and again come down to Pātālaloka, as if they were unintelligent children on a merry-go-round. The real happiness is in the kingdom of God, where no one has to undergo the pangs of material existence. Therefore, the Vedic ways of fruitive activities for the living entities are misleading. One thinks of a superior way of life in this country or that, or on this planet or another, but nowhere in the material world can he fulfill his real desire of life, namely eternal life, full intelligence and complete bliss. Indirectly, Śrīla Śukadeva Gosvāmī affirms that Mahārāja Parīkṣit, in the last stage of life, should not desire to transfer himself to the so-called heavenly planets, but should prepare himself for going back home, back to Godhead. None of the material planets, nor the amenities available there for living conditions, is everlasting; therefore one must have a factual reluctance to enjoy such temporary happiness as they afford.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.2]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/2/2/)

@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/16"
+verse: "14"
+reference: "SB 3.16.14"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/16/14/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.891169
+---
+
+# SB 3.16.14
+
+## Sanskrit
+
+सतीं व्यादाय श‍ृण्वन्तो लघ्वीं गुर्वर्थगह्वराम् । विगाह्यागाधगम्भीरां न विदुस्तच्चिकीर्षितम् ॥ १४ ॥
+
+## Transliteration
+
+*satīṁ vyādāya śṛṇvanto laghvīṁ gurv-artha-gahvarām vigāhyāgādha-gambhīrāṁ na vidus tac-cikīrṣitam*
+
+## Word-for-Word
+
+satīm — excellent ; vyādāya — with attentive aural reception ; śṛṇvantaḥ — hearing ; laghvīm — properly composed ; guru — momentous ; artha — import ; gahvarām — difficult to understand ; vigāhya — pondering ; agādha — deep ; gambhīrām — grave ; na — not ; viduḥ — understand ; tat — of the Supreme Lord ; cikīrṣitam — the intention .
+
+## Translation
+
+The Lord’s excellent speech was difficult to comprehend because of its momentous import and its most profound significance. The sages heard it with wide-open ears and pondered it as well. But although hearing, they could not understand what He intended to do.
+
+## Purport
+
+It should be understood that no one can surpass the Supreme Personality of Godhead in speaking. There is no difference between the Supreme Person and His speeches, for He stands on the absolute platform. The sages tried with wide-open ears to understand the words from the lips of the Supreme Lord, but although His speech was very concise and meaningful, the sages could not completely comprehend what He was saying. They could not even comprehend the purport of the speech or what the Supreme Lord wanted to do. Nor could they understand whether the Lord was angry or pleased with them.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.16]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/16/14/)

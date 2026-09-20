@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/9"
+verse: "43"
+reference: "SB 1.9.43"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/9/43/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.816866
+---
+
+# SB 1.9.43
+
+## Sanskrit
+
+सूत उवाच कृष्ण एवं भगवति मनोवाग्द‍ृष्टिवृत्तिभि: । आत्मन्यात्मानमावेश्य सोऽन्त:श्वास उपारमत् ॥ ४३ ॥
+
+## Transliteration
+
+*sūta uvāca kṛṣṇa evaṁ bhagavati mano-vāg-dṛṣṭi-vṛttibhiḥ ātmany ātmānam āveśya so ’ntaḥśvāsa upāramat*
+
+## Word-for-Word
+
+sūtaḥ uvāca — Sūta Gosvāmī said ; kṛṣṇe — Lord Kṛṣṇa, the Supreme Personality of Godhead ; evam — only ; bhagavati — unto Him ; manaḥ — with mind ; vāk — speech ; dṛṣṭi — sight ; vṛttibhiḥ — activities ; ātmani — unto the Supersoul ; ātmānam — the living being ; āveśya — having merged in ; saḥ — he ; antaḥ - śvāsaḥ — inhaling ; upāramat — became silent .
+
+## Translation
+
+Sūta Gosvāmī said: Thus Bhīṣmadeva merged himself in the Supersoul, Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, with his mind, speech, sight and actions, and thus he became silent, and his breathing stopped.
+
+## Purport
+
+The stage attained by Bhīṣmadeva while quitting his material body is called nirvikalpa-samādhi because he merged his self into thinking of the Lord and his mind into remembering His different activities. He chanted the glories of the Lord, and by his sight he began to see the Lord personally present before him, and thus all his activities became concentrated upon the Lord without deviation. This is the highest stage of perfection, and it is possible for everyone to attain this stage by practice of devotional service. The devotional service of the Lord consists of nine principles of service activities, and they are (1) hearing, (2) chanting, (3) remembering, (4) serving the lotus feet, (5) worshiping, (6) praying, (7) executing the orders, (8) fraternizing, and (9) fully surrendering. Any one of them or all of them are equally competent to award the desired result, but they require to be practiced persistently under the guidance of an expert devotee of the Lord. The first item, hearing, is the most important item of all, and therefore hearing of the Bhagavad-gītā and, later on, Śrīmad-Bhāgavatam is essential for the serious candidate who wants to attain the stage of Bhīṣmadeva at the end. The unique situation at Bhīṣmadeva’s time of death can be attained, even though Lord Kṛṣṇa may not be personally present. His words of the Bhagavad-gītā or those of Śrīmad-Bhāgavatam are identical with the Lord. They are sound incarnations of the Lord, and one can fully utilize them to be entitled to attain the stage of Śrī Bhīṣmadeva, who was one of the eight Vasus. Every man or animal must die at a certain stage of life, but one who dies like Bhīṣmadeva attains perfection, and one who dies forced by the laws of nature dies like an animal. That is the difference between a man and an animal. The human form of life is especially meant for dying like Bhīṣmadeva.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.9]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/9/43/)

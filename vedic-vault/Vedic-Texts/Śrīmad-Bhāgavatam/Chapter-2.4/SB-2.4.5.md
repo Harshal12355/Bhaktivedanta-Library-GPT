@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "2/4"
+verse: "5"
+reference: "SB 2.4.5"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/2/4/5/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.832473
+---
+
+# SB 2.4.5
+
+## Sanskrit
+
+राजोवाच समीचीनं वचो ब्रह्मन् सर्वज्ञस्य तवानघ । तमो विशीर्यते मह्यं हरे: कथयत: कथाम् ॥ ५ ॥
+
+## Transliteration
+
+*rājovāca samīcīnaṁ vaco brahman sarva-jñasya tavānagha tamo viśīryate mahyaṁ hareḥ kathayataḥ kathām*
+
+## Word-for-Word
+
+rājā uvāca — the King said ; samīcīnam — perfectly right ; vacaḥ — speeches ; brahman — O learned brāhmaṇa ; sarva - jñasya — one who knows all ; tava — your ; anagha — without any contamination ; tamaḥ — the darkness of ignorance ; viśīryate — gradually disappearing ; mahyam — unto me ; hareḥ — of the Lord ; kathayataḥ — as you are speaking ; kathām — topics .
+
+## Translation
+
+Mahārāja Parīkṣit said: O learned brāhmaṇa, you know everything because you are without material contamination. Therefore whatever you have spoken to me appears perfectly right. Your speeches are gradually destroying the darkness of my ignorance, for you are narrating the topics of the Lord.
+
+## Purport
+
+The practical experience of Mahārāja Parīkṣit is disclosed herein, revealing that transcendental topics of the Lord act like injections when received by the sincere devotee from a person who is perfectly uncontaminated by material tinges. In other words, reception of the messages of Śrīmad-Bhāgavatam from professional men, heard by a karma-kāṇḍīya audience, never acts miraculously as stated here. Devotional hearing of the messages of the Lord is not like hearing ordinary topics; therefore the action will be felt by the sincere hearer by experience of the gradual disappearance of ignorance. yasya deve parā bhaktir yathā deve tathā gurau tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ ( Śvetāśvatara Upaniṣad 6.23) When a hungry man is given food to eat, he feels satiation of hunger and the pleasure of dining simultaneously. Thus he does not have to ask whether he has actually been fed or not. The crucial test of hearing Śrīmad-Bhāgavatam is that one should get positive enlightenment by such an act.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 2.4]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/2/4/5/)

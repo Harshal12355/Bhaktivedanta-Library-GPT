@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/20"
+verse: "25"
+reference: "SB 3.20.25"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/20/25/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.904384
+---
+
+# SB 3.20.25
+
+## Sanskrit
+
+स उपव्रज्य वरदं प्रपन्नार्तिहरं हरिम् । अनुग्रहाय भक्तानामनुरूपात्मदर्शनम् ॥ २५ ॥
+
+## Transliteration
+
+*sa upavrajya varadaṁ prapannārti-haraṁ harim anugrahāya bhaktānām anurūpātma-darśanam*
+
+## Word-for-Word
+
+saḥ — Lord Brahmā ; upavrajya — approaching ; vara - dam — the bestower of all boons ; prapanna — of those taking shelter at His lotus feet ; ārti — distress ; haram — who dispels ; harim — Lord Śrī Hari ; anugrahāya — for showing mercy ; bhaktānām — to His devotees ; anurūpa — in suitable forms ; ātma - darśanam — who manifests Himself .
+
+## Translation
+
+He approached the Personality of Godhead, who bestows all boons and who dispels the agony of His devotees and of those who take shelter of His lotus feet. He manifests His innumerable transcendental forms for the satisfaction of His devotees.
+
+## Purport
+
+Here the words bhaktānām anurūpātma-darśanam mean that the Personality of Godhead manifests His multiforms according to the desires of the devotees. For example, Hanumānjī (Vajrāṅgajī) wanted to see the form of the Lord as the Personality of Godhead Rāmacandra, whereas other Vaiṣṇavas want to see the form of Rādhā-Kṛṣṇa, and still other devotees want to see the Lord in the form of Lakṣmī-Nārāyaṇa. The Māyāvādī philosophers think that although all these forms are assumed by the Lord just as the devotees desire to see Him, actually He is impersonal. From Brahma-saṁhitā, however, we can understand that this is not so, for the Lord has multiforms. It is said in the Brahma-saṁhitā, advaitam acyutam. The Lord does not appear before the devotee because of the devotee’s imagination. Brahma-saṁhitā further explains that the Lord has innumerable forms: rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan. He exists in millions and millions of forms. There are 8,400,000 spieces of living entities, but the incarnations of the Supreme Lord are innumerable. In the Bhāgavatam it is stated that as the waves in the sea cannot be counted but appear and disappear continually, the incarnations and forms of the Lord are innumerable. A devotee is attached to a particular form, and it is that form which he worships. We have just described the first appearance of the boar within this universe. There are innumerable universes, and somewhere or other the boar form is now existing. All the forms of the Lord are eternal. It is the devotee’s inclination to worship a particular form, and he engages in devotional service to that form. In a verse in the Rāmāyaṇa, Hanumān, the great devotee of Rāma, said, “I know that there is no difference between the Sītā-Rāma and Lakṣmī-Nārāyaṇa forms of the Supreme Personality of Godhead, but nevertheless, the form of Rāma and Sītā has absorbed my affection and love. Therefore I want to see the Lord in the forms of Rāma and Sītā.” Similarly, the Gauḍīya Vaiṣṇava loves the forms of Rādhā and Kṛṣṇa, and Kṛṣṇa and Rukmiṇī at Dvārakā. The words bhaktānām anurūpātma-darśanam mean that the Lord is always pleased to favor the devotee in the particular form in which the devotee wants to worship and render service unto Him. In this verse it is stated that Brahmā approached Hari, the Supreme Personality of Godhead. This form of the Lord is Kṣīrodakaśāyī Viṣṇu. Whenever there is some trouble and Brahmā has to approach the Lord, he can approach Kṣīrodakaśāyī Viṣṇu, and it is the grace of the Lord that whenever Brahmā approaches about disturbances in the universe, the Lord gives him relief in so many ways.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.20]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/20/25/)

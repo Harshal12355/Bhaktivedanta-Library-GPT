@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/23"
+verse: "22"
+reference: "SB 3.23.22"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/23/22/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.914402
+---
+
+# SB 3.23.22
+
+## Sanskrit
+
+ईद‍ृग्गृहं तत्पश्यन्तीं नातिप्रीतेन चेतसा । सर्वभूताशयाभिज्ञ: प्रावोचत्कर्दम: स्वयम् ॥ २२ ॥
+
+## Transliteration
+
+*īdṛg gṛhaṁ tat paśyantīṁ nātiprītena cetasā sarva-bhūtāśayābhijñaḥ prāvocat kardamaḥ svayam*
+
+## Word-for-Word
+
+īdṛk — such ; gṛham — house ; tat — that ; paśyantīm — looking at ; na atiprītena — not much pleased ; cetasā — with a heart ; sarva - bhūta — of everyone ; āśaya - abhijñaḥ — understanding the heart ; prāvocat — he addressed ; kardamaḥ — Kardama ; svayam — personally .
+
+## Translation
+
+When he saw Devahūti looking at the gigantic opulent palace with a displeased heart, Kardama Muni could understand her feelings because he could study the heart of anyone. Thus he personally addressed his wife as follows.
+
+## Purport
+
+Devahūti had spent a long time in the hermitage, not taking much care of her body. She was covered with dirt, and her clothing was not very nice. Kardama Muni was surprised that he could produce such a palace, and similarly his wife, Devahūti, was also astonished. How could she live in that opulent palace? Kardama Muni could understand her astonishment, and thus he spoke as follows.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.23]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/23/22/)

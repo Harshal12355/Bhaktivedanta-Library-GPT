@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/18"
+verse: "44"
+reference: "SB 1.18.44"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/18/44/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.790497
+---
+
+# SB 1.18.44
+
+## Sanskrit
+
+तदद्य न: पापमुपैत्यनन्वयं यन्नष्टनाथस्य वसोर्विलुम्पकात् । परस्परं घ्नन्ति शपन्ति वृञ्जते पशून् स्त्रियोऽर्थान् पुरुदस्यवो जना: ॥ ४४ ॥
+
+## Transliteration
+
+*tad adya naḥ pāpam upaity ananvayaṁ yan naṣṭa-nāthasya vasor vilumpakāt parasparaṁ ghnanti śapanti vṛñjate paśūn striyo ’rthān puru-dasyavo janāḥ*
+
+## Word-for-Word
+
+tat — for this reason ; adya — from this day ; naḥ — upon us ; pāpam — reaction of sin ; upaiti — will overtake ; ananvayam — disruption ; yat — because ; naṣṭa — abolished ; nāthasya — of the monarch ; vasoḥ — of wealth ; vilumpakāt — being plundered ; parasparam — between one another ; ghnanti — will kill ; śapanti — will do harm ; vṛñjate — will steal ; paśūn — animals ; striyaḥ — women ; arthān — riches ; puru — greatly ; dasyavaḥ — thieves ; janāḥ — the mass of people .
+
+## Translation
+
+Due to the termination of the monarchical regimes and the plundering of the people’s wealth by rogues and thieves, there will be great social disruptions. People will be killed and injured, and animals and women will be stolen. And for all these sins we shall be responsible.
+
+## Purport
+
+The word naḥ (we) is very significant in this verse. The sage rightly takes the responsibility of the brāhmaṇas as a community for killing monarchical government and thus giving an opportunity to the so-called democrats, who are generally plunderers of the wealth of the state subjects. The so-called democrats capture the administrative machine without assuming responsibility for the prosperous condition of the citizens. Everyone captures the post for personal gratification, and thus instead of one king, a number of irresponsible kings grow up to tax the citizens. It is foretold herein that in the absence of good monarchical government, everyone will be the cause of disturbance for others by plundering riches, animals, women, etc.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.18]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/18/44/)

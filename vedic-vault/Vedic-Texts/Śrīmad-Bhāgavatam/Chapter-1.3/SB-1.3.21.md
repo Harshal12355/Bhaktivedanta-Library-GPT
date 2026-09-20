@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/3"
+verse: "21"
+reference: "SB 1.3.21"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/3/21/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.796077
+---
+
+# SB 1.3.21
+
+## Sanskrit
+
+तत: सप्तदशे जात: सत्यवत्यां पराशरात् । चक्रे वेदतरो: शाखा द‍ृष्ट्वा पुंसोऽल्पमेधस: ॥ २१ ॥
+
+## Transliteration
+
+*tataḥ saptadaśe jātaḥ satyavatyāṁ parāśarāt cakre veda-taroḥ śākhā dṛṣṭvā puṁso ’lpa-medhasaḥ*
+
+## Word-for-Word
+
+tataḥ — thereafter ; saptadaśe — in the seventeenth incarnation ; jātaḥ — advented ; satyavatyām — in the womb of Satyavatī ; parāśarāt — by Parāśara Muni ; cakre — prepared ; veda - taroḥ — of the desire tree of the Vedas ; śākhāḥ — branches ; dṛṣṭvā — be seeing ; puṁsaḥ — the people in general ; alpa - medhasaḥ — less intelligent .
+
+## Translation
+
+Thereafter, in the seventeenth incarnation of Godhead, Śrī Vyāsadeva appeared in the womb of Satyavatī through Parāśara Muni, and he divided the one Veda into several branches and subbranches, seeing that the people in general were less intelligent.
+
+## Purport
+
+Originally the Veda is one. But Śrīla Vyāsadeva divided the original Veda into four, namely Sāma, Yajur, Ṛg, Atharva, and then again they were explained in different branches like the Purāṇas and the Mahābhārata. Vedic language and the subject matter are very difficult for ordinary men. They are understood by the highly intelligent and self-realized brāhmaṇas. But the present Age of Kali is full of ignorant men. Even those who are born by a brāhmaṇa father are, in the present age, no better than the śūdras or the women. The twice-born men, namely the brāhmaṇas, kṣatriyas and vaiśyas, are expected to undergo a cultural purificatory process known as saṁskāras, but because of the bad influence of the present age the so-called members of the brāhmaṇa and other high-order families are no longer highly cultured. They are called the dvija-bandhus, or the friends and family members of the twice-born. But these dvija-bandhus are classified amongst the śūdras and the women. Śrīla Vyāsadeva divided the Vedas into various branches and subbranches for the sake of the less intelligent classes like the dvija-bandhus, śūdras and women.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.3]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/3/21/)

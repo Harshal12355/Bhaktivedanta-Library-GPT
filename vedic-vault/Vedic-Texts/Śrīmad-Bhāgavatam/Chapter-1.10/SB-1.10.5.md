@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "1/10"
+verse: "5"
+reference: "SB 1.10.5"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/1/10/5/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.764304
+---
+
+# SB 1.10.5
+
+## Sanskrit
+
+नद्य: समुद्रा गिरय: सवनस्पतिवीरुध: । फलन्त्योषधय: सर्वा: काममन्वृतु तस्य वै ॥ ५ ॥
+
+## Transliteration
+
+*nadyaḥ samudrā girayaḥ savanaspati-vīrudhaḥ phalanty oṣadhayaḥ sarvāḥ kāmam anvṛtu tasya vai*
+
+## Word-for-Word
+
+nadyaḥ — rivers ; samudrāḥ — oceans ; girayaḥ — hills and mountains ; savanaspati — vegetables ; vīrudhaḥ — creepers ; phalanti — active ; oṣadhayaḥ — drugs ; sarvāḥ — all ; kāmam — necessities ; anvṛtu — seasonal ; tasya — for the King ; vai — certainly .
+
+## Translation
+
+The rivers, oceans, hills, mountains, forests, creepers and active drugs, in every season, paid their tax quota to the King in profusion.
+
+## Purport
+
+Since Mahārāja Yudhiṣṭhira was under the protection of the ajita, the infallible Lord, as above mentioned, the properties of the Lord, namely the rivers, oceans, hills, forests, etc., were all pleased, and they used to supply their respective quota of taxes to the King. The secret to success is to take refuge under the protection of the Supreme Lord. Without His sanction, nothing can be possible. To make economic development by our own endeavors on the strength of tools and machinery is not all. The sanction of the Supreme Lord must be there, otherwise despite all instrumental arrangements everything will be unsuccessful. The ultimate cause of success is the daiva, the Supreme. Kings like Mahārāja Yudhiṣṭhira knew perfectly well that the king is the agent of the Supreme Lord to look after the welfare of the mass of people. Actually the state belongs to the Supreme Lord. The rivers, oceans, forests, hills, drugs, etc., are not creations of man. They are all creations of the Supreme Lord, and the living being is allowed to make use of the property of the Lord for the service of the Lord. Today’s slogan is that everything is for the people, and therefore the government is for the people and by the people. But to produce a new species of humanity at the present moment on the basis of God consciousness and perfection of human life — the ideology of godly communism — the world has to again follow in the footsteps of kings like Mahārāja Yudhiṣṭhira or Parīkṣit. There is enough of everything by the will of the Lord, and we can make proper use of things to live comfortably without enmity between man and man, or man and animal, or man and nature. The control of the Lord is everywhere, and if the Lord is pleased, every part of nature will be pleased. The river will flow profusely to fertilize the land; the oceans will supply sufficient quantities of minerals, pearls and jewels; the forest will supply sufficient wood, drugs and vegetables, and the seasonal changes will effectively help produce fruits and flowers in profuse quantity. The artificial way of living depending on factories and tools can render so-called happiness only to a limited number at the cost of millions. Since the energy of the mass of people is engaged in factory production, the natural products are being hampered, and for this the mass is unhappy. Without being educated properly, the mass of people are following in the footsteps of the vested interests by exploiting natural reserves, and therefore there is acute competition between individual and individual and nation and nation. There is no control by the trained agent of the Lord. We must look into the defects of modern civilization by comparison here, and should follow in the footsteps of Mahārāja Yudhiṣṭhira to cleanse man and wipe out anachronisms.
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 1.10]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/1/10/5/)

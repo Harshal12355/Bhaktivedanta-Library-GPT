@@ -1,0 +1,42 @@
+---
+source_text: "Śrīmad-Bhāgavatam"
+book: "sb"
+chapter: "3/1"
+verse: "45"
+reference: "SB 3.1.45"
+themes: []
+tags: [sb, verse]
+source_url: "https://vedabase.io/en/library/sb/3/1/45/"
+copyright: "© ISKCON (Prabhupada)"
+verified: true
+confidence: "high"
+created: 2026-09-20T02:00:53.866181
+---
+
+# SB 3.1.45
+
+## Sanskrit
+
+तस्य प्रपन्नाखिललोकपाना- मवस्थितानामनुशासने स्वे । अर्थाय जातस्य यदुष्वजस्य वार्तां सखे कीर्तय तीर्थकीर्ते: ॥ ४५ ॥
+
+## Transliteration
+
+*tasya prapannākhila-lokapānām avasthitānām anuśāsane sve arthāya jātasya yaduṣv ajasya vārtāṁ sakhe kīrtaya tīrtha-kīrteḥ*
+
+## Word-for-Word
+
+tasya — His ; prapanna — surrendered ; akhila - loka - pānām — all rulers of the entire universe ; avasthitānām — situated in ; anuśāsane — under the control of ; sve — own self ; arthāya — for the interest of ; jātasya — of the born ; yaduṣu — in the family of the Yadus ; ajasya — of the unborn ; vārtām — topics ; sakhe — O my friend ; kīrtaya — please narrate ; tīrtha - kīrteḥ — of the Lord, whose glories are chanted in the places of pilgrimage .
+
+## Translation
+
+O my friend, please, therefore, chant the glories of the Lord, who is meant to be glorified in the places of pilgrimage. He is unborn, and yet He appears by His causeless mercy upon the surrendered rulers of all parts of the universe. Only for their interest did He appear in the family of His unalloyed devotees the Yadus.
+
+## Purport
+
+There are innumerable rulers all over the universe in different varieties of planets: the sun-god in the sun planet, the moon-god in the moon planet, Indra in the heavenly planet, Vāyu, Varuṇa, and those in the Brahmaloka planet, where Lord Brahmā is living. All are obedient servants of the Lord. Whenever there is any trouble in the administration of the innumerable planets in different universes, the rulers pray for an appearance, and the Lord appears. The Bhāgavatam (1.3.28) has already confirmed this in the following verse: ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayam indrāri-vyākulaṁ lokaṁ mṛḍayanti yuge yuge In every millennium, whenever there is any trouble for the obedient rulers, the Lord appears. He also appears for the sake of His pure unalloyed devotees. The surrendered rulers and the pure devotees are always strictly under the control of the Lord, and they are never disobedient to the desires of the Lord. The Lord is therefore always attentive to them. The purpose of pilgrimages is to remember the Lord constantly, and therefore the Lord is known as tīrtha-kīrti. The purpose of going to a place of pilgrimage is to get the chance to glorify the Lord. Even today, although times have changed, there are still pilgrimage sites in India. For example, in Mathurā and Vṛndāvana, where we had a chance to stay, people are awake from early in the morning at 4 A.M. up until nighttime and are constantly engaged, some way or other, in chanting the holy glories of the Lord. The beauty of such a pilgrimage site is that automatically one remembers the holy glories of the Lord. His name, fame, quality, form, pastimes and entourage are all identical to the Lord, and therefore chanting the glories of the Lord invokes the personal presence of the Lord. Any time or anywhere pure devotees meet and chant the glories of the Lord, the Lord is present without any doubt. It is said by the Lord Himself that He always stays where His pure devotees chant His glories. Thus end the Bhaktivedanta purports of the Third Canto, First Chapter, of the Śrīmad-Bhāgavatam, entitled “Questions by Vidura.”
+
+## References
+
+- [[Śrīmad-Bhāgavatam]]
+- [[Śrīmad-Bhāgavatam Chapter 3.1]]
+- [Read on vedabase.io](https://vedabase.io/en/library/sb/3/1/45/)
