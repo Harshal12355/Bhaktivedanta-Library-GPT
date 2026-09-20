@@ -15,6 +15,16 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
+def chapter_display(chapter) -> str:
+    """Render a chapter key for titles, links and paths.
+
+    Srimad-Bhagavatam keys a chapter "1/2" (canto 1, chapter 2). A slash would
+    read as a folder separator in both a wikilink and a path, so it becomes a
+    dot: "1.2".
+    """
+    return str(chapter).replace("/", ".")
+
+
 class ObsidianVaultGenerator:
     """Generate Obsidian vault from verse and concept data"""
 
@@ -27,7 +37,6 @@ class ObsidianVaultGenerator:
         self.folders = {
             "root": self.vault_path,
             "vedic_texts": self.vault_path / "Vedic-Texts",
-            "bhagavad_gita": self.vault_path / "Vedic-Texts" / "Bhagavad-Gita",
             "concepts": self.vault_path / "Concepts",
             "themes": self.vault_path / "Themes",
             "index": self.vault_path / "Index",
@@ -67,15 +76,21 @@ class ObsidianVaultGenerator:
         verse_num = verse_data.get("verse", "")
         sources = verse_data.get("sources", {})
         concepts = verse_data.get("concepts", [])
+        book_id = verse_data.get("book", "")
+        book_title = verse_data.get("book_title") or "Vedic Texts"
+        url = verse_data.get("url", "")
+        chapter_label = chapter_display(chapter)
 
         # YAML frontmatter
         frontmatter = f"""---
-source_text: "Bhagavad Gita"
-chapter: {chapter}
-verse: {verse_num}
+source_text: "{book_title}"
+book: "{book_id}"
+chapter: "{chapter}"
+verse: "{verse_num}"
 reference: "{reference}"
 themes: {json.dumps(concepts)}
-tags: [bhagavad-gita, verse]
+tags: [{book_id or "verse"}, verse]
+source_url: "{url}"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
@@ -87,11 +102,24 @@ created: {datetime.now().isoformat()}
         # Content
         content = f"# {reference}\n\n"
 
-        if sources.get("pdf"):
-            content += f"## Sanskrit\n\n{sources['pdf']}\n\n"
+        # The scraped Devanagari covers the whole corpus; the PDF extract holds
+        # only a handful of verses, so keying this section off it alone left it
+        # empty for all but a few notes.
+        sanskrit = sources.get("devanagari") or sources.get("pdf")
+        if sanskrit:
+            content += f"## Sanskrit\n\n{sanskrit}\n\n"
+
+        if sources.get("transliteration"):
+            content += f"## Transliteration\n\n*{sources['transliteration']}*\n\n"
+
+        if sources.get("synonyms"):
+            content += f"## Word-for-Word\n\n{sources['synonyms']}\n\n"
 
         if sources.get("translation"):
             content += f"## Translation\n\n{sources['translation']}\n\n"
+
+        if sources.get("purport"):
+            content += f"## Purport\n\n{sources['purport']}\n\n"
 
         if concepts:
             content += "## Related Concepts\n\n"
@@ -100,8 +128,10 @@ created: {datetime.now().isoformat()}
             content += "\n"
 
         content += f"## References\n\n"
-        content += f"- [[Bhagavad-Gita]]\n"
-        content += f"- [[Chapter {chapter}]]\n"
+        content += f"- [[{book_title}]]\n"
+        content += f"- [[{book_title} Chapter {chapter_label}]]\n"
+        if url:
+            content += f"- [Read on vedabase.io]({url})\n"
 
         return frontmatter + content
 
@@ -146,24 +176,22 @@ created: {datetime.now().isoformat()}
 
         return frontmatter + content
 
-    def generate_chapter_note(self, chapter_num: int) -> str:
+    def generate_chapter_note(self, book_id: str, book_title: str, chapter, verses_in_chapter: Dict) -> str:
         """Generate markdown for a chapter"""
-        verses_in_chapter = {
-            ref: data for ref, data in self.verses.items()
-            if data.get("chapter") == chapter_num
-        }
+        chapter_label = chapter_display(chapter)
 
         frontmatter = f"""---
-chapter: {chapter_num}
-source_text: "Bhagavad Gita"
+chapter: "{chapter}"
+book: "{book_id}"
+source_text: "{book_title}"
 verses: {len(verses_in_chapter)}
-tags: [chapter, bhagavad-gita]
+tags: [chapter, {book_id or "chapter"}]
 created: {datetime.now().isoformat()}
 ---
 
 """
 
-        content = f"# Chapter {chapter_num}\n\n"
+        content = f"# {book_title} Chapter {chapter_label}\n\n"
         content += f"## Verses ({len(verses_in_chapter)})\n\n"
 
         for verse_ref in sorted(verses_in_chapter.keys()):
@@ -196,22 +224,26 @@ created: {datetime.now().isoformat()}
         """Write verse notes to vault"""
         logger.info("Writing verse notes...")
 
-        # Group by chapter
+        # Group by book as well as chapter: chapter "1" exists in most books,
+        # so grouping on chapter alone would collapse every book's first
+        # chapter into one folder.
         by_chapter = {}
+        titles = {}
         for ref, data in self.verses.items():
-            chapter = data.get("chapter")
-            if chapter not in by_chapter:
-                by_chapter[chapter] = {}
-            by_chapter[chapter][ref] = data
+            book_id = data.get("book", "")
+            titles[book_id] = data.get("book_title") or "Vedic Texts"
+            by_chapter.setdefault((book_id, data.get("chapter")), {})[ref] = data
 
         # Create chapter folders and verse notes
-        for chapter, verses in sorted(by_chapter.items()):
-            chapter_folder = self.folders["bhagavad_gita"] / f"Chapter-{chapter}"
-            chapter_folder.mkdir(exist_ok=True)
+        for (book_id, chapter), verses in sorted(by_chapter.items(), key=lambda kv: (kv[0][0], str(kv[0][1]))):
+            book_title = titles[book_id]
+            book_folder = self.folders["vedic_texts"] / book_title
+            chapter_folder = book_folder / f"Chapter-{chapter_display(chapter)}"
+            chapter_folder.mkdir(parents=True, exist_ok=True)
 
-            # Write chapter index
-            chapter_note = self.generate_chapter_note(chapter)
-            chapter_file = chapter_folder / "_index.md"
+            # Write chapter index under the name the verse notes link to
+            chapter_note = self.generate_chapter_note(book_id, book_title, chapter, verses)
+            chapter_file = chapter_folder / f"{book_title} Chapter {chapter_display(chapter)}.md"
             chapter_file.write_text(chapter_note, encoding="utf-8")
 
             # Write individual verses
