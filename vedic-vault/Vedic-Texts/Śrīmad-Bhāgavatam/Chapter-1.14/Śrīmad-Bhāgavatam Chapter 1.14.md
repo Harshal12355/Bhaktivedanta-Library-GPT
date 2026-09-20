@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 41
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.776595
+created: 2026-09-20T02:32:20.354523
 ---
 
 # Śrīmad-Bhāgavatam Chapter 1.14

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/6/13-16/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.839819
+created: 2026-09-20T02:32:20.413544
 ---
 
 # SB 2.6.13-16

@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 24
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.832133
+created: 2026-09-20T02:32:20.407754
 ---
 
 # Śrīmad-Bhāgavatam Chapter 2.4

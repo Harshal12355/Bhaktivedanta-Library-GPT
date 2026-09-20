@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 33
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.936365
+created: 2026-09-20T02:32:20.504698
 ---
 
 # Śrīmad-Bhāgavatam Chapter 3.8

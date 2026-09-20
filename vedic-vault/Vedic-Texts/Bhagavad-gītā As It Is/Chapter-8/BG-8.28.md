@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/8/28/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.759448
+created: 2026-09-20T02:32:20.335601
 ---
 
 # BG 8.28

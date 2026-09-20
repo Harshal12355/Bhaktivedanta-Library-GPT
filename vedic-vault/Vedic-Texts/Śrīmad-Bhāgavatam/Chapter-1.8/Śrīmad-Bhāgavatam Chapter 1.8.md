@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 52
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.810058
+created: 2026-09-20T02:32:20.387634
 ---
 
 # Śrīmad-Bhāgavatam Chapter 1.8

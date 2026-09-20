@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/1/32-35/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.717725
+created: 2026-09-20T02:32:20.290761
 ---
 
 # BG 1.32-35

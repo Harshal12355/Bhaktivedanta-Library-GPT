@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 47
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.821100
+created: 2026-09-20T02:32:20.400438
 ---
 
 # Śrīmad-Bhāgavatam Chapter 2.10

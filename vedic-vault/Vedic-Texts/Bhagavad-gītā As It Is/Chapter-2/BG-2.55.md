@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/2/55/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.742002
+created: 2026-09-20T02:32:20.319083
 ---
 
 # BG 2.55

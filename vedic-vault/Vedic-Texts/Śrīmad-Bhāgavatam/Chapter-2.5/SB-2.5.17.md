@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/5/17/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.836521
+created: 2026-09-20T02:32:20.411112
 ---
 
 # SB 2.5.17

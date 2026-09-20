@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/1/2/22/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.794202
+created: 2026-09-20T02:32:20.373320
 ---
 
 # SB 1.2.22

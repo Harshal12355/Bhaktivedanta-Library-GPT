@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 50
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.842730
+created: 2026-09-20T02:32:20.415255
 ---
 
 # Śrīmad-Bhāgavatam Chapter 2.7

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/8/12/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.758607
+created: 2026-09-20T02:32:20.334643
 ---
 
 # BG 8.12

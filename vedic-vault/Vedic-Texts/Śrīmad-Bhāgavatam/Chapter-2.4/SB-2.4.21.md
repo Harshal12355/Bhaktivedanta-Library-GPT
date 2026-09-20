@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/4/21/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.834271
+created: 2026-09-20T02:32:20.409442
 ---
 
 # SB 2.4.21

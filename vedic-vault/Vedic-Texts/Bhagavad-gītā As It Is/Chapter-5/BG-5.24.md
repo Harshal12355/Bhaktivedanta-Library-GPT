@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/5/24/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.751418
+created: 2026-09-20T02:32:20.327955
 ---
 
 # BG 5.24

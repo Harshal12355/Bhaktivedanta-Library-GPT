@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/9/19/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.761061
+created: 2026-09-20T02:32:20.336997
 ---
 
 # BG 9.19

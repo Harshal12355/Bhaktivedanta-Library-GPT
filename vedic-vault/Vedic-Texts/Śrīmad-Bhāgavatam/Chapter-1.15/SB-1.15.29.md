@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/1/15/29/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.781511
+created: 2026-09-20T02:32:20.358784
 ---
 
 # SB 1.15.29

@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 29
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.782428
+created: 2026-09-20T02:32:20.360066
 ---
 
 # Śrīmad-Bhāgavatam Chapter 1.16

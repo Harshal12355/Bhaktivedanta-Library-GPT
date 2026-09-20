@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/2/13/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.739187
+created: 2026-09-20T02:32:20.316704
 ---
 
 # BG 2.13

@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 29
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.847373
+created: 2026-09-20T02:32:20.419717
 ---
 
 # Śrīmad-Bhāgavatam Chapter 2.8

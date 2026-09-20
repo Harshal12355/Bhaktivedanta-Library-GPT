@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/9/24/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.859553
+created: 2026-09-20T02:32:20.426119
 ---
 
 # SB 2.9.24

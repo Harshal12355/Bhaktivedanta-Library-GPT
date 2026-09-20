@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/3/4/30/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.924874
+created: 2026-09-20T02:32:20.494669
 ---
 
 # SB 3.4.30

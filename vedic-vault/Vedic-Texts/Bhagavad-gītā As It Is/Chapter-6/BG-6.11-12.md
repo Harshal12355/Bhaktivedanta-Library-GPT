@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/6/11-12/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.752781
+created: 2026-09-20T02:32:20.329880
 ---
 
 # BG 6.11-12

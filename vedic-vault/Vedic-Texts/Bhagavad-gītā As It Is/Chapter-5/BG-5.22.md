@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/5/22/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.751277
+created: 2026-09-20T02:32:20.327850
 ---
 
 # BG 5.22

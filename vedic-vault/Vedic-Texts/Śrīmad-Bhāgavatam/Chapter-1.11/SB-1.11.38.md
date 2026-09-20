@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/1/11/38/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.769636
+created: 2026-09-20T02:32:20.346866
 ---
 
 # SB 1.11.38

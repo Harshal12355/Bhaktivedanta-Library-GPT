@@ -4,7 +4,7 @@ book: "bg"
 source_text: "Bhagavad-gītā As It Is"
 verses: 42
 tags: [chapter, bg]
-created: 2026-09-20T02:00:53.751783
+created: 2026-09-20T02:32:20.328231
 ---
 
 # Bhagavad-gītā As It Is Chapter 6

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/4/6/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.746704
+created: 2026-09-20T02:32:20.323568
 ---
 
 # BG 4.6

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/9/2/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.759683
+created: 2026-09-20T02:32:20.335949
 ---
 
 # BG 9.2

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/3/22/35/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.912774
+created: 2026-09-20T02:32:20.483415
 ---
 
 # SB 3.22.35

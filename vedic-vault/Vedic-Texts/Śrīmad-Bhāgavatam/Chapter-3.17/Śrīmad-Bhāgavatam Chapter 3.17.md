@@ -4,7 +4,7 @@ book: "sb"
 source_text: "Śrīmad-Bhāgavatam"
 verses: 31
 tags: [chapter, sb]
-created: 2026-09-20T02:00:53.892931
+created: 2026-09-20T02:32:20.460892
 ---
 
 # Śrīmad-Bhāgavatam Chapter 3.17

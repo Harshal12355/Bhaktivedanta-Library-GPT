@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/7/30/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.845523
+created: 2026-09-20T02:32:20.417473
 ---
 
 # SB 2.7.30

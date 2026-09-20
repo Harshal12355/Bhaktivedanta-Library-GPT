@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/1/23/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.717162
+created: 2026-09-20T02:32:20.290174
 ---
 
 # BG 1.23

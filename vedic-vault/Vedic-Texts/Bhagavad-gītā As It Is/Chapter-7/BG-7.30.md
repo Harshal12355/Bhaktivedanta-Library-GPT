@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/7/30/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.757857
+created: 2026-09-20T02:32:20.333819
 ---
 
 # BG 7.30

@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "started_at": "2026-09-20T02:00:48.669868",
+    "started_at": "2026-09-19T22:18:59.803277",
     "status": "running"
   },
   "pdf_summary": {
     "status": "success",
-    "verses_count": null,
-    "statistics": null
+    "verses_count": 0,
+    "statistics": {}
   },
   "vedabase_summary": {
-    "status": "success",
+    "status": "failed",
     "books_count": null,
     "verses_count": null
   },
   "vanipedia_summary": {
     "status": "success",
-    "concepts_count": 30
+    "concepts_count": 1
   },
   "validation_report": {
-    "total_merged_verses": 2810,
-    "books_merged": 2,
-    "verses_with_translation": 2810,
-    "verses_with_purport": 2499,
-    "pdf_verses_attached": 7,
-    "pdf_verses_unmatched": 7,
-    "total_concepts": 30,
+    "total_merged_verses": 0,
+    "books_merged": 0,
+    "verses_with_translation": 0,
+    "verses_with_purport": 0,
+    "pdf_verses_attached": 0,
+    "pdf_verses_unmatched": 0,
+    "total_concepts": 1,
     "checks": {
-      "vedabase_verses_merged": true,
+      "vedabase_verses_merged": false,
       "every_verse_has_translation": true,
       "concepts_extracted": true
     }

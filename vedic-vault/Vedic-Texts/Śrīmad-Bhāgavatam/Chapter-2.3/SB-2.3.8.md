@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/2/3/8/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.830346
+created: 2026-09-20T02:32:20.406534
 ---
 
 # SB 2.3.8

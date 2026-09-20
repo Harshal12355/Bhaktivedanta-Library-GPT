@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/3/11/3/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.869191
+created: 2026-09-20T02:32:20.434673
 ---
 
 # SB 3.11.3

@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/4/18/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.747579
+created: 2026-09-20T02:32:20.324507
 ---
 
 # BG 4.18

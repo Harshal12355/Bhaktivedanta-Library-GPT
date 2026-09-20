@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/bg/6/17/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.753141
+created: 2026-09-20T02:32:20.330403
 ---
 
 # BG 6.17

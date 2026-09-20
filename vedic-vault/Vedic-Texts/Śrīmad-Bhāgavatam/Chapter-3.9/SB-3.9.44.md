@@ -10,7 +10,7 @@ source_url: "https://vedabase.io/en/library/sb/3/9/44/"
 copyright: "© ISKCON (Prabhupada)"
 verified: true
 confidence: "high"
-created: 2026-09-20T02:00:53.942243
+created: 2026-09-20T02:32:20.510546
 ---
 
 # SB 3.9.44
