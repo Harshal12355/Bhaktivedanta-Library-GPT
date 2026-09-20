@@ -205,7 +205,11 @@ class VedaBaseScraper:
         """
         chapter_key = path[prefix_len:].strip("/") or "1"
         existing = book_data["chapters"].get(chapter_key)
-        if existing and existing.get("complete"):
+        # The completeness shortcut must not apply at the root: a book's own path
+        # has no trailing segment, so it falls back to "1" and would collide with
+        # chapter 1 of any flat book, skipping the whole book once chapter 1 was
+        # done. The root costs one request to rule out, which is worth paying.
+        if depth > 0 and existing and existing.get("complete"):
             return 0
 
         verses = await self.fetch_chapter(path)
