@@ -154,45 +154,65 @@ class DataCollectionPipeline:
         vedabase_data = self.pipeline_data["vedabase_books"].get("data", {})
         concepts = self.pipeline_data["vanipedia_concepts"].get("concepts", {})
 
-        # Merge verses with cross-references
+        # VedaBase is the corpus, not a supplement: it carries every book, and
+        # the PDF covers only a handful of Bhagavad-gita verses, attached below
+        # where it overlaps. Keying on the scraper's reference ("BG 1.1",
+        # "SB 1.2.19") is what makes every book addressable - a bare
+        # chapter.verse key collides across books and cannot express
+        # Srimad-Bhagavatam's canto or Caitanya-caritamrta's lila level.
         merged = {}
-        merged_count = 0
-
-        for verse_key, pdf_verse in pdf_verses.items():
-            chapter = pdf_verse.get("chapter")
-            verse_num = pdf_verse.get("verse")
-
-            merged[verse_key] = {
-                "reference": f"BG {chapter}.{verse_num}",
-                "chapter": chapter,
-                "verse": verse_num,
-                "sources": {
-                    "pdf": pdf_verse.get("text", ""),
-                },
-                "concepts": [],
-            }
-            merged_count += 1
-
-        # Add VedaBase data if available
         for book_id, book in vedabase_data.get("books", {}).items():
-            for chapter_num, chapter in book.get("chapters", {}).items():
+            for chapter_key, chapter in book.get("chapters", {}).items():
                 for verse_num, verse in chapter.get("verses", {}).items():
-                    # Try to match with BG
-                    if book_id == "bhagavad-gita":
-                        key = f"{chapter_num}.{verse_num}"
-                        if key in merged:
-                            merged[key]["sources"]["vedabase"] = verse.get("translation")
+                    reference = verse.get("reference")
+                    if not reference:
+                        continue
+                    merged[reference] = {
+                        "reference": reference,
+                        "book": book_id,
+                        "book_title": book.get("title", ""),
+                        "chapter": chapter_key,
+                        "verse": verse_num,
+                        "url": verse.get("url", ""),
+                        # Keyed by content type rather than by provenance,
+                        # because the vault generator and the Phase B loader
+                        # both read sources["translation"].
+                        "sources": {
+                            "devanagari": verse.get("devanagari", ""),
+                            "transliteration": verse.get("transliteration", ""),
+                            "synonyms": verse.get("synonyms", ""),
+                            "translation": verse.get("translation", ""),
+                            "purport": verse.get("purport", ""),
+                        },
+                        "concepts": [],
+                    }
+
+        # The PDF extract keys a verse "BG-1.1" where the scraper renders the
+        # same verse "BG 1.1".
+        pdf_attached = 0
+        for pdf_key, pdf_verse in pdf_verses.items():
+            entry = merged.get(pdf_key.replace("-", " ", 1))
+            if entry is None:
+                continue
+            entry["sources"]["pdf"] = pdf_verse.get("text", "")
+            pdf_attached += 1
 
         self.pipeline_data["merged_verses"] = merged
 
+        with_translation = sum(1 for e in merged.values() if e["sources"]["translation"])
+
         # Validation report
         validation = {
-            "total_pdf_verses": len(pdf_verses),
-            "total_vedabase_books": len(vedabase_data.get("books", {})),
+            "total_merged_verses": len(merged),
+            "books_merged": len({e["book"] for e in merged.values()}),
+            "verses_with_translation": with_translation,
+            "verses_with_purport": sum(1 for e in merged.values() if e["sources"]["purport"]),
+            "pdf_verses_attached": pdf_attached,
+            "pdf_verses_unmatched": len(pdf_verses) - pdf_attached,
             "total_concepts": len(concepts),
-            "merged_verses": merged_count,
             "checks": {
-                "all_pdf_verses_merged": merged_count == len(pdf_verses),
+                "vedabase_verses_merged": len(merged) > 0,
+                "every_verse_has_translation": with_translation == len(merged),
                 "concepts_extracted": len(concepts) > 0,
             },
         }
